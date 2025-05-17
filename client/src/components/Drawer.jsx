@@ -1,26 +1,16 @@
-import * as React from 'react';
-import { useLocation, Link } from 'react-router-dom';
-import {
-  Box,
-  Drawer,
-  IconButton,
-  List,
-  ListItem,
-  ListItemButton,
-  ListItemIcon,
-  ListItemText,
-  Typography,
-} from '@mui/material';
+import * as React from "react";
+import { useLocation, Link } from "react-router-dom";
+import { Box, Drawer, IconButton, List, ListItem, ListItemButton, ListItemIcon, ListItemText, Typography } from "@mui/material";
 
-import HomeIcon from '@mui/icons-material/Home';
-import SummarizeIcon from '@mui/icons-material/Summarize';
-import StorefrontIcon from '@mui/icons-material/Storefront';
-import SettingsIcon from '@mui/icons-material/Settings';
-import LogoutIcon from '@mui/icons-material/Logout';
-import MenuIcon from '@mui/icons-material/Menu';
+import HomeIcon from "@mui/icons-material/Home";
+import SummarizeIcon from "@mui/icons-material/Summarize";
+import StorefrontIcon from "@mui/icons-material/Storefront";
+import SettingsIcon from "@mui/icons-material/Settings";
+import LogoutIcon from "@mui/icons-material/Logout";
+import MenuIcon from "@mui/icons-material/Menu";
 
-import '../styles/Drawer.css';
-import sfsllogo from '../assets/sfsl_logo.png';
+import "../../styles/Drawer.css";
+import sfsllogo from "../assets/sfsl_logo.png";
 
 const drawerWidth = 240;
 
@@ -48,17 +38,31 @@ function ResponsiveDrawer({ children }) {
   };
 
   const drawer = (
-    <div className="drawer">
+    <div
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        justifyContent: "space-between",
+        minHeight: "100vh",
+        maxHeight: "100vh", // Note: maxHeight might be redundant if minHeight is already 100vh and there's no overflow.
+        backgroundColor: "#2A371E", // Taken from your Drawer.css
+        color: "white", // Taken from your Drawer.css
+        alignItems: "center",
+        padding: "2rem 0", // Taken from your Drawer.css
+      }}>
       <Box
         sx={{
-          display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '1rem',
-        }}
-      >
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          padding: "1rem",
+        }}>
         <img
           src={sfsllogo}
           alt="sfsl-logo"
           style={{
-            maxWidth: '5rem', paddingBottom: '1rem',
+            maxWidth: "5rem",
+            paddingBottom: "1rem",
           }}
         />
         <Typography sx={{ fontWeight: 700 }}>
@@ -70,8 +74,8 @@ function ResponsiveDrawer({ children }) {
 
       {/* Navigation Links */}
       <List>
-        {['Dashboard', 'Inventory', 'Reports'].map((text, index) => {
-          const routePath = text.toLowerCase() === 'dashboard' ? '/' : `/${text.toLowerCase()}`;
+        {["Dashboard", "Inventory", "Reports"].map((text, index) => {
+          const routePath = text.toLowerCase() === "dashboard" ? "/" : `/${text.toLowerCase()}`;
           const isActive = location.pathname === routePath;
 
           return (
@@ -81,23 +85,23 @@ function ResponsiveDrawer({ children }) {
                 to={routePath}
                 sx={{
                   borderRadius: 2,
-                  color: isActive ? '#ffffff' : '#c0c0c0', // Subtle brightness for active tab
-                  '&:hover': { color: '#ffffff' }, // Lighter on hover
-                  transition: 'color 0.2s ease-in-out',
-                }}
-              >
+                  color: isActive ? "#ffffff" : "#c0c0c0", // Subtle brightness for active tab
+                  "&:hover": { color: "#ffffff" }, // Lighter on hover
+                  transition: "color 0.2s ease-in-out",
+                }}>
                 <ListItemIcon
                   sx={{
-                    color: isActive ? '#ffffff' : '#c0c0c0', minWidth: '40px',
-                  }}
-                >
+                    color: isActive ? "#ffffff" : "#c0c0c0",
+                    minWidth: "40px",
+                  }}>
                   {iconsMain[index]}
                 </ListItemIcon>
                 <ListItemText
                   primary={text}
                   sx={{
-                    fontWeight: isActive ? 'bold' : 'normal', // Slightly bolder text
-                    fontSize: isActive ? '1rem' : '0.95rem', transition: 'all 0.2s ease-in-out',
+                    fontWeight: isActive ? "bold" : "normal", // Slightly bolder text
+                    fontSize: isActive ? "1rem" : "0.95rem",
+                    transition: "all 0.2s ease-in-out",
                   }}
                 />
               </ListItemButton>
@@ -118,39 +122,27 @@ function ResponsiveDrawer({ children }) {
           </ListItem>
         ))} */}
       </List>
-      <List>
-      </List>
+      <List></List>
     </div>
   );
 
   return (
-    <Box sx={{ display: 'flex' }}>
+    <Box sx={{ display: "flex" }}>
       {/* Mobile menu button with absolute positioning */}
       <Box
         sx={{
-          position: 'absolute',
-          top: '16px',
-          left: '16px',
+          position: "absolute",
+          top: "16px",
+          left: "16px",
           zIndex: 1100,
-          display: { xs: 'block', sm: 'none' }
-        }}
-      >
-        <IconButton
-          color="inherit"
-          aria-label="open drawer"
-          edge="start"
-          onClick={handleDrawerToggle}
-          sx={{ color: '#000' }}
-        >
+          display: { xs: "block", sm: "none" },
+        }}>
+        <IconButton color="inherit" aria-label="open drawer" edge="start" onClick={handleDrawerToggle} sx={{ color: "#000" }}>
           <MenuIcon />
         </IconButton>
       </Box>
 
-      <Box
-        component="nav"
-        sx={{ width: { sm: drawerWidth }, flexShrink: { sm: 0 } }}
-        aria-label="mailbox folders"
-      >
+      <Box component="nav" sx={{ width: { sm: drawerWidth }, flexShrink: { sm: 0 } }} aria-label="mailbox folders">
         {/* Temporary Drawer */}
         <Drawer
           variant="temporary"
@@ -161,14 +153,13 @@ function ResponsiveDrawer({ children }) {
             keepMounted: true,
           }}
           sx={{
-            display: { xs: 'block', sm: 'none' },
-            '& .MuiDrawer-paper': {
-              boxSizing: 'border-box',
+            display: { xs: "block", sm: "none" },
+            "& .MuiDrawer-paper": {
+              boxSizing: "border-box",
               width: drawerWidth,
-              backgroundColor: '#2E3B1F',
+              backgroundColor: "#2E3B1F",
             },
-          }}
-        >
+          }}>
           {drawer}
         </Drawer>
 
@@ -176,15 +167,14 @@ function ResponsiveDrawer({ children }) {
         <Drawer
           variant="permanent"
           sx={{
-            display: { xs: 'none', sm: 'block' },
-            '& .MuiDrawer-paper': {
-              boxSizing: 'border-box',
+            display: { xs: "none", sm: "block" },
+            "& .MuiDrawer-paper": {
+              boxSizing: "border-box",
               width: drawerWidth,
-              backgroundColor: '#2E3B1F',
+              backgroundColor: "#2E3B1F",
             },
           }}
-          open
-        >
+          open>
           {drawer}
         </Drawer>
       </Box>
@@ -197,8 +187,7 @@ function ResponsiveDrawer({ children }) {
           p: 3,
           width: { sm: `calc(100% - ${drawerWidth}px)` },
           mt: { xs: 0, sm: 0 }, // Removed top margin
-        }}
-      >
+        }}>
         {children}
       </Box>
     </Box>
