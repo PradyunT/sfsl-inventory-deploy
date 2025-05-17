@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+prophet
+python-dateutil
+pymongo 
+python-dotenv
+scikit-learn

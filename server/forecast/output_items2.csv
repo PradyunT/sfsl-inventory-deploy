@@ -1,0 +1,2078 @@
+Object Id,str ItemNo,str ItemName,str Unit,int GrossWeight,int LastRestockQty,Int CurrentQty,date LastRestockDate,str Category,list[] History{ Object Id Purchase },"list[] Complimentary Items{ 1: ObjectId, 2: ObjectId }"
+OBJ1,AFI-0001-,AFI-0001- - Assorted Food (SAL),pcs,0,10,0,2024-11-01,Uncategorized,[],{}
+OBJ2,AFI-0001-D,AFI-0001-D - Assorted Food (SAL),pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ3,AFI-1001-Z,AFI-1001-Z - Assorted Frozen Food - 25# Box,pcs,0,1,0,2025-02-01,Uncategorized,[],{}
+OBJ4,AFI-1006-Z,"AFI-1006-Z - Assorted Frozen Food, Starbucks",pcs,0,10,0,2025-02-01,Uncategorized,[],{}
+OBJ5,AFI-1007-R,"AFI-1007-R - Assorted Refrigerated Food,",pcs,0,5,0,2025-02-01,Uncategorized,[],{}
+OBJ6,AFI-1081-D,"AFI-1081-D - Asst Condiments, Spreads & Spices",pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ7,AFI-1239-,AFI-1239- - Asst Dry Food Box (FEMA),pcs,0,5,0,2021-06-01,Uncategorized,[],{}
+OBJ8,AFI-1244-,AFI-1244- - Asst Pantry Staple Items,pcs,0,1,0,2022-07-01,Uncategorized,[],{}
+OBJ9,BAB-1001-,BAB-1001- - Assorted Flavor Baby Food,pcs,0,5,0,2020-12-01,Uncategorized,[],{}
+OBJ10,BAB-1002-,BAB-1002- - Beets & Thyme Baby Food,pcs,0,2,0,2019-02-01,Uncategorized,[],{}
+OBJ11,BAB-1084-D,BAB-1084-D - White Cheddar Rice Crackers,pcs,0,2,0,2016-01-01,Uncategorized,[],{}
+OBJ12,BAB-1208-C,BAB-1208-C - Pumpkin and Spinach Baby Food,pcs,0,4,0,2015-12-01,Uncategorized,[],{}
+OBJ13,BAB-1222-,BAB-1222- - Banana Pudding Grabbers,pcs,0,2,0,2017-05-01,Uncategorized,[],{}
+OBJ14,BAB-1222-D,BAB-1222-D - Banana Pudding Grabbers,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ15,BAB-1232-,"BAB-1232- - Apricot, Sweet Potato, and",pcs,0,5,0,2018-01-01,Uncategorized,[],{}
+OBJ16,BAB-1240-,"BAB-1240- - Apple, Kale, Avocado Fruit &",pcs,0,2,0,2018-04-01,Uncategorized,[],{}
+OBJ17,BAB-1242-,BAB-1242- - White Turkey Stew w/ Rice &,pcs,0,6,0,2018-08-01,Uncategorized,[],{}
+OBJ18,BAB-1243-,BAB-1243- - Prunes Organic Baby Food,pcs,0,1,0,2018-04-01,Uncategorized,[],{}
+OBJ19,BAB-1248-,BAB-1248- - Banana Sweet Potato Papaya,pcs,0,2,0,2018-05-01,Uncategorized,[],{}
+OBJ20,BAB-1250-,BAB-1250- - Organic Oatmeal Baby Food,pcs,0,4,0,2018-06-01,Uncategorized,[],{}
+OBJ21,BAB-1252-,BAB-1252- - Applesauce Baby Food,pcs,0,2,0,2018-11-01,Uncategorized,[],{}
+OBJ22,BAB-1254-,BAB-1254- - Very Berry Baby Food,pcs,0,6,0,2019-03-01,Uncategorized,[],{}
+OBJ23,BAB-1255-,BAB-1255- - Strawberry Banana Baby Food,pcs,0,4,0,2019-04-01,Uncategorized,[],{}
+OBJ24,BAB-1256-,BAB-1256- - Banana Blueberry Baby Food,pcs,0,4,0,2019-05-01,Uncategorized,[],{}
+OBJ25,BAB-1257-,BAB-1257- - Apple Sweet Potato w/,pcs,0,6,0,2019-10-01,Uncategorized,[],{}
+OBJ26,BAB-1258-,BAB-1258- - Organic Variety Pack Baby Food,pcs,0,4,0,2019-05-01,Uncategorized,[],{}
+OBJ27,BAB-1259-,BAB-1259- - Peaches & Cream Baby Food,pcs,0,2,0,2019-04-01,Uncategorized,[],{}
+OBJ28,BAB-1263-,BAB-1263- - Carrot Apple Mango Baby Food,pcs,0,4,0,2019-06-01,Uncategorized,[],{}
+OBJ29,BAB-1265-,BAB-1265- - Apple Wild Blueberry Baby Food,pcs,0,4,0,2019-06-01,Uncategorized,[],{}
+OBJ30,BAB-1268-,BAB-1268- - Banana Pear Zucchini Baby Food,pcs,0,4,0,2019-06-01,Uncategorized,[],{}
+OBJ31,BAB-1269-,BAB-1269- - Organic Apple Baby Food,pcs,0,4,0,2019-07-01,Uncategorized,[],{}
+OBJ32,BAB-1271-,BAB-1271- - Organic Pumpkin Banana Carrot,pcs,0,2,0,2019-07-01,Uncategorized,[],{}
+OBJ33,BAB-1272-,BAB-1272- - Apple Strawberry Beet Baby Food,pcs,0,4,0,2019-08-01,Uncategorized,[],{}
+OBJ34,BAB-1274-,BAB-1274- - Organic Pear Carrot Raspberry,pcs,0,6,0,2019-08-01,Uncategorized,[],{}
+OBJ35,BAB-1275-,BAB-1275- - Apple Strawberry Banana Baby,pcs,0,4,0,2019-08-01,Uncategorized,[],{}
+OBJ36,BAB-1276-,BAB-1276- - Mac & Cheese Baby Food,pcs,0,4,0,2019-10-01,Uncategorized,[],{}
+OBJ37,BAB-1277-,BAB-1277- - Herb Vegetable Pasta Baby Food,pcs,0,4,0,2019-09-01,Uncategorized,[],{}
+OBJ38,BAB-1280-,BAB-1280- - Organic Baby Cereal,pcs,0,6,0,2020-11-01,Uncategorized,[],{}
+OBJ39,BAB-1281-,BAB-1281- - Assorted Flavor Baby Food,pcs,0,3,0,2020-11-01,Uncategorized,[],{}
+OBJ40,BAB-1283-,BAB-1283- - Carrot Lentil Chickpea Puffs,pcs,0,3,0,2022-01-01,Uncategorized,[],{}
+OBJ41,BAB-1284-,BAB-1284- - Organic Infant Formula,pcs,0,4,0,2022-01-01,Uncategorized,[],{}
+OBJ42,BAB-1285-,BAB-1285- - Value Pack Baked Corn Snacks,pcs,0,2,0,2022-01-01,Uncategorized,[],{}
+OBJ43,BAB-1289-,"BAB-1289- - Pear, Banana, and Raspberry",pcs,0,4,0,2022-04-01,Uncategorized,[],{}
+OBJ44,BAB-1297-,"BAB-1297- - Organic Formula, 6-12 Months",pcs,0,20,0,2023-08-01,Uncategorized,[],{}
+OBJ45,BAB-1298-,BAB-1298- - Organic Meltable Puffs,pcs,0,10,0,2023-09-01,Uncategorized,[],{}
+OBJ46,BAB-1299-,BAB-1299- - Nido Pre-School (3-5 Years Old),pcs,0,5,0,2023-12-01,Uncategorized,[],{}
+OBJ47,BAB-1300-,BAB-1300- - Organic Banana Mango Puree,pcs,0,10,0,2023-12-01,Uncategorized,[],{}
+OBJ48,BAB-1305-,BAB-1305- - Apple Carrot Baby Food Pouches,pcs,0,50,0,2024-08-01,Uncategorized,[],{}
+OBJ49,BAB-1312-,BAB-1312- - Infant Formula Powder Similac,pcs,0,6,0,2024-12-01,Uncategorized,[],{}
+OBJ50,BAK-1035-,BAK-1035- - Homestyle Flour Tortillas,pcs,0,2,0,2019-11-01,Uncategorized,[],{}
+OBJ51,BAK-1063-,"BAK-1063- - 8"" Whole Grain Tortillas",pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ52,BAK-1069-,"BAK-1069- - 10"" Burrito Flour Tortillas (8",pcs,0,2,0,2018-06-01,Uncategorized,[],{}
+OBJ53,BAK-1070-,"BAK-1070- - 8"" Organic Flour Tortillas (8",pcs,0,5,0,2017-10-01,Uncategorized,[],{}
+OBJ54,BAK-1076-,BAK-1076- - Flour Tortillas,pcs,0,4,0,2019-07-01,Uncategorized,[],{}
+OBJ55,BAK-1076-R,"BAK-1076-R - 10"" Flour Tortillas",pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ56,BAK-1086-,BAK-1086- - Homestyle Flour Tortillas,pcs,0,3,0,2019-11-01,Uncategorized,[],{}
+OBJ57,BAK-1119-,BAK-1119- - Ultra Grain Tortillas,pcs,0,5,0,2019-06-01,Uncategorized,[],{}
+OBJ58,BAK-1138-R,BAK-1138-R - Flour Tortillas,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ59,BAK-1147-,BAK-1147- - Honey Wheat Tortillas,pcs,0,5,0,2019-01-01,Uncategorized,[],{}
+OBJ60,BAK-1163-,BAK-1163- - Low Fat Burrito Size Flour,pcs,0,5,0,2018-04-01,Uncategorized,[],{}
+OBJ61,BAK-1166-,BAK-1166- - Fajita Flour Tortillas,pcs,0,2,0,2018-07-01,Uncategorized,[],{}
+OBJ62,BAK-1169-,"BAK-1169- - 12"" Flour Tortillas",pcs,0,2,0,2018-11-01,Uncategorized,[],{}
+OBJ63,BAK-1170-,BAK-1170- - Flour Tortillas,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ64,BAK-1420-,BAK-1420- - Buttermilk Pancake Mix,pcs,0,10,0,2022-08-01,Uncategorized,[],{}
+OBJ65,BAK-1443-,BAK-1443- - Cookies & Cream Toaster,pcs,0,3,0,2019-01-01,Uncategorized,[],{}
+OBJ66,BAK-1444-,"BAK-1444- - Stuffing, Turkey, (Holiday)",pcs,0,21,0,2023-11-01,Uncategorized,[],{}
+OBJ67,BAK-1445-,BAK-1445- - Pancake Mix (FEMA),pcs,0,4,0,2018-05-01,Uncategorized,[],{}
+OBJ68,BAK-1456-,BAK-1456- - Cornbread Stuffing Mix,pcs,0,1,0,2018-07-01,Uncategorized,[],{}
+OBJ69,BAK-1457-,BAK-1457- - Herb Stuffing Mix,pcs,0,2,0,2018-08-01,Uncategorized,[],{}
+OBJ70,BAK-1460-,BAK-1460- - Pancake Mix (FEMA),pcs,0,2,0,2020-01-01,Uncategorized,[],{}
+OBJ71,BAK-1462-,BAK-1462- - Thin Italian Breadsticks,pcs,0,5,0,2019-02-01,Uncategorized,[],{}
+OBJ72,BAK-1466-,BAK-1466- - Cookie Mix,pcs,0,5,0,2019-06-01,Uncategorized,[],{}
+OBJ73,BAK-1480-,BAK-1480- - Pancake Mix (TANF),pcs,0,2,0,2022-07-01,Uncategorized,[],{}
+OBJ74,BAK-1485-,BAK-1485- - Complete Pancake Mix (FEMA),pcs,0,10,0,2021-11-01,Uncategorized,[],{}
+OBJ75,BAK-1491-,"BAK-1491- - Tortillas, White Corn, 6 IN, El",pcs,0,2,0,2025-02-01,Uncategorized,[],{}
+OBJ76,BAK-1496-,"BAK-1496- - Stuffing, Turkey, (PUR)",pcs,0,5,0,2023-06-01,Uncategorized,[],{}
+OBJ77,BAK-1498-,BAK-1498- - Mambo Italiano Croutons,pcs,0,6,0,2022-08-01,Uncategorized,[],{}
+OBJ78,BAK-1505-,BAK-1505- - Pancake Mix (TANF),pcs,0,10,0,2023-05-01,Uncategorized,[],{}
+OBJ79,BAK-1508-,BAK-1508- - Teriyaki Sheet Pan Dinner Starter,pcs,0,5,0,2023-07-01,Uncategorized,[],{}
+OBJ80,BAK-1510-,BAK-1510- - Mini Muffins - Confetti Cake &,pcs,0,10,0,2024-01-01,Uncategorized,[],{}
+OBJ81,BAK-1512-,BAK-1512- - Semi Sweet Chocolate Baking Bar,pcs,0,3,0,2024-05-01,Uncategorized,[],{}
+OBJ82,BAK-1513-,BAK-1513- - Smoky Bacon Flavor Mini,pcs,0,10,0,2024-05-01,Uncategorized,[],{}
+OBJ83,BAK-1520-,"BAK-1520- - Corn Muffin Mix, (FEMA-",pcs,0,18,0,2024-12-01,Uncategorized,[],{}
+OBJ84,BAK-1522-,BAK-1522- - Pure Almond Extract,pcs,0,4,0,2025-02-01,Uncategorized,[],{}
+OBJ85,BAK-1523-,"BAK-1523- - Pure Almond Extract, Large",pcs,0,10,0,2025-02-01,Uncategorized,[],{}
+OBJ86,BAK-1560-,"BAK-1560- - 8"" Whole Wheat Tortillas",pcs,0,5,0,2017-10-01,Uncategorized,[],{}
+OBJ87,BAK-1568-,BAK-1568- - Assorted Frozen Tortillas,pcs,0,5,0,2019-10-01,Uncategorized,[],{}
+OBJ88,BAK-1572-,BAK-1572- - Honeywheat English Muffins,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ89,BAK-1574-,BAK-1574- - Sourdough Panini Bread,pcs,0,2,0,2018-01-01,Uncategorized,[],{}
+OBJ90,BAK-1575-,BAK-1575- - Whole Wheat Mini Slider Rolls,pcs,0,4,0,2018-02-01,Uncategorized,[],{}
+OBJ91,BAK-1576-,BAK-1576- - Blue Corn Tortillas,pcs,0,4,0,2018-01-01,Uncategorized,[],{}
+OBJ92,BAK-1577-,BAK-1577- - Red Corn Tortillas,pcs,0,3,0,2018-01-01,Uncategorized,[],{}
+OBJ93,BAK-1578-,BAK-1578- - 9 Grain Bread w/ Multigrain,pcs,0,2,0,2018-01-01,Uncategorized,[],{}
+OBJ94,BAK-1579-,BAK-1579- - Pumpkin Petite Stuffed Bagels,pcs,0,4,0,2018-03-01,Uncategorized,[],{}
+OBJ95,BAK-1581-,BAK-1581- - Assorted Frozen Tortillas,pcs,0,4,0,2020-01-01,Uncategorized,[],{}
+OBJ96,BAK-1594-,BAK-1594- - Hawaiian Sweet Jalapeno Rolls,pcs,0,4,0,2018-11-01,Uncategorized,[],{}
+OBJ97,BAK-1628-,BAK-1628- - Pie Crusts,pcs,0,5,0,2023-04-01,Uncategorized,[],{}
+OBJ98,BAK-1635-,BAK-1635- - Hero 12 Inch Sub Rolls,pcs,0,3,0,2022-02-01,Uncategorized,[],{}
+OBJ99,BAK-1636-,"BAK-1636- - 8"" Whole Wheat Tortillas (USDA)",pcs,0,4,0,2022-10-01,Uncategorized,[],{}
+OBJ100,BAK-1646-,BAK-1646- - Flour Tortillas,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ101,BAK-1651-,BAK-1651- - Keto Toaster Waffles,pcs,0,5,0,2023-06-01,Uncategorized,[],{}
+OBJ102,BAK-1652-,BAK-1652- - English Muffins - Brioche,pcs,0,3,0,2023-06-01,Uncategorized,[],{}
+OBJ103,BAK-1679-,BAK-1679- - Corn Flour Blend Tortillas,pcs,0,5,0,2024-11-01,Uncategorized,[],{}
+OBJ104,BCP-1011-,BCP-1011- - Diapers - Size Six (PUR),pcs,0,3,0,2021-12-01,Uncategorized,[],{}
+OBJ105,BCP-1019-,BCP-1019- - Diapers -,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ106,BEV-1116-,BEV-1116- - Simply Lemonade,pcs,0,5,0,2019-04-01,Uncategorized,[],{}
+OBJ107,BEV-1121-,BEV-1121- - Apple Cider,pcs,0,5,0,2017-11-01,Uncategorized,[],{}
+OBJ108,BEV-1123-,BEV-1123- - Chocolate Protein Shake,pcs,0,6,0,2017-12-01,Uncategorized,[],{}
+OBJ109,BEV-1124-,BEV-1124- - Blended Coffee Protein Shake,pcs,0,4,0,2018-01-01,Uncategorized,[],{}
+OBJ110,BEV-1125-,BEV-1125- - Vanilla Chai Tea,pcs,0,5,0,2024-09-01,Uncategorized,[],{}
+OBJ111,BEV-1128-,BEV-1128- - Strawberry Smoothie,pcs,0,4,0,2018-01-01,Uncategorized,[],{}
+OBJ112,BEV-1136-,BEV-1136- - Green Machine Naked Juice,pcs,0,4,0,2018-03-01,Uncategorized,[],{}
+OBJ113,BEV-1151-,BEV-1151- - Simply Cranberry Cocktail,pcs,0,5,0,2018-09-01,Uncategorized,[],{}
+OBJ114,BEV-1153-,BEV-1153- - Coconut Water,pcs,0,8,0,2019-02-01,Uncategorized,[],{}
+OBJ115,BEV-1163-,BEV-1163- - Lavender Melon Kombucha,pcs,0,3,0,2019-06-01,Uncategorized,[],{}
+OBJ116,BEV-1167-,BEV-1167- - Chocolate Protein Shake,pcs,0,6,0,2019-09-01,Uncategorized,[],{}
+OBJ117,BEV-1168-,BEV-1168- - Lower Sugar Green Smoothie,pcs,0,2,0,2019-11-01,Uncategorized,[],{}
+OBJ118,BEV-1169-,BEV-1169- - Lower Sugar Strawberry Banana,pcs,0,3,0,2020-01-01,Uncategorized,[],{}
+OBJ119,BEV-1185-,BEV-1185- - Banana Nut Protein Smoothie,pcs,0,4,0,2020-11-01,Uncategorized,[],{}
+OBJ120,BEV-1199-,BEV-1199- - Vanilla Chai Tea,pcs,0,5,0,2024-08-01,Uncategorized,[],{}
+OBJ121,BEV-1207-,BEV-1207- - Chocolate Banana Protein Plus,pcs,0,2,0,2022-07-01,Uncategorized,[],{}
+OBJ122,BEV-1229-,BEV-1229- - Golden Goodness Vegetable,pcs,0,10,0,2023-07-01,Uncategorized,[],{}
+OBJ123,BEV-1231-,BEV-1231- - Organic Superfruit Greens Juice,pcs,0,3,0,2024-02-01,Uncategorized,[],{}
+OBJ124,BEV-1239-,BEV-1239- - Pumpkin Spice Latte,pcs,0,10,0,2024-11-01,Uncategorized,[],{}
+OBJ125,BEV-1242-,BEV-1242- - Green Goodness Juice,pcs,0,10,0,2024-03-01,Uncategorized,[],{}
+OBJ126,BEV-1244-,BEV-1244- - Daily Greens Fruit & Vegetable,pcs,0,10,0,2024-04-01,Uncategorized,[],{}
+OBJ127,BEV-1249-,BEV-1249- - Pineapple Beet Passion Fruit,pcs,0,10,0,2024-07-01,Uncategorized,[],{}
+OBJ128,BEV-1257-,BEV-1257- - Evolution Fresh Real Fruit Soda,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ129,BEV-1263-,BEV-1263- - Lemon Lime Soda,pcs,0,5,0,2024-11-01,Uncategorized,[],{}
+OBJ130,BEV-1266-,BEV-1266- - Gold Peak Sweet Tea,pcs,0,10,0,2024-12-01,Uncategorized,[],{}
+OBJ131,BEV-1524-,BEV-1524- - Beverage Assortment (SAL),pcs,0,3,0,2018-01-01,Uncategorized,[],{}
+OBJ132,BEV-1921-,BEV-1921- - Kids Strawberry Swirly Smoothie,pcs,0,5,0,2017-05-01,Uncategorized,[],{}
+OBJ133,BEV-1921-D,BEV-1921-D - Kids Strawberry Swirly Smoothie,pcs,0,5,0,2017-05-01,Uncategorized,[],{}
+OBJ134,BEV-1927-,BEV-1927- - Nourishing Pure Chocolate,pcs,0,5,0,2017-06-01,Uncategorized,[],{}
+OBJ135,BEV-1930-,BEV-1930- - Fruit Punch Powerade Drink,pcs,0,5,0,2017-05-01,Uncategorized,[],{}
+OBJ136,BEV-1930-D,BEV-1930-D - Fruit Punch Powerade Drink Powder,pcs,0,5,0,2017-05-01,Uncategorized,[],{}
+OBJ137,BEV-1939-,BEV-1939- - Brain Tropical Toniq Water,pcs,0,10,0,2017-10-01,Uncategorized,[],{}
+OBJ138,BEV-1940-,BEV-1940- - Black Currant Immuno Toniq,pcs,0,6,0,2017-12-01,Uncategorized,[],{}
+OBJ139,BEV-1966-,BEV-1966- - Sparkling Lemon Beverage,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ140,BEV-1983-,BEV-1983- - Powerade Zero Mixed Berry,pcs,0,5,0,2018-03-01,Uncategorized,[],{}
+OBJ141,BEV-2007-,BEV-2007- - Amaretto Cocoa Mix,pcs,0,2,0,2018-06-01,Uncategorized,[],{}
+OBJ142,BEV-2008-,BEV-2008- - Peach Flavored Aloe Beverage,pcs,0,1,0,2018-07-01,Uncategorized,[],{}
+OBJ143,BEV-2012-,BEV-2012- - Pineapple Flavored Coconut Oil,pcs,0,4,0,2018-08-01,Uncategorized,[],{}
+OBJ144,BEV-2016-,BEV-2016- - Assorted Flavored Iced Tea,pcs,0,5,0,2018-11-01,Uncategorized,[],{}
+OBJ145,BEV-2019-,BEV-2019- - Peach Aloe Vera Drink,pcs,0,5,0,2018-12-01,Uncategorized,[],{}
+OBJ146,BEV-2021-,BEV-2021- - Almond Joy Flavored Hot,pcs,0,5,0,2019-05-01,Uncategorized,[],{}
+OBJ147,BEV-2035-,BEV-2035- - Lime Cactus Juice,pcs,0,6,0,2019-09-01,Uncategorized,[],{}
+OBJ148,BEV-2060-,BEV-2060- - Peach Iced Tea,pcs,0,2,0,2020-09-01,Uncategorized,[],{}
+OBJ149,BEV-2073-,BEV-2073- - Decaffeinated Black Tea,pcs,0,3,0,2020-10-01,Uncategorized,[],{}
+OBJ150,BEV-2088-,BEV-2088- - Assorted Flavor Tea Bags,pcs,0,3,0,2021-07-01,Uncategorized,[],{}
+OBJ151,BEV-2090-,BEV-2090- - Cafe Mocha Plant Protein Shake,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ152,BEV-2094-,BEV-2094- - Pineapple Orange Juice,pcs,0,3,0,2022-10-01,Uncategorized,[],{}
+OBJ153,BEV-2117-,BEV-2117- - Pineapple Orange,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ154,BEV-2145-,BEV-2145- - V8 Splash Tropical Blend,pcs,0,10,0,2022-10-01,Uncategorized,[],{}
+OBJ155,BEV-2148-,BEV-2148- - Breakfast Essentials - Strawberry,pcs,0,3,0,2022-11-01,Uncategorized,[],{}
+OBJ156,BEV-2151-,BEV-2151- - Pau D'Arco Caffeine Free Tea,pcs,0,5,0,2022-11-01,Uncategorized,[],{}
+OBJ157,BEV-2154-,BEV-2154- - Mellow Nightime Herbal Tea,pcs,0,5,0,2022-12-01,Uncategorized,[],{}
+OBJ158,BEV-2158-,BEV-2158- - Organic Deep Black Tea Bags,pcs,0,5,0,2022-12-01,Uncategorized,[],{}
+OBJ159,BEV-2160-,BEV-2160- - Variety Pack Sport Drink,pcs,0,6,0,2023-02-01,Uncategorized,[],{}
+OBJ160,BEV-2163-,BEV-2163- - Lemon Ginger Multiplier Energy,pcs,0,3,0,2023-04-01,Uncategorized,[],{}
+OBJ161,BEV-2172-,BEV-2172- - Organic Classic Chai Tea Latte -,pcs,0,3,0,2023-07-01,Uncategorized,[],{}
+OBJ162,BEV-2174-,BEV-2174- - Green Kick Tea Bags,pcs,0,5,0,2023-08-01,Uncategorized,[],{}
+OBJ163,BEV-2178-,BEV-2178- - Heavenly Hip Hibiscus Tea Bags,pcs,0,5,0,2023-08-01,Uncategorized,[],{}
+OBJ164,BEV-2180-,BEV-2180- - Assorted Flavored Sparkling,pcs,0,3,0,2023-10-01,Uncategorized,[],{}
+OBJ165,BEV-2195-,BEV-2195- - Mixed Berry Protein Smoothie,pcs,0,5,0,2023-11-01,Uncategorized,[],{}
+OBJ166,BEV-2199-,BEV-2199- - PediaSure With Fiber Vanilla,pcs,0,5,0,2024-05-01,Uncategorized,[],{}
+OBJ167,BEV-2200-,BEV-2200- - PediaSure With Fiber Strawberry,pcs,0,5,0,2024-01-01,Uncategorized,[],{}
+OBJ168,BEV-2201-,BEV-2201- - PediaSure w/Fiber - Strawberry,pcs,0,4,0,2024-01-01,Uncategorized,[],{}
+OBJ169,BEV-2204-,BEV-2204- - Chocolate Super Food Protein,pcs,0,6,0,2024-01-01,Uncategorized,[],{}
+OBJ170,BEV-2207-,BEV-2207- - Macadamia Milk & Black Tea,pcs,0,3,0,2024-04-01,Uncategorized,[],{}
+OBJ171,BEV-2212-,BEV-2212- - PediaSure w/Fiber - Vanilla,pcs,0,6,0,2024-07-01,Uncategorized,[],{}
+OBJ172,BEV-2216-,BEV-2216- - V8 Plus Energy Juice - Pineapple,pcs,0,5,0,2024-05-01,Uncategorized,[],{}
+OBJ173,BEV-2222-,BEV-2222- - Olipop Classic Root Beer,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ174,BEV-2228-,BEV-2228- - Vanilla Latte With Oat Milk,pcs,0,20,0,2024-08-01,Uncategorized,[],{}
+OBJ175,BEV-2230-,BEV-2230- - Berry Blast Remedy Kombucha,pcs,0,4,0,2024-08-01,Uncategorized,[],{}
+OBJ176,BEV-2231-,BEV-2231- - Tropical Twist Remedy Energy,pcs,0,10,0,2024-08-01,Uncategorized,[],{}
+OBJ177,BEV-2232-,BEV-2232- - Golds Superfood Powder -,pcs,0,10,0,2024-09-01,Uncategorized,[],{}
+OBJ178,BEV-2235-,BEV-2235- - Macadamia Milk & Black Tea,pcs,0,30,0,2024-10-01,Uncategorized,[],{}
+OBJ179,BEV-2236-,BEV-2236- - Winter Mint Chocolate High,pcs,0,20,0,2024-10-01,Uncategorized,[],{}
+OBJ180,BEV-2238-,BEV-2238- - Ghost Energy Drink - Assorted,pcs,0,6,0,2024-11-01,Uncategorized,[],{}
+OBJ181,BEV-2239-,BEV-2239- - Orange Squeeze Hydration Drink,pcs,0,10,0,2024-11-01,Uncategorized,[],{}
+OBJ182,BEV-2240-,BEV-2240- - Kiwi Strawberry Ghost Hydration,pcs,0,5,0,2024-12-01,Uncategorized,[],{}
+OBJ183,BEV-2241-,BEV-2241- - Sour Patch Red Berry Drink,pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ184,BEV-2244-,BEV-2244- - Protality Nutrition Shake - Vanilla,pcs,0,3,0,2025-02-01,Uncategorized,[],{}
+OBJ185,BEV-2253-,BEV-2253- - Grass-Fed Protein Shake -,pcs,0,16,0,2025-02-01,Uncategorized,[],{}
+OBJ186,BFO-1004-,BFO-1004- - Similac Baby Formula Powder -,pcs,0,25,0,2024-08-01,Uncategorized,[],{}
+OBJ187,BRD-1000-,BRD-1000- - White Enriched Bread,pcs,0,5,0,2020-07-01,Uncategorized,[],{}
+OBJ188,BRD-1023-,BRD-1023- - Assorted Bakery Products,pcs,0,20,0,2025-02-01,Uncategorized,[],{}
+OBJ189,BRD-1023-D,BRD-1023-D - Assorted Bread,pcs,0,3,0,2016-01-01,Uncategorized,[],{}
+OBJ190,BRD-1023-Z,"BRD-1023-Z - Assorted Bread Loaves, Buns &",pcs,0,14,0,2017-05-01,Uncategorized,[],{}
+OBJ191,BRD-1334-,BRD-1334- - Brioche Buns,pcs,0,4,0,2018-03-01,Uncategorized,[],{}
+OBJ192,BRD-1349-,BRD-1349- - Hamburger Buns,pcs,0,5,0,2021-10-01,Uncategorized,[],{}
+OBJ193,BRD-1356-,BRD-1356- - UDI's Multigrain Gluten Free,pcs,0,10,0,2022-10-01,Uncategorized,[],{}
+OBJ194,CAN-0206,"CAN-0206 - Asst Candy, Cookies, Snacks &",pcs,0,3,0,2020-10-01,Uncategorized,[],{}
+OBJ195,CER-0001-,CER-0001- - Cereal Assorted (SAL),pcs,0,10,0,2018-07-01,Uncategorized,[],{}
+OBJ196,CER-1032-,CER-1032- - Corn Flakes (USDA),pcs,0,1,0,2018-09-01,Uncategorized,[],{}
+OBJ197,CER-1686-,CER-1686- - Natural Toasted O's Cereal (PUR),pcs,0,6,0,2021-03-01,Uncategorized,[],{}
+OBJ198,CER-1687-,"CER-1687- - Cereal, Corn Flakes, (PUR)",pcs,0,14,0,2025-02-01,Uncategorized,[],{}
+OBJ199,CER-1697-,CER-1697- - Oatmeal (SUB),pcs,0,1,0,2019-09-01,Uncategorized,[],{}
+OBJ200,CER-1837-,"CER-1837- - Cereal, Crisp Rice, (PUR)",pcs,0,4,0,2025-02-01,Uncategorized,[],{}
+OBJ201,CER-1861-,CER-1861- - Enriched Farina Hot Wheat,pcs,0,2,0,2019-04-01,Uncategorized,[],{}
+OBJ202,CER-1871-,CER-1871- - Quick Oats (PUR),pcs,0,1,0,2018-01-01,Uncategorized,[],{}
+OBJ203,CER-1963-,CER-1963- - Bran Flakes Cereal (PUR),pcs,0,4,0,2017-09-01,Uncategorized,[],{}
+OBJ204,CER-1981-,CER-1981- - Corn Flakes (PUR),pcs,0,6,0,2020-01-01,Uncategorized,[],{}
+OBJ205,CER-2003-,"CER-2003- - Cereal, Multigrain O's, (PUR)",pcs,0,15,0,2023-10-01,Uncategorized,[],{}
+OBJ206,CER-2017-,CER-2017- - Trix Cereal,pcs,0,3,0,2017-06-01,Uncategorized,[],{}
+OBJ207,CER-2017-D,CER-2017-D - Trix,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ208,CER-2020-,CER-2020- - Crisp Rice Cereal (USDA),pcs,0,1,0,2017-09-01,Uncategorized,[],{}
+OBJ209,CER-2021-,CER-2021- - Rolled Oats (USDA),pcs,0,1,0,2018-01-01,Uncategorized,[],{}
+OBJ210,CER-2022-,CER-2022- - Oat Circles Cereal (USDA),pcs,0,2,0,2022-11-01,Uncategorized,[],{}
+OBJ211,CER-2023-,CER-2023- - Bran Flakes Cereal (USDA),pcs,0,2,0,2017-12-01,Uncategorized,[],{}
+OBJ212,CER-2024-,CER-2024- - Shredded Wheat Cereal (USDA),pcs,0,3,0,2021-06-01,Uncategorized,[],{}
+OBJ213,CER-2025-,CER-2025- - Corn Squares Cereal (USDA),pcs,0,1,0,2018-02-01,Uncategorized,[],{}
+OBJ214,CER-2033-,CER-2033- - Frosted Mini Spooners Cereal,pcs,0,3,0,2019-07-01,Uncategorized,[],{}
+OBJ215,CER-2041-,CER-2041- - Honey Buzzers Cereal,pcs,0,3,0,2018-01-01,Uncategorized,[],{}
+OBJ216,CER-2046-,CER-2046- - Raisin Bran Cereal,pcs,0,3,0,2018-04-01,Uncategorized,[],{}
+OBJ217,CER-2048-,CER-2048- - Honeycomb Cereal,pcs,0,1,0,2017-09-01,Uncategorized,[],{}
+OBJ218,CER-2070-,CER-2070- - Oatmeal (FEMA),pcs,0,4,0,2018-03-01,Uncategorized,[],{}
+OBJ219,CER-2073-,CER-2073- - Honey Wheat Puffs,pcs,0,5,0,2017-10-01,Uncategorized,[],{}
+OBJ220,CER-2086-,CER-2086- - Cocoa Pebbles Cereal,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ221,CER-2089-,CER-2089- - Raisin Bran Cereal,pcs,0,3,0,2017-10-01,Uncategorized,[],{}
+OBJ222,CER-2102-,CER-2102- - Honey Nut Crispy Oats Cereal,pcs,0,3,0,2018-09-01,Uncategorized,[],{}
+OBJ223,CER-2109-,CER-2109- - Bite Size Shredded Wheat (PUR),pcs,0,3,0,2021-10-01,Uncategorized,[],{}
+OBJ224,CER-2114-,CER-2114- - Honey Roasted Honey Bunches,pcs,0,4,0,2018-07-01,Uncategorized,[],{}
+OBJ225,CER-2116-,CER-2116- - Raisin Bran Clusters Cereal,pcs,0,5,0,2018-08-01,Uncategorized,[],{}
+OBJ226,CER-2117-,CER-2117- - Honey Bunches of Oats w/,pcs,0,4,0,2018-08-01,Uncategorized,[],{}
+OBJ227,CER-2119-,CER-2119- - Frosted Mini Spooners Cereal,pcs,0,3,0,2017-12-01,Uncategorized,[],{}
+OBJ228,CER-2127-,CER-2127- - Raisin Bran Cereal (PUR),pcs,0,5,0,2020-09-01,Uncategorized,[],{}
+OBJ229,CER-2134-,CER-2134- - Honey Roasted Honey Bunches,pcs,0,2,0,2018-08-01,Uncategorized,[],{}
+OBJ230,CER-2135-,CER-2135- - Honey Graham Toasters Cereal,pcs,0,3,0,2019-08-01,Uncategorized,[],{}
+OBJ231,CER-2138-,CER-2138- - Cocoa Pebbles,pcs,0,2,0,2018-01-01,Uncategorized,[],{}
+OBJ232,CER-2147-,CER-2147- - Frosted Mini Spooner,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ233,CER-2151-,CER-2151- - Cinnamon Toasters Cereal,pcs,0,2,0,2018-02-01,Uncategorized,[],{}
+OBJ234,CER-2154-,CER-2154- - Strawberry Cream Mini Spooners,pcs,0,4,0,2018-04-01,Uncategorized,[],{}
+OBJ235,CER-2156-,CER-2156- - Frosted Mini Spooners Cereal,pcs,0,3,0,2018-04-01,Uncategorized,[],{}
+OBJ236,CER-2166-,CER-2166- - Honey Bunches of Oats w/,pcs,0,5,0,2018-03-01,Uncategorized,[],{}
+OBJ237,CER-2174-,CER-2174- - Crispy Rice Cereal,pcs,0,3,0,2018-10-01,Uncategorized,[],{}
+OBJ238,CER-2177-,"CER-2177- - Great Grains Raisins, Dates &",pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ239,CER-2196-,CER-2196- - Cocoa Dyno-Bites Cereal,pcs,0,2,0,2018-03-01,Uncategorized,[],{}
+OBJ240,CER-2207-,CER-2207- - Strawberry Frosted Shredded,pcs,0,2,0,2018-06-01,Uncategorized,[],{}
+OBJ241,CER-2212-,CER-2212- - Wild Berry Instant Oatmeal,pcs,0,2,0,2018-06-01,Uncategorized,[],{}
+OBJ242,CER-2213-,CER-2213- - Honey Scooters Cereal,pcs,0,4,0,2018-05-01,Uncategorized,[],{}
+OBJ243,CER-2221-,CER-2221- - Assorted Boxed Cereals,pcs,0,5,0,2018-03-01,Uncategorized,[],{}
+OBJ244,CER-2223-,CER-2223- - Cinnamon Oat Bites Cereal,pcs,0,3,0,2019-09-01,Uncategorized,[],{}
+OBJ245,CER-2224-,CER-2224- - Honey Bunches of Oats w/,pcs,0,4,0,2018-06-01,Uncategorized,[],{}
+OBJ246,CER-2242-,CER-2242- - Shredded Wheat Spoon Sized,pcs,0,3,0,2018-07-01,Uncategorized,[],{}
+OBJ247,CER-2246-,CER-2246- - Great Grains Cranberry Almond,pcs,0,4,0,2018-07-01,Uncategorized,[],{}
+OBJ248,CER-2258-,CER-2258- - Spoon Size Shredded Wheat,pcs,0,3,0,2018-07-01,Uncategorized,[],{}
+OBJ249,CER-2263-,CER-2263- - Trolls Rainbow Crunch Cereal,pcs,0,4,0,2018-05-01,Uncategorized,[],{}
+OBJ250,CER-2265-,CER-2265- - Oats & Flax Instant Oatmeal,pcs,0,2,0,2018-05-01,Uncategorized,[],{}
+OBJ251,CER-2268-,CER-2268- - Quick Steel Cut Oats,pcs,0,2,0,2018-06-01,Uncategorized,[],{}
+OBJ252,CER-2283-,CER-2283- - Silly Circle Cereal,pcs,0,3,0,2018-07-01,Uncategorized,[],{}
+OBJ253,CER-2298-,CER-2298- - Fruity Pebbles Cereal,pcs,0,3,0,2018-08-01,Uncategorized,[],{}
+OBJ254,CER-2308-,CER-2308- - Old Fashioned Oats,pcs,0,3,0,2018-09-01,Uncategorized,[],{}
+OBJ255,CER-2311-,CER-2311- - Berry Colossal Crunch Cereal,pcs,0,3,0,2018-09-01,Uncategorized,[],{}
+OBJ256,CER-2324-,CER-2324- - Cinnamon Oat Squares Cereal,pcs,0,1,0,2018-11-01,Uncategorized,[],{}
+OBJ257,CER-2342-,CER-2342- - Great Grains Cranberry Almond,pcs,0,3,0,2018-10-01,Uncategorized,[],{}
+OBJ258,CER-2352-,CER-2352- - Corn Flakes (PUR),pcs,0,10,0,2020-11-01,Uncategorized,[],{}
+OBJ259,CER-2353-,CER-2353- - Quick Oats (PUR),pcs,0,1,0,2019-02-01,Uncategorized,[],{}
+OBJ260,CER-2354-,CER-2354- - Honey Toasted O's Cereal (TANF),pcs,0,5,0,2022-08-01,Uncategorized,[],{}
+OBJ261,CER-2365-,CER-2365- - Berry Berry Kix Cereal,pcs,0,5,0,2019-05-01,Uncategorized,[],{}
+OBJ262,CER-2366-,"CER-2366- - Wheat, Corn, & Rice Blend Cereal",pcs,0,5,0,2019-05-01,Uncategorized,[],{}
+OBJ263,CER-2385-,CER-2385- - Oatmeal,pcs,0,1,0,2019-09-01,Uncategorized,[],{}
+OBJ264,CER-2386-,CER-2386- - Assorted Post Cereal,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ265,CER-2387-,CER-2387- - Holiday Rice Krispies Cereal,pcs,0,4,0,2020-01-01,Uncategorized,[],{}
+OBJ266,CER-2390-,CER-2390- - Rolled Oats (USDA),pcs,0,4,0,2021-03-01,Uncategorized,[],{}
+OBJ267,CER-2393-,"CER-2393- - Oats, Quick, Whole Grain, (PUR)",pcs,0,7,0,2024-01-01,Uncategorized,[],{}
+OBJ268,CER-2407-,CER-2407- - Frosted Bite Size Shredded,pcs,0,6,0,2020-09-01,Uncategorized,[],{}
+OBJ269,CER-2408-,CER-2408- - Whole Grain Quick Oats (TANF),pcs,0,4,0,2021-01-01,Uncategorized,[],{}
+OBJ270,CER-2411-,CER-2411- - Special K Cereal,pcs,0,10,0,2020-09-01,Uncategorized,[],{}
+OBJ271,CER-2413-,"CER-2413- - Oats, Rolled - 18oz (USDA)",pcs,0,9,0,2024-05-01,Uncategorized,[],{}
+OBJ272,CER-2432-,CER-2432- - Crispix Cereal,pcs,0,12,0,2020-11-01,Uncategorized,[],{}
+OBJ273,CER-2435-,CER-2435- - Rice Cereal (USDA),pcs,0,3,0,2023-02-01,Uncategorized,[],{}
+OBJ274,CER-2437-,CER-2437- - Raisin Bran Cereal (FEMA),pcs,0,6,0,2021-11-01,Uncategorized,[],{}
+OBJ275,CER-2439-,CER-2439- - Corn Squares Cereal (USDA),pcs,0,4,0,2021-12-01,Uncategorized,[],{}
+OBJ276,CER-2441-,CER-2441- - Championship Crunch Cereal,pcs,0,2,0,2021-05-01,Uncategorized,[],{}
+OBJ277,CER-2444-,CER-2444- - Quick Oats,pcs,0,2,0,2021-06-01,Uncategorized,[],{}
+OBJ278,CER-2449-,CER-2449- - Oatmeal,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ279,CER-2450-,CER-2450- - Whole Grain Rolled Quick Oats,pcs,0,2,0,2022-04-01,Uncategorized,[],{}
+OBJ280,CER-2451-,CER-2451- - Corn Flakes (USDA),pcs,0,5,0,2022-07-01,Uncategorized,[],{}
+OBJ281,CER-2453-,"CER-2453- - Cereal, Corn Puff, (PUR)",pcs,0,5,0,2023-03-01,Uncategorized,[],{}
+OBJ282,CER-2456-,CER-2456- - Corn Flakes (USDA),pcs,0,2,0,2023-01-01,Uncategorized,[],{}
+OBJ283,CER-2461-,CER-2461- - Fiber One Cereal,pcs,0,3,0,2022-09-01,Uncategorized,[],{}
+OBJ284,CER-2478-,"CER-2478- - Cereal, Raisin Bran, Whole Grain",pcs,0,6,0,2023-04-01,Uncategorized,[],{}
+OBJ285,CER-2479-,"CER-2479- - Oats, Rolled Quick, Whole Grain,",pcs,0,2,0,2025-02-01,Uncategorized,[],{}
+OBJ286,CER-2482-,CER-2482- - Vegan And Gluten Free Dash,pcs,0,5,0,2023-06-01,Uncategorized,[],{}
+OBJ287,CER-2483-,CER-2483- - Variety Pack Coffee Cereal,pcs,0,3,0,2023-04-01,Uncategorized,[],{}
+OBJ288,CER-2486-,CER-2486- - Vegan And Gluten Free Zombie,pcs,0,6,0,2023-05-01,Uncategorized,[],{}
+OBJ289,CER-2490-,CER-2490- - Granola Cereal - Almond Raisin,pcs,0,10,0,2023-08-01,Uncategorized,[],{}
+OBJ290,CER-2494-,CER-2494- - Granola Cereal - Apple Crunch,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ291,CER-2497-,CER-2497- - Special K Pumpkin Spice Cereal,pcs,0,3,0,2023-09-01,Uncategorized,[],{}
+OBJ292,CER-2499-,CER-2499- - Low Fat Granola With Raisins,pcs,0,10,0,2023-06-01,Uncategorized,[],{}
+OBJ293,CER-2500-,CER-2500- - Frosted Flakes Cereal,pcs,0,10,0,2023-07-01,Uncategorized,[],{}
+OBJ294,CER-2508-,CER-2508- - Oat & Cinnamon Cereal,pcs,0,3,0,2023-07-01,Uncategorized,[],{}
+OBJ295,CER-2516-,CER-2516- - Apple Cinnamon Oatmeal,pcs,0,3,0,2024-11-01,Uncategorized,[],{}
+OBJ296,CER-2521-,CER-2521- - Mixed Cereal Variety - 4 Flavors,pcs,0,10,0,2023-10-01,Uncategorized,[],{}
+OBJ297,CER-2524-,"CER-2524- - Assorted Cereal Cups (Cheerios,",pcs,0,5,0,2024-07-01,Uncategorized,[],{}
+OBJ298,CER-2527-,"CER-2527- - Oatmeal, Instant, 4 Flavors, (PUR)",pcs,0,4,0,2024-10-01,Uncategorized,[],{}
+OBJ299,CER-2528-,"CER-2528- - Cereal, Crisped Rice, Bowls, (PUR)",pcs,0,5,0,2024-10-01,Uncategorized,[],{}
+OBJ300,CER-2536-,CER-2536- - Rice Chex Gluten Free Cereal,pcs,0,3,0,2024-01-01,Uncategorized,[],{}
+OBJ301,CER-2540-,CER-2540- - Honey Nut Cheerios Cereal Cups,pcs,0,5,0,2024-01-01,Uncategorized,[],{}
+OBJ302,CER-2549-,CER-2549- - Frosted Shredded Wheat Cereal,pcs,0,3,0,2024-03-01,Uncategorized,[],{}
+OBJ303,CER-2553-,"CER-2553- - Cereal, Shredded Wheat, (USDA)",pcs,0,7,0,2024-09-01,Uncategorized,[],{}
+OBJ304,CER-2554-,"CER-2554- - Cereal, Honey Bunches of Oats",pcs,0,6,0,2024-10-01,Uncategorized,[],{}
+OBJ305,CER-2555-,"CER-2555- - Cereal, Toasted Wheat, (USDA)",pcs,0,8,0,2024-11-01,Uncategorized,[],{}
+OBJ306,CER-2556-,"CER-2556- - Cereal, Toasty O's, (USDA)",pcs,0,5,0,2024-12-01,Uncategorized,[],{}
+OBJ307,CER-2557-,"CER-2557- - Cereal, Rice Crisp, (USDA)",pcs,0,5,0,2025-02-01,Uncategorized,[],{}
+OBJ308,CER-2561-,CER-2561- - Frosted Flakes With,pcs,0,20,0,2024-11-01,Uncategorized,[],{}
+OBJ309,CFP-1001-,CFP-1001- - Assorted Frozen Meat Box - 25#,pcs,0,3,0,2021-10-01,Uncategorized,[],{}
+OBJ310,CFP-1009-,CFP-1009- - 2% Milk (CFAP),pcs,0,10,0,2020-09-01,Uncategorized,[],{}
+OBJ311,CFP-1011-,CFP-1011- - Assorted Sausages (CFAP),pcs,0,5,0,2020-10-01,Uncategorized,[],{}
+OBJ312,COF-1002-,COF-1002- - Ground Dark Roast Coffee,pcs,0,10,0,2022-01-01,Uncategorized,[],{}
+OBJ313,COF-1004-,COF-1004- - Peppermint Mocha Coffee,pcs,0,5,0,2023-01-01,Uncategorized,[],{}
+OBJ314,COF-1006-,COF-1006- - Cafe Bustello Black Unsweetened,pcs,0,20,0,2025-02-01,Uncategorized,[],{}
+OBJ315,COF-1133-,COF-1133- - Medium Roast Coffee,pcs,0,4,0,2018-07-01,Uncategorized,[],{}
+OBJ316,COF-1134-,COF-1134- - Intense & Smokey French Roast,pcs,0,5,0,2018-08-01,Uncategorized,[],{}
+OBJ317,COF-1144-,COF-1144- - Nescafe Clasico Coffee,pcs,0,4,0,2019-04-01,Uncategorized,[],{}
+OBJ318,COF-1155-,COF-1155- - Hazelnut Ground Coffee,pcs,0,3,0,2020-06-01,Uncategorized,[],{}
+OBJ319,COF-1163-,COF-1163- - Super Cold Brew Coffee,pcs,0,4,0,2020-11-01,Uncategorized,[],{}
+OBJ320,COF-1172-,"COF-1172- - Coffee, Ground, Special Roast, S",pcs,0,5,0,2022-07-01,Uncategorized,[],{}
+OBJ321,COF-1173-,"COF-1173- - Coffee, Instant, S & W, (PUR)",pcs,0,4,0,2022-07-01,Uncategorized,[],{}
+OBJ322,COF-1192-,COF-1192- - Medium Roast K-Cup Coffee,pcs,0,5,0,2022-11-01,Uncategorized,[],{}
+OBJ323,COF-1194-,COF-1194- - Italian Dark Roast Coffee,pcs,0,10,0,2022-12-01,Uncategorized,[],{}
+OBJ324,COF-1199-,COF-1199- - Coffee K-Cup Pods Starter,pcs,0,5,0,2022-12-01,Uncategorized,[],{}
+OBJ325,COF-1204-,COF-1204- - French Roast Ground Coffee K-,pcs,0,3,0,2023-01-01,Uncategorized,[],{}
+OBJ326,COF-1227-,COF-1227- - Instant Mocha Chocolate,pcs,0,20,0,2023-11-01,Uncategorized,[],{}
+OBJ327,COF-1228-,COF-1228- - Veranda Blend Ground Coffee K-,pcs,0,5,0,2023-12-01,Uncategorized,[],{}
+OBJ328,COF-1230-,COF-1230- - Macadamia Milk & Arabica,pcs,0,5,0,2024-05-01,Uncategorized,[],{}
+OBJ329,COF-1231-,COF-1231- - Macadamia Milk & Espresso,pcs,0,30,0,2024-11-01,Uncategorized,[],{}
+OBJ330,COF-1236-,"COF-1236- - Ground Starbucks Coffee,",pcs,0,10,0,2025-02-01,Uncategorized,[],{}
+OBJ331,CRA-1523-,CRA-1523- - Golden Wheat Snack Crackers,pcs,0,8,0,2017-08-01,Uncategorized,[],{}
+OBJ332,CRA-1523-D,CRA-1523-D - Golden Wheat Snack Crackers,pcs,0,5,0,2017-05-01,Uncategorized,[],{}
+OBJ333,CRA-1533-,CRA-1533- - Saltine Crackers,pcs,0,4,0,2018-07-01,Uncategorized,[],{}
+OBJ334,CRA-1534-,CRA-1534- - Unsalted Crackers (USDA),pcs,0,5,0,2022-12-01,Uncategorized,[],{}
+OBJ335,CRA-1537-,CRA-1537- - Unsalted Saltine Crackers,pcs,0,4,0,2018-12-01,Uncategorized,[],{}
+OBJ336,CRA-1538-,CRA-1538- - Saltine Crackers,pcs,0,4,0,2019-07-01,Uncategorized,[],{}
+OBJ337,CRA-1543-,CRA-1543- - Sesame Water Crackers,pcs,0,1,0,2022-04-01,Uncategorized,[],{}
+OBJ338,CRA-1546-,CRA-1546- - Original Club Crackers,pcs,0,2,0,2022-09-01,Uncategorized,[],{}
+OBJ339,CRA-1549-,CRA-1549- - Oyster Crackers,pcs,0,3,0,2022-11-01,Uncategorized,[],{}
+OBJ340,CRA-1551-,CRA-1551- - Cranberry & Poppy Seeds,pcs,0,10,0,2023-02-01,Uncategorized,[],{}
+OBJ341,CRA-1562-,CRA-1562- - Saltine Crackers,pcs,0,1,0,2023-09-01,Uncategorized,[],{}
+OBJ342,DAI-1062-,DAI-1062- - Grated Parmesan,pcs,0,10,0,2021-04-01,Uncategorized,[],{}
+OBJ343,DAI-1584-,DAI-1584- - Queso Blanco Cheese,pcs,0,3,0,2017-09-01,Uncategorized,[],{}
+OBJ344,DAI-1598-,DAI-1598- - Crumbled Queso Fresco Cheese,pcs,0,5,0,2017-08-01,Uncategorized,[],{}
+OBJ345,DAI-1616-R,DAI-1616-R - Chihuahua Quesadilla Cheese,pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ346,DAI-1628-,DAI-1628- - Organic Cottage Cheese,pcs,0,4,0,2018-08-01,Uncategorized,[],{}
+OBJ347,DAI-1647-,DAI-1647- - Chihuahua + Oaxaca Mexican,pcs,0,4,0,2018-03-01,Uncategorized,[],{}
+OBJ348,DAI-1666-,DAI-1666- - Raspberry Greek Yogurt,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ349,DAI-1669-,"DAI-1669- - Cheese, Yellow Cheddar,",pcs,0,20,0,2025-02-01,Uncategorized,[],{}
+OBJ350,DAI-1688-,DAI-1688- - Yellow Shredded Cheddar,pcs,0,12,0,2021-01-01,Uncategorized,[],{}
+OBJ351,DAI-1707-,"DAI-1707- - Cheese, Yellow Cheddar,",pcs,0,10,0,2025-02-01,Uncategorized,[],{}
+OBJ352,DAI-1709-,DAI-1709- - Queso Del Caribe Cheese,pcs,0,10,0,2017-04-01,Uncategorized,[],{}
+OBJ353,DAI-1709-R,DAI-1709-R - Queso Del Caribe,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ354,DAI-1710-,"DAI-1710- - Cheese, American, Blend, (USDA)",pcs,0,5,0,2024-07-01,Uncategorized,[],{}
+OBJ355,DAI-1711-,DAI-1711- - Natural Sour Cream,pcs,0,3,0,2017-06-01,Uncategorized,[],{}
+OBJ356,DAI-1711-R,DAI-1711-R - Natural Sour,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ357,DAI-1717-,DAI-1717- - Shredded Mozzarella,pcs,0,5,0,2017-08-01,Uncategorized,[],{}
+OBJ358,DAI-1720-,DAI-1720- - Queso Fresco,pcs,0,4,0,2017-09-01,Uncategorized,[],{}
+OBJ359,DAI-1721-,DAI-1721- - Queso Fresco Crumbling Cheese,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ360,DAI-1726-,DAI-1726- - Raspberry Non-Fat Drinkable,pcs,0,3,0,2017-12-01,Uncategorized,[],{}
+OBJ361,DAI-1728-,DAI-1728- - Shredded Chihuahua Cheese,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ362,DAI-1765-,DAI-1765- - Coffee Chocolate Almond Yogurt,pcs,0,2,0,2018-10-01,Uncategorized,[],{}
+OBJ363,DAI-1771-,"DAI-1771- - Cheese, Yellow Cheddar, Chunks,",pcs,0,20,0,2024-12-01,Uncategorized,[],{}
+OBJ364,DAI-1772-,DAI-1772- - Cheese Loaves (USDA),pcs,0,5,0,2022-02-01,Uncategorized,[],{}
+OBJ365,DAI-1774-,DAI-1774- - Danimals Yogurt Tubes,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ366,DAI-1777-,DAI-1777- - Mozzarella + Cheddar String,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ367,DAI-1783-,DAI-1783- - Processed Cheese Loaves (USDA),pcs,0,6,0,2019-08-01,Uncategorized,[],{}
+OBJ368,DAI-1784-,DAI-1784- - Cream Cheese Spread,pcs,0,3,0,2019-08-01,Uncategorized,[],{}
+OBJ369,DAI-1790-,DAI-1790- - Shredded Chihuahua Cheese,pcs,0,15,0,2023-05-01,Uncategorized,[],{}
+OBJ370,DAI-1791-,DAI-1791- - Sour Cream,pcs,0,1,0,2019-06-01,Uncategorized,[],{}
+OBJ371,DAI-1801-,DAI-1801- - Mozzarella Skim String Cheese,pcs,0,1,0,2019-11-01,Uncategorized,[],{}
+OBJ372,DAI-1806-,DAI-1806- - Salted Butter (USDA),pcs,0,3,0,2022-01-01,Uncategorized,[],{}
+OBJ373,DAI-1807-,DAI-1807- - Original Variety Pack Yogurt,pcs,0,3,0,2019-11-01,Uncategorized,[],{}
+OBJ374,DAI-1815-,DAI-1815- - Raspberry Whole Milk Yogurt,pcs,0,2,0,2019-12-01,Uncategorized,[],{}
+OBJ375,DAI-1817-,DAI-1817- - Queso Fresco,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ376,DAI-1829-,DAI-1829- - Mild Cheddar Cheese Chunks,pcs,0,4,0,2020-06-01,Uncategorized,[],{}
+OBJ377,DAI-1830-,DAI-1830- - Medium Sharp Cheddar Cheese,pcs,0,3,0,2020-06-01,Uncategorized,[],{}
+OBJ378,DAI-1831-,DAI-1831- - Muenster Cheese Chunks (PUR),pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ379,DAI-1836-,DAI-1836- - Yellow Sliced Cheese Loaves,pcs,0,6,0,2021-01-01,Uncategorized,[],{}
+OBJ380,DAI-1846-,"DAI-1846- - Cheese, Swiss, Natural, Slices",pcs,0,20,0,2024-12-01,Uncategorized,[],{}
+OBJ381,DAI-1847-,DAI-1847- - Natural Swiss Cheese Blocks,pcs,0,3,0,2021-03-01,Uncategorized,[],{}
+OBJ382,DAI-1856-,DAI-1856- - Sliced White Processed Cheese,pcs,0,9,0,2022-01-01,Uncategorized,[],{}
+OBJ383,DAI-1871-,DAI-1871- - Unicorn Cake Flavored Lowfat,pcs,0,1,0,2022-03-01,Uncategorized,[],{}
+OBJ384,DAI-1873-,DAI-1873- - Salted Butter,pcs,0,3,0,2021-10-01,Uncategorized,[],{}
+OBJ385,DAI-1877-,DAI-1877- - Cream Cheese,pcs,0,3,0,2021-11-01,Uncategorized,[],{}
+OBJ386,DAI-1881-,DAI-1881- - Sour Cream (PUR),pcs,0,6,0,2022-02-01,Uncategorized,[],{}
+OBJ387,DAI-1884-,"DAI-1884- - Cheese, Mozzarella, Shredded,",pcs,0,6,0,2023-12-01,Uncategorized,[],{}
+OBJ388,DAI-1891-,DAI-1891- - Basil and Chive Gourmet Cheese,pcs,0,3,0,2022-04-01,Uncategorized,[],{}
+OBJ389,DAI-1898-,DAI-1898- - Queso Fresco,pcs,0,10,0,2023-02-01,Uncategorized,[],{}
+OBJ390,DAI-1911-,DAI-1911- - Queso Fresco (Mexican Farmer's,pcs,0,5,0,2022-08-01,Uncategorized,[],{}
+OBJ391,DAI-1915-,DAI-1915- - Yogurt - Harvest Peach,pcs,0,2,0,2022-09-01,Uncategorized,[],{}
+OBJ392,DAI-1926-,DAI-1926- - Crema Centroamericana (Sour,pcs,0,6,0,2023-02-01,Uncategorized,[],{}
+OBJ393,DAI-1927-,DAI-1927- - Crema Salvadorena (Sour Cream),pcs,0,10,0,2023-02-01,Uncategorized,[],{}
+OBJ394,DAI-1928-,DAI-1928- - Crema Rancherito (Sour Cream),pcs,0,5,0,2023-11-01,Uncategorized,[],{}
+OBJ395,DAI-1931-,"DAI-1931- - Cheese, Yellow Cheddar, Chunks,",pcs,0,10,0,2024-12-01,Uncategorized,[],{}
+OBJ396,DAI-1934-,DAI-1934- - Queso Fresco,pcs,0,5,0,2023-03-01,Uncategorized,[],{}
+OBJ397,DAI-1935-,DAI-1935- - Queso Fresco,pcs,0,10,0,2023-10-01,Uncategorized,[],{}
+OBJ398,DAI-1937-,DAI-1937- - Queso Chihuahua,pcs,0,5,0,2023-09-01,Uncategorized,[],{}
+OBJ399,DAI-1946-,DAI-1946- - Fat Free Sour Cream,pcs,0,6,0,2023-07-01,Uncategorized,[],{}
+OBJ400,DAI-1948-,DAI-1948- - Queso Chihuahua With Jalapeno,pcs,0,3,0,2024-02-01,Uncategorized,[],{}
+OBJ401,DAI-1961-,DAI-1961- - Cookies & Cream Yogurt,pcs,0,5,0,2024-01-01,Uncategorized,[],{}
+OBJ402,DAI-1962-,DAI-1962- - Lowfat Berry/Strawberry Go-Gurt,pcs,0,4,0,2024-01-01,Uncategorized,[],{}
+OBJ403,DAI-1972-,DAI-1972- - Sweet Cream Coffee Creamer,pcs,0,10,0,2024-10-01,Uncategorized,[],{}
+OBJ404,DAI-1975-,"DAI-1975- - Yogurt, Strawberry, High Protein,",pcs,0,4,0,2025-02-01,Uncategorized,[],{}
+OBJ405,DAI-1979-,DAI-1979- - Lowfat Yogurt - Mountain,pcs,0,5,0,2024-11-01,Uncategorized,[],{}
+OBJ406,DAI-1981-,DAI-1981- - Nonfat Yogurt - Strawberry,pcs,0,5,0,2024-11-01,Uncategorized,[],{}
+OBJ407,DAI-1983-,DAI-1983- - Lowfat Yogurt - Assorted Flavors,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ408,DAI-1985-,DAI-1985- - Lowfat Vanilla Yogurt,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ409,DAI-1992-,DAI-1992- - Cottage Cheese - 4% Milkfat,pcs,0,5,0,2024-11-01,Uncategorized,[],{}
+OBJ410,DAI-1994-,"DAI-1994- - Cottage Cheese, 2% Milkfat",pcs,0,10,0,2025-02-01,Uncategorized,[],{}
+OBJ411,DAI-2005-,"DAI-2005- - French Style Yogurt, Lemon",pcs,0,10,0,2025-02-01,Uncategorized,[],{}
+OBJ412,DAI-2006-,DAI-2006- - Trix Yogurt - Wild Berry & Cotton,pcs,0,10,0,2025-02-01,Uncategorized,[],{}
+OBJ413,DBN-0107,"DBN-0107 - Beans, Great Northern, Dry,",pcs,0,5,0,2024-05-01,Uncategorized,[],{}
+OBJ414,DBN-0147,"DBN-0147 - Beans, Pinto, Dry, (USDA)",pcs,0,10,0,2024-07-01,Uncategorized,[],{}
+OBJ415,DBN-0222,"DBN-0222 - Beans, Blackeye, Canned (USDA)",pcs,0,6,0,2024-12-01,Uncategorized,[],{}
+OBJ416,DBN-1018,"DBN-1018 - Beans, Refried, Canned, (USDA)",pcs,0,5,0,2024-09-01,Uncategorized,[],{}
+OBJ417,DBN-1028,"DBN-1028 - Peanut Butter, (PUR)(K)",pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ418,DBN-1028-C,DBN-1028-C - Peanut Butter (PUR),pcs,0,2,0,2016-01-01,Uncategorized,[],{}
+OBJ419,DBN-1028-D,DBN-1028-D - Peanut Butter (PUR) (K) 12/18OZ,pcs,0,5,0,2017-05-01,Uncategorized,[],{}
+OBJ420,DBN-1031,DBN-1031 - Carmelized Onion Hummus,pcs,0,2,0,2017-10-01,Uncategorized,[],{}
+OBJ421,DBN-1036,DBN-1036 - Original Hummus,pcs,0,3,0,2018-09-01,Uncategorized,[],{}
+OBJ422,DBN-1037,DBN-1037 - Light Red Kidney Beans (USDA),pcs,0,4,0,2023-05-01,Uncategorized,[],{}
+OBJ423,DBN-1053,"DBN-1053 - Peanut Butter, Smooth (USDA)",pcs,0,2,0,2019-03-01,Uncategorized,[],{}
+OBJ424,DBN-1058,DBN-1058 - Spicy Sweet Potato Hummus,pcs,0,2,0,2018-06-01,Uncategorized,[],{}
+OBJ425,DBN-1080,DBN-1080 - Garbanzo Beans (SUB),pcs,0,2,0,2018-09-01,Uncategorized,[],{}
+OBJ426,DBN-1080-X,DBN-1080-X - Garbanzo Beans (SUB),pcs,0,2,0,2015-12-01,Uncategorized,[],{}
+OBJ427,DBN-1081,DBN-1081 - Asst Non-Meat Protein (SAL),pcs,0,3,0,2018-11-01,Uncategorized,[],{}
+OBJ428,DBN-1101,DBN-1101 - Refried Beans (PUR),pcs,0,2,0,2020-07-01,Uncategorized,[],{}
+OBJ429,DBN-1103,DBN-1103 - Dry Pinto Beans (SUB)(RP),pcs,0,6,0,2018-08-01,Uncategorized,[],{}
+OBJ430,DBN-1103-D,DBN-1103-D - Dry Pinto Beans (SUB)(RP),pcs,0,4,0,2015-12-01,Uncategorized,[],{}
+OBJ431,DBN-1116,DBN-1116 - Creamy Peanut Butter (FEMA),pcs,0,6,0,2019-02-01,Uncategorized,[],{}
+OBJ432,DBN-1123,DBN-1123 - Black Beans,pcs,0,3,0,2022-01-01,Uncategorized,[],{}
+OBJ433,DBN-1127,DBN-1127 - Dry Black Beans (SUB)(RP),pcs,0,2,0,2018-10-01,Uncategorized,[],{}
+OBJ434,DBN-1176,DBN-1176 - Pork & Beans (PUR),pcs,0,9,0,2021-04-01,Uncategorized,[],{}
+OBJ435,DBN-1200,DBN-1200 - Black Beans (SUB)(RP),pcs,0,2,0,2019-03-01,Uncategorized,[],{}
+OBJ436,DBN-1256,DBN-1256 - Garbanzo Beans (FEMA),pcs,0,1,0,2019-08-01,Uncategorized,[],{}
+OBJ437,DBN-1275,DBN-1275 - Grilling Beans (SUB),pcs,0,3,0,2018-08-01,Uncategorized,[],{}
+OBJ438,DBN-1276,DBN-1276 - Baked Beans (FEMA),pcs,0,2,0,2018-02-01,Uncategorized,[],{}
+OBJ439,DBN-1281,DBN-1281 - Peanut Butter (PUR),pcs,0,14,0,2017-04-01,Uncategorized,[],{}
+OBJ440,DBN-1282,"DBN-1282 - Beans, Vegetarian, Canned,",pcs,0,5,0,2023-09-01,Uncategorized,[],{}
+OBJ441,DBN-1287,DBN-1287 - Roasted Peanuts - Unsalted,pcs,0,1,0,2018-07-01,Uncategorized,[],{}
+OBJ442,DBN-1297,DBN-1297 - Dry Blackeye Beans (USDA),pcs,0,3,0,2020-01-01,Uncategorized,[],{}
+OBJ443,DBN-1298,"DBN-1298 - Lentils, Dry, (USDA)",pcs,0,7,0,2024-05-01,Uncategorized,[],{}
+OBJ444,DBN-1299,"DBN-1299 - Beans, Pinto, Canned, (USDA)",pcs,0,4,0,2024-12-01,Uncategorized,[],{}
+OBJ445,DBN-1300,DBN-1300 - Creamy Peanut Butter (PUR),pcs,0,14,0,2017-09-01,Uncategorized,[],{}
+OBJ446,DBN-1301,DBN-1301 - Crunchy Peanut Butter (PUR),pcs,0,6,0,2017-11-01,Uncategorized,[],{}
+OBJ447,DBN-1302,DBN-1302 - Light Red Kidney Beans (PUR),pcs,0,4,0,2019-06-01,Uncategorized,[],{}
+OBJ448,DBN-1305,DBN-1305 - Dry Lima Beans (USDA),pcs,0,1,0,2017-12-01,Uncategorized,[],{}
+OBJ449,DBN-1306,DBN-1306 - Dry Garbanzo Beans (USDA),pcs,0,3,0,2023-01-01,Uncategorized,[],{}
+OBJ450,DBN-1307,DBN-1307 - Crunchy Peanut Butter (FEMA),pcs,0,9,0,2018-06-01,Uncategorized,[],{}
+OBJ451,DBN-1308,DBN-1308 - Vegetarian Beans (FEMA),pcs,0,1,0,2018-08-01,Uncategorized,[],{}
+OBJ452,DBN-1312,DBN-1312 - Dry White Kidney Beans (SUB),pcs,0,2,0,2018-02-01,Uncategorized,[],{}
+OBJ453,DBN-1315,DBN-1315 - Peanut Butter (PUR),pcs,0,5,0,2020-08-01,Uncategorized,[],{}
+OBJ454,DBN-1317,DBN-1317 - Dry Dark Red Kidney Beans,pcs,0,1,0,2018-11-01,Uncategorized,[],{}
+OBJ455,DBN-1318,DBN-1318 - Dry Small Red Beans (USDA),pcs,0,1,0,2019-02-01,Uncategorized,[],{}
+OBJ456,DBN-1319,DBN-1319 - Baked Beans (PUR),pcs,0,2,0,2018-08-01,Uncategorized,[],{}
+OBJ457,DBN-1320,"DBN-1320 - Beans, Black, Low Sodium,",pcs,0,10,0,2025-02-01,Uncategorized,[],{}
+OBJ458,DBN-1324,DBN-1324 - Baked Beans,pcs,0,2,0,2018-03-01,Uncategorized,[],{}
+OBJ459,DBN-1328,DBN-1328 - Navy Beans (SUB)(RP),pcs,0,1,0,2018-07-01,Uncategorized,[],{}
+OBJ460,DBN-1329,DBN-1329 - Black Eyed Peas (SUB)(RP),pcs,0,4,0,2018-08-01,Uncategorized,[],{}
+OBJ461,DBN-1334,"DBN-1334 - Beans, Black, Canned, (USDA)",pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ462,DBN-1335,DBN-1335 - Smooth Kosher Peanut Butter,pcs,0,6,0,2020-01-01,Uncategorized,[],{}
+OBJ463,DBN-1336,DBN-1336 - Dry Pinto Beans (SUB)(RP),pcs,0,1,0,2019-10-01,Uncategorized,[],{}
+OBJ464,DBN-1338,DBN-1338 - Dry Split Peas (USDA),pcs,0,1,0,2020-01-01,Uncategorized,[],{}
+OBJ465,DBN-1339,DBN-1339 - Creamy Peanut Butter (PUR),pcs,0,14,0,2023-09-01,Uncategorized,[],{}
+OBJ466,DBN-1343,DBN-1343 - Baked Beans (PUR),pcs,0,1,0,2019-10-01,Uncategorized,[],{}
+OBJ467,DBN-1344,DBN-1344 - Dry Black Beans (SUB)(RP),pcs,0,1,0,2019-05-01,Uncategorized,[],{}
+OBJ468,DBN-1345,"DBN-1345 - Beans, Navy, Dry, (USDA)",pcs,0,5,0,2024-11-01,Uncategorized,[],{}
+OBJ469,DBN-1347,"DBN-1347 - Beans, Dark Red Kidney, Canned,",pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ470,DBN-1348,"DBN-1348 - Beans, Garbanzo, Canned,",pcs,0,2,0,2024-10-01,Uncategorized,[],{}
+OBJ471,DBN-1349,DBN-1349 - Dry Green Lentils (SUB)(RP),pcs,0,8,0,2019-06-01,Uncategorized,[],{}
+OBJ472,DBN-1352,DBN-1352 - Green Split Peas (SUB)(RP),pcs,0,4,0,2019-08-01,Uncategorized,[],{}
+OBJ473,DBN-1354,"DBN-1354 - Peas, Split Green, Dry, (USDA)",pcs,0,6,0,2024-05-01,Uncategorized,[],{}
+OBJ474,DBN-1355,"DBN-1355 - Peas, Split Yellow, Dry, (USDA)",pcs,0,4,0,2025-02-01,Uncategorized,[],{}
+OBJ475,DBN-1356,"DBN-1356 - Peanut Butter, Smooth, (USDA)",pcs,0,12,0,2024-05-01,Uncategorized,[],{}
+OBJ476,DBN-1360,"DBN-1360 - Beans, Black, Dry, (PUR)(RP)",pcs,0,3,0,2025-02-01,Uncategorized,[],{}
+OBJ477,DBN-1361,"DBN-1361 - Beans, Pinto, Dry, (RP)(PUR)",pcs,0,6,0,2024-12-01,Uncategorized,[],{}
+OBJ478,DBN-1362,"DBN-1362 - Peanut Butter, Smooth (USDA)",pcs,0,5,0,2019-11-01,Uncategorized,[],{}
+OBJ479,DBN-1363,"DBN-1363 - Peanut Butter, Smooth (USDA)",pcs,0,6,0,2022-04-01,Uncategorized,[],{}
+OBJ480,DBN-1364,DBN-1364 - Dry Red Lentils (SUB)(RP),pcs,0,6,0,2020-06-01,Uncategorized,[],{}
+OBJ481,DBN-1377,DBN-1377 - Refried Beans (PUR),pcs,0,6,0,2020-06-01,Uncategorized,[],{}
+OBJ482,DBN-1380,DBN-1380 - Black Beans,pcs,0,3,0,2020-06-01,Uncategorized,[],{}
+OBJ483,DBN-1381,DBN-1381 - Vegetarian Beans (PUR),pcs,0,6,0,2021-11-01,Uncategorized,[],{}
+OBJ484,DBN-1382,DBN-1382 - Peanut Pro Crunchy,pcs,0,10,0,2020-07-01,Uncategorized,[],{}
+OBJ485,DBN-1385,DBN-1385 - Vegetarian Baked Beans (PUR),pcs,0,5,0,2021-04-01,Uncategorized,[],{}
+OBJ486,DBN-1388,DBN-1388 - In Shell Roasted Unsalted,pcs,0,10,0,2021-01-01,Uncategorized,[],{}
+OBJ487,DBN-1389,"DBN-1389 - Beans, Garbanzo, Dry, (USDA)",pcs,0,5,0,2024-05-01,Uncategorized,[],{}
+OBJ488,DBN-1390,DBN-1390 - Baked Beans (PUR),pcs,0,3,0,2021-12-01,Uncategorized,[],{}
+OBJ489,DBN-1391,DBN-1391 - Natural Peanut Butter (PUR) (K),pcs,0,3,0,2022-04-01,Uncategorized,[],{}
+OBJ490,DBN-1392,DBN-1392 - Red Beans and Rice (FEMA),pcs,0,6,0,2022-09-01,Uncategorized,[],{}
+OBJ491,DBN-1393,DBN-1393 - Chunky Peanut Butter (FEMA),pcs,0,2,0,2022-05-01,Uncategorized,[],{}
+OBJ492,DBN-1394,DBN-1394 - Light Red Kidney Beans (FEMA),pcs,0,6,0,2022-06-01,Uncategorized,[],{}
+OBJ493,DBN-1396,DBN-1396 - Pork & Beans (PUR),pcs,0,3,0,2021-07-01,Uncategorized,[],{}
+OBJ494,DBN-1397,"DBN-1397 - Beans, Pinto, Dry, (USDA)",pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ495,DBN-1398,"DBN-1398 - Lentils, Dry, 1 Pound Bags,",pcs,0,5,0,2025-02-01,Uncategorized,[],{}
+OBJ496,DBN-1399,DBN-1399 - Dry Green Peas (USDA),pcs,0,5,0,2022-09-01,Uncategorized,[],{}
+OBJ497,DBN-1400,"DBN-1400 - Beans, Baked, Canned, Low",pcs,0,5,0,2023-09-01,Uncategorized,[],{}
+OBJ498,DBN-1401,DBN-1401 - Dry Split Peas - 1 Pound Bags,pcs,0,6,0,2022-06-01,Uncategorized,[],{}
+OBJ499,DBN-1407,DBN-1407 - Great Northern Beans - 1 Pound,pcs,0,3,0,2023-03-01,Uncategorized,[],{}
+OBJ500,DBN-1416,"DBN-1416 - Beans, Black, No Salt Added,",pcs,0,15,0,2024-03-01,Uncategorized,[],{}
+OBJ501,DBN-1436,DBN-1436 - Natural Peanut Butter (Creamy),pcs,0,10,0,2023-11-01,Uncategorized,[],{}
+OBJ502,DBN-1437,DBN-1437 - Peanut Butter Creamy Dark,pcs,0,10,0,2023-11-01,Uncategorized,[],{}
+OBJ503,DBN-1438,"DBN-1438 - Peanut Butter, Smooth, Kosher,",pcs,0,11,0,2025-02-01,Uncategorized,[],{}
+OBJ504,DBN-1439,"DBN-1439 - Beans, Kidney, Light Red, Dry,",pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ505,DBN-1440,"DBN-1440 - Beans, Kidney, Dark Red, Dry,",pcs,0,6,0,2024-12-01,Uncategorized,[],{}
+OBJ506,DBN-1441,DBN-1441 - Chocolate Organic Nut And Seed,pcs,0,10,0,2024-02-01,Uncategorized,[],{}
+OBJ507,DBN-1442,DBN-1442 - Santiago Vegeterian Refried,pcs,0,5,0,2024-03-01,Uncategorized,[],{}
+OBJ508,DBN-1444,DBN-1444 - Peanut Butter (PUR),pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ509,DBN-1445,"DBN-1445 - Peanut Butter, (FEMA)",pcs,0,7,0,2025-02-01,Uncategorized,[],{}
+OBJ510,DBN-1452,DBN-1452 - Refried Beans,pcs,0,20,0,2024-08-01,Uncategorized,[],{}
+OBJ511,DES-1000-,DES-1000- - Strawberry Cheesecake Cups,pcs,0,5,0,2017-11-01,Uncategorized,[],{}
+OBJ512,DES-1201-,DES-1201- - Apple Bun (Ready-to-Eat),pcs,0,4,0,2020-11-01,Uncategorized,[],{}
+OBJ513,DES-1673-,DES-1673- - 8 Inch Coconut Pies,pcs,0,3,0,2022-02-01,Uncategorized,[],{}
+OBJ514,DES-1678-,DES-1678- - Apple Pie,pcs,0,3,0,2022-04-01,Uncategorized,[],{}
+OBJ515,DES-1682-,DES-1682- - Wegman's Cheese Danish Strip,pcs,0,10,0,2024-10-01,Uncategorized,[],{}
+OBJ516,DRS-1039-,DRS-1039- - Chunky Blue Cheese Yogurt,pcs,0,4,0,2017-05-01,Uncategorized,[],{}
+OBJ517,DRS-1039-R,DRS-1039-R - Chunky Blue Cheese Yogurt,pcs,0,4,0,2017-05-01,Uncategorized,[],{}
+OBJ518,DRS-1046-,DRS-1046- - Classic Balsamic Vinaigrette,pcs,0,5,0,2019-11-01,Uncategorized,[],{}
+OBJ519,DRS-1047-,DRS-1047- - Smoked Black Pepper Caesar,pcs,0,6,0,2020-01-01,Uncategorized,[],{}
+OBJ520,DRS-1048-,DRS-1048- - Lemon Basil Yogurt Dressing,pcs,0,2,0,2020-06-01,Uncategorized,[],{}
+OBJ521,DRS-1064-,DRS-1064- - Lemon Basil Dressing,pcs,0,5,0,2023-11-01,Uncategorized,[],{}
+OBJ522,DRS-1067-,DRS-1067- - Ranch Sauce Pouch,pcs,0,20,0,2023-08-01,Uncategorized,[],{}
+OBJ523,DRS-1214-,DRS-1214- - Miracle Whip,pcs,0,3,0,2020-06-01,Uncategorized,[],{}
+OBJ524,DRS-1215-,DRS-1215- - Non Dairy Mayonnaise,pcs,0,8,0,2017-05-01,Uncategorized,[],{}
+OBJ525,DRS-1215-D,"DRS-1215-D - Non Dairy Mayonnaise No Eggs, No",pcs,0,8,0,2017-05-01,Uncategorized,[],{}
+OBJ526,DRS-1216-,DRS-1216- - Ranch Dressing,pcs,0,2,0,2017-05-01,Uncategorized,[],{}
+OBJ527,DRS-1216-D,DRS-1216-D - Ranch,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ528,DRS-1227-,DRS-1227- - Mayonnaise,pcs,0,1,0,2018-09-01,Uncategorized,[],{}
+OBJ529,DRS-1245-,DRS-1245- - Mayonnaise w/ Lime Juice,pcs,0,3,0,2020-08-01,Uncategorized,[],{}
+OBJ530,DRS-1272-,DRS-1272- - Spicy Mango Habanero Salad,pcs,0,5,0,2024-05-01,Uncategorized,[],{}
+OBJ531,EGG-1025-,"EGG-1025- - Eggs, Large, (PUR)",pcs,0,15,0,2024-01-01,Uncategorized,[],{}
+OBJ532,EGG-1025-R,EGG-1025-R - Large Eggs (PUR) 15 Dozen/Case,pcs,0,5,0,2017-05-01,Uncategorized,[],{}
+OBJ533,EGG-1027-,EGG-1027- - Frozen Whole Eggs (USDA),pcs,0,3,0,2022-08-01,Uncategorized,[],{}
+OBJ534,EGG-1028-,EGG-1028- - Whole Frozen Eggs (USDA),pcs,0,5,0,2022-04-01,Uncategorized,[],{}
+OBJ535,EGG-1043-,"EGG-1043- - Eggs, Fresh, (USDA)",pcs,0,10,0,2024-12-01,Uncategorized,[],{}
+OBJ536,EGG-1044-,"EGG-1044- - Eggs, Small, (PUR)",pcs,0,6,0,2024-07-01,Uncategorized,[],{}
+OBJ537,EGG-1050-,EGG-1050- - Brown Eggs (PUR),pcs,0,3,0,2019-11-01,Uncategorized,[],{}
+OBJ538,EGG-1050-R,EGG-1050-R - Brown Eggs (PUR) 15/1 DOZEN,pcs,0,3,0,2017-05-01,Uncategorized,[],{}
+OBJ539,EGG-1051-,"EGG-1051- - Eggs, Medium, (PUR)",pcs,0,7,0,2025-02-01,Uncategorized,[],{}
+OBJ540,EGG-1059-,EGG-1059- - Liquid Eggs,pcs,0,3,0,2021-10-01,Uncategorized,[],{}
+OBJ541,EGG-1064-,"EGG-1064- - Eggs, Medium, (PUR)",pcs,0,15,0,2023-06-01,Uncategorized,[],{}
+OBJ542,EGG-1067-,"EGG-1067- - Eggs, Medium/Small, (FEMA)",pcs,0,20,0,2024-12-01,Uncategorized,[],{}
+OBJ543,ENT-0400-,"ENT-0400- - Entree, Beef Stew, Chunky,",pcs,0,4,0,2024-12-01,Uncategorized,[],{}
+OBJ544,ENT-1032-R,ENT-1032-R - Beef Bites & Cheese Lunch Kit,pcs,0,5,0,2015-12-01,Uncategorized,[],{}
+OBJ545,ENT-1039-,ENT-1039- - Chicken Caesar Salad Bowls,pcs,0,7,0,2017-06-01,Uncategorized,[],{}
+OBJ546,ENT-1044-,ENT-1044- - Pepperoni Pizza Lunchables,pcs,0,5,0,2019-02-01,Uncategorized,[],{}
+OBJ547,ENT-1075-C,ENT-1075-C - Beef and Vegetable Stew (PUR),pcs,0,2,0,2015-12-01,Uncategorized,[],{}
+OBJ548,ENT-1077-,ENT-1077- - Turkey & Cheddar Lunch Kits,pcs,0,5,0,2024-10-01,Uncategorized,[],{}
+OBJ549,ENT-1084-,ENT-1084- - Turkey & Colby Lunch Kits,pcs,0,10,0,2024-11-01,Uncategorized,[],{}
+OBJ550,ENT-1104-,ENT-1104- - Beef Ravioli in Tomato Sauce,pcs,0,3,0,2021-07-01,Uncategorized,[],{}
+OBJ551,ENT-1112-,ENT-1112- - Cheesy Rice & Vegetables,pcs,0,3,0,2019-08-01,Uncategorized,[],{}
+OBJ552,ENT-1121-,ENT-1121- - Beef Ravioli in Tomato Sauce,pcs,0,8,0,2020-12-01,Uncategorized,[],{}
+OBJ553,ENT-1121-C,ENT-1121-C - Beef Ravioli in Tomato Sauce (PUR),pcs,0,2,0,2015-12-01,Uncategorized,[],{}
+OBJ554,ENT-1159-,ENT-1159- - Macaroni in Tomato and Beef,pcs,0,2,0,2017-10-01,Uncategorized,[],{}
+OBJ555,ENT-1166-,ENT-1166- - Beef Stew (PUR),pcs,0,6,0,2021-03-01,Uncategorized,[],{}
+OBJ556,ENT-1172-,ENT-1172- - Chicken Chili (PUR),pcs,0,3,0,2021-12-01,Uncategorized,[],{}
+OBJ557,ENT-1176-,ENT-1176- - Chicken Chili w/ Beans (FEMA),pcs,0,8,0,2017-10-01,Uncategorized,[],{}
+OBJ558,ENT-1183-,ENT-1183- - Vegetarian Chili w/ Beans (PUR),pcs,0,1,0,2017-09-01,Uncategorized,[],{}
+OBJ559,ENT-1183-D,ENT-1183-D - Vegetarian Chili w/ Beans (PUR),pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ560,ENT-1187-,ENT-1187- - Beef Chili w/ Beans (PUR),pcs,0,1,0,2018-09-01,Uncategorized,[],{}
+OBJ561,ENT-1188-,ENT-1188- - Vegetarian Chili W/ Beans,pcs,0,1,0,2018-06-01,Uncategorized,[],{}
+OBJ562,ENT-1189-,ENT-1189- - Beef Stew (PUR),pcs,0,4,0,2021-01-01,Uncategorized,[],{}
+OBJ563,ENT-1189-D,ENT-1189-D - Beef Stew (PUR) 12/15OZ CANS CASE SNK-2955-D Blue Corn Tortilla,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ564,ENT-1190-,ENT-1190- - Spaghetti Rings (SUB),pcs,0,20,0,2017-04-01,Uncategorized,[],{}
+OBJ565,ENT-1191-,ENT-1191- - Chicken Ravioli (PUR),pcs,0,2,0,2020-01-01,Uncategorized,[],{}
+OBJ566,ENT-1192-,ENT-1192- - Chicken + Vegetable Stew,pcs,0,8,0,2017-10-01,Uncategorized,[],{}
+OBJ567,ENT-1196-,ENT-1196- - Spaghetti in Tomato and Meat,pcs,0,1,0,2018-07-01,Uncategorized,[],{}
+OBJ568,ENT-1198-,ENT-1198- - Red Lentil Jambalaya,pcs,0,3,0,2024-07-01,Uncategorized,[],{}
+OBJ569,ENT-1204-,ENT-1204- - Pork & Beans (FEMA),pcs,0,8,0,2018-08-01,Uncategorized,[],{}
+OBJ570,ENT-1205-,ENT-1205- - Corned Beef Hash (FEMA),pcs,0,8,0,2018-11-01,Uncategorized,[],{}
+OBJ571,ENT-1206-,ENT-1206- - Spaghetti Rings (PUR),pcs,0,9,0,2020-06-01,Uncategorized,[],{}
+OBJ572,ENT-1207-,ENT-1207- - Spaghetti and Meatballs (PUR),pcs,0,9,0,2020-07-01,Uncategorized,[],{}
+OBJ573,ENT-1208-,ENT-1208- - Beef Ravioli (SUB),pcs,0,3,0,2018-07-01,Uncategorized,[],{}
+OBJ574,ENT-1209-,ENT-1209- - Ring Pasta in Sauce (SUB),pcs,0,2,0,2018-10-01,Uncategorized,[],{}
+OBJ575,ENT-1212-,ENT-1212- - Spaghetti and Meatballs (SUB),pcs,0,10,0,2018-04-01,Uncategorized,[],{}
+OBJ576,ENT-1217-,ENT-1217- - Cheesy Rice & Vegetables Meal,pcs,0,3,0,2018-08-01,Uncategorized,[],{}
+OBJ577,ENT-1218-,ENT-1218- - Coconut Curry Cooking Kit,pcs,0,4,0,2018-08-01,Uncategorized,[],{}
+OBJ578,ENT-1219-,ENT-1219- - Thai Curry Noodle Kit,pcs,0,4,0,2018-11-01,Uncategorized,[],{}
+OBJ579,ENT-1220-,ENT-1220- - Massaman Curry Kit,pcs,0,5,0,2018-11-01,Uncategorized,[],{}
+OBJ580,ENT-1222-,"ENT-1222- - Entree, Beef Chili w/Beans,",pcs,0,9,0,2022-11-01,Uncategorized,[],{}
+OBJ581,ENT-1223-,ENT-1223- - Spaghetti & Meatballs (PUR),pcs,0,6,0,2019-08-01,Uncategorized,[],{}
+OBJ582,ENT-1224-,ENT-1224- - Beef Ravioli (PUR),pcs,0,18,0,2024-05-01,Uncategorized,[],{}
+OBJ583,ENT-1230-,ENT-1230- - Vegetarian Chili (PUR),pcs,0,2,0,2019-12-01,Uncategorized,[],{}
+OBJ584,ENT-1232-,ENT-1232- - Pasta w/Garden Vegetable Meals,pcs,0,2,0,2019-10-01,Uncategorized,[],{}
+OBJ585,ENT-1233-,ENT-1233- - Fortified Pasta w/ Tomato Basil,pcs,0,5,0,2023-12-01,Uncategorized,[],{}
+OBJ586,ENT-1234-,"ENT-1234- - Entree, Beef Chili, w/out Beans,",pcs,0,4,0,2025-02-01,Uncategorized,[],{}
+OBJ587,ENT-1235-,"ENT-1235- - Entree, Spaghetti O's in Tomato",pcs,0,9,0,2025-02-01,Uncategorized,[],{}
+OBJ588,ENT-1239-,ENT-1239- - Spaghetti O's (TANF),pcs,0,3,0,2020-12-01,Uncategorized,[],{}
+OBJ589,ENT-1241-,ENT-1241- - Chili con Carne w/ Beans,pcs,0,3,0,2020-06-01,Uncategorized,[],{}
+OBJ590,ENT-1244-,ENT-1244- - Beef Lasagna (PUR),pcs,0,10,0,2020-09-01,Uncategorized,[],{}
+OBJ591,ENT-1245-,ENT-1245- - Beef Stew (PUR),pcs,0,2,0,2020-09-01,Uncategorized,[],{}
+OBJ592,ENT-1248-,ENT-1248- - Ready to Eat Meals - Medium,pcs,0,1,0,2021-02-01,Uncategorized,[],{}
+OBJ593,ENT-1250-,ENT-1250- - Beefaroni (FEMA),pcs,0,6,0,2021-03-01,Uncategorized,[],{}
+OBJ594,ENT-1251-,ENT-1251- - Beef Chili w/Beans (PUR),pcs,0,2,0,2020-11-01,Uncategorized,[],{}
+OBJ595,ENT-1252-,"ENT-1252- - Entree, Sketti O's and Beef, (PUR)",pcs,0,10,0,2023-06-01,Uncategorized,[],{}
+OBJ596,ENT-1254-,ENT-1254- - Vegetable Stew w/ Beef (PUR),pcs,0,2,0,2021-06-01,Uncategorized,[],{}
+OBJ597,ENT-1255-,ENT-1255- - Spaghetti and Meatballs (PUR),pcs,0,8,0,2021-10-01,Uncategorized,[],{}
+OBJ598,ENT-1256-,ENT-1256- - Cheeseburger Macaroni &,pcs,0,2,0,2021-03-01,Uncategorized,[],{}
+OBJ599,ENT-1257-,ENT-1257- - Vegetarian Chili W/ Beans,pcs,0,4,0,2022-04-01,Uncategorized,[],{}
+OBJ600,ENT-1258-,ENT-1258- - Spaghetti in Tomato Sauce w/,pcs,0,10,0,2022-04-01,Uncategorized,[],{}
+OBJ601,ENT-1259-,ENT-1259- - Vegetable Ravioli (TANF),pcs,0,2,0,2021-10-01,Uncategorized,[],{}
+OBJ602,ENT-1260-,ENT-1260- - Chicken and Tuna Salad Kits,pcs,0,3,0,2021-10-01,Uncategorized,[],{}
+OBJ603,ENT-1267-,ENT-1267- - Uncle Ben's Rice w/ Garden,pcs,0,3,0,2021-10-01,Uncategorized,[],{}
+OBJ604,ENT-1268-,"ENT-1268- - Entree, Spaghetti Rings, Canned,",pcs,0,6,0,2024-07-01,Uncategorized,[],{}
+OBJ605,ENT-1270-,ENT-1270- - Beef Chili w/Beans (PUR),pcs,0,3,0,2022-04-01,Uncategorized,[],{}
+OBJ606,ENT-1274-,ENT-1274- - Spaghetti Rings (TANF),pcs,0,8,0,2022-06-01,Uncategorized,[],{}
+OBJ607,ENT-1277-,"ENT-1277- - Entree, Ditalini Pasta in Tomato",pcs,0,9,0,2022-11-01,Uncategorized,[],{}
+OBJ608,ENT-1279-,ENT-1279- - Sweet & Spicy Tuna Salad Kits,pcs,0,3,0,2022-05-01,Uncategorized,[],{}
+OBJ609,ENT-1287-,ENT-1287- - Chicken Carrot Ravioli in Chicken,pcs,0,10,0,2022-11-01,Uncategorized,[],{}
+OBJ610,ENT-1289-,ENT-1289- - Cheeseburger Pasta and Sauce,pcs,0,3,0,2022-11-01,Uncategorized,[],{}
+OBJ611,ENT-1290-,ENT-1290- - Louisiana Style Red Beans And,pcs,0,5,0,2022-12-01,Uncategorized,[],{}
+OBJ612,ENT-1296-,ENT-1296- - Indian Coconut Squash Dal,pcs,0,2,0,2023-03-01,Uncategorized,[],{}
+OBJ613,ENT-1297-,ENT-1297- - Emergency Ready To Eat Meals,pcs,0,6,0,2023-04-01,Uncategorized,[],{}
+OBJ614,ENT-1300-,ENT-1300- - Skillet Meals -2 Flavor Pack,pcs,0,10,0,2023-06-01,Uncategorized,[],{}
+OBJ615,ENT-1301-,ENT-1301- - Mashed Potatoes & Beef In,pcs,0,5,0,2023-07-01,Uncategorized,[],{}
+OBJ616,ENT-1303-,"ENT-1303- - Entree, Beef Chili, With Beans,",pcs,0,7,0,2024-09-01,Uncategorized,[],{}
+OBJ617,ENT-1306-,ENT-1306- - Augratin Potato Casserole -,pcs,0,3,0,2024-03-01,Uncategorized,[],{}
+OBJ618,ENT-1895-Z,ENT-1895-Z - Margherita Thin Crust Pizza,pcs,0,2,0,2015-12-01,Uncategorized,[],{}
+OBJ619,ENT-1896-Z,"ENT-1896-Z - 10"" Spinach Pizza - Gluten & Dairy",pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ620,ENT-1901-Z,ENT-1901-Z - Spinach & Goat Cheese,pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ621,ENT-1964-,ENT-1964- - Meat Lovers Stuffed Hash Browns,pcs,0,20,0,2017-04-01,Uncategorized,[],{}
+OBJ622,ENT-1964-Z,ENT-1964-Z - Meat Lovers Stuffed Hash Browns,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ623,ENT-1965-,ENT-1965- - Chicken & Bacon on an Apple,pcs,0,5,0,2017-06-01,Uncategorized,[],{}
+OBJ624,ENT-1965-Z,ENT-1965-Z - Chicken & Bacon on an Apple CASE,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ625,ENT-1972-,ENT-1972- - Tuscan Inspired Chicken,pcs,0,5,0,2017-10-01,Uncategorized,[],{}
+OBJ626,ENT-1977-,ENT-1977- - Sausage Egg and Cheese,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ627,ENT-1987-,ENT-1987- - Grilled Cheese Sandwiches,pcs,0,4,0,2018-03-01,Uncategorized,[],{}
+OBJ628,ENT-1988-,ENT-1988- - Spicy Sausage Bagels,pcs,0,2,0,2018-06-01,Uncategorized,[],{}
+OBJ629,ENT-1989-,ENT-1989- - Andouille Scrambled Wrap,pcs,0,2,0,2018-07-01,Uncategorized,[],{}
+OBJ630,ENT-1998-,ENT-1998- - Savory Breakfast Croissants,pcs,0,2,0,2018-10-01,Uncategorized,[],{}
+OBJ631,ENT-2000-,ENT-2000- - 3 Meat Pizza,pcs,0,3,0,2018-08-01,Uncategorized,[],{}
+OBJ632,ENT-2017-,ENT-2017- - Cheese Stuffed Gnocchi,pcs,0,4,0,2018-12-01,Uncategorized,[],{}
+OBJ633,ENT-2019-,"ENT-2019- - Ham, Swiss, and Egg Breakfast",pcs,0,3,0,2019-01-01,Uncategorized,[],{}
+OBJ634,ENT-2030-,ENT-2030- - Cheese & Pepperoni Bagel Bites,pcs,0,3,0,2019-06-01,Uncategorized,[],{}
+OBJ635,ENT-2056-,ENT-2056- - Pepperoni Pizza,pcs,0,5,0,2020-08-01,Uncategorized,[],{}
+OBJ636,ENT-2061-,ENT-2061- - Deep Dish Sausage Pizza,pcs,0,8,0,2020-11-01,Uncategorized,[],{}
+OBJ637,ENT-2062-,ENT-2062- - Sausage Pizza,pcs,0,5,0,2020-12-01,Uncategorized,[],{}
+OBJ638,ENT-2065-,ENT-2065- - Assorted Flavor Cauliflower Crust,pcs,0,6,0,2021-01-01,Uncategorized,[],{}
+OBJ639,ENT-2069-,ENT-2069- - Vegan Chili w/ Beyond Meat,pcs,0,2,0,2021-06-01,Uncategorized,[],{}
+OBJ640,ENT-2076-,"ENT-2076- - 10"" Pepperoni Pizza (Basil Street)",pcs,0,5,0,2023-05-01,Uncategorized,[],{}
+OBJ641,ENT-2078-,"ENT-2078- - 10"" Pepperoni Pizzas",pcs,0,20,0,2023-02-01,Uncategorized,[],{}
+OBJ642,ENT-2079-,"ENT-2079- - 10"" Supreme Pizzas",pcs,0,5,0,2023-02-01,Uncategorized,[],{}
+OBJ643,ENT-2083-,ENT-2083- - Breakfast Croissant,pcs,0,3,0,2021-11-01,Uncategorized,[],{}
+OBJ644,ENT-2101-,ENT-2101- - Party Pizza - Pepperoni,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ645,ENT-2103-,ENT-2103- - Whole Grain Chocolate Chip,pcs,0,5,0,2022-12-01,Uncategorized,[],{}
+OBJ646,ENT-2125-,ENT-2125- - Cremini Mushrooms and Miso,pcs,0,6,0,2023-02-01,Uncategorized,[],{}
+OBJ647,ENT-2128-,ENT-2128- - Turkey Ham & Turkey Salami,pcs,0,20,0,2023-02-01,Uncategorized,[],{}
+OBJ648,ENT-2134-,ENT-2134- - Riced Cauliflower With Italian,pcs,0,5,0,2023-03-01,Uncategorized,[],{}
+OBJ649,ENT-2137-,ENT-2137- - Butternut Squash Veggie Spirals,pcs,0,10,0,2023-03-01,Uncategorized,[],{}
+OBJ650,ENT-2148-,ENT-2148- - Whole Grain Turkey & Cheese,pcs,0,10,0,2023-03-01,Uncategorized,[],{}
+OBJ651,ENT-2163-,ENT-2163- - Black Truffle Fonduta Fettuccine,pcs,0,3,0,2023-07-01,Uncategorized,[],{}
+OBJ652,ENT-2181-,ENT-2181- - Steamfresh Rigatoni and,pcs,0,30,0,2023-11-01,Uncategorized,[],{}
+OBJ653,ENT-2182-,ENT-2182- - 4 Cheese Calzones,pcs,0,40,0,2023-10-01,Uncategorized,[],{}
+OBJ654,ENT-2188-,ENT-2188- - Roasted Vegetables Pizza,pcs,0,5,0,2023-11-01,Uncategorized,[],{}
+OBJ655,ENT-2193-,ENT-2193- - Peanut Butter & Grape Jelly On,pcs,0,12,0,2023-12-01,Uncategorized,[],{}
+OBJ656,ENT-2195-,ENT-2195- - Take &,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ657,ENT-2196-,ENT-2196- - Naked Burrito Made w/Beyond,pcs,0,6,0,2024-08-01,Uncategorized,[],{}
+OBJ658,ENT-2197-,ENT-2197- - Korean Inspired Bowl w/Beyond,pcs,0,10,0,2024-04-01,Uncategorized,[],{}
+OBJ659,ENT-2198-,ENT-2198- - Seriously Sriracha Tofu & Rice,pcs,0,16,0,2024-11-01,Uncategorized,[],{}
+OBJ660,ENT-2199-,ENT-2199- - Wicked Meaty Pizza - Plant-,pcs,0,8,0,2024-03-01,Uncategorized,[],{}
+OBJ661,ENT-2201-,ENT-2201- - Peng Panang Tofu Curry,pcs,0,10,0,2024-12-01,Uncategorized,[],{}
+OBJ662,ENT-2218-,ENT-2218- - Sourdough Crust Meatball Pizza,pcs,0,5,0,2024-05-01,Uncategorized,[],{}
+OBJ663,ENT-2230-,ENT-2230- - Turkey & Cheese/Ham & Cheese,pcs,0,20,0,2024-08-01,Uncategorized,[],{}
+OBJ664,ENT-2241-,ENT-2241- - Pepper-No-Ni Vegan Pizza,pcs,0,5,0,2024-10-01,Uncategorized,[],{}
+OBJ665,ENT-2250-,ENT-2250- - Seriously Sriracha Tofu & Rice,pcs,0,6,0,2024-12-01,Uncategorized,[],{}
+OBJ666,FRU-0104-,FRU-0104- - Cranberry Sauce (USDA),pcs,0,1,0,2018-01-01,Uncategorized,[],{}
+OBJ667,FRU-0127-,"FRU-0127- - Applesauce, (USDA)",pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ668,FRU-0207-,"FRU-0207- - Cherries, Dry, (USDA)",pcs,0,10,0,2024-08-01,Uncategorized,[],{}
+OBJ669,FRU-1001-,"FRU-1001- - Raisins, (USDA)",pcs,0,11,0,2025-02-01,Uncategorized,[],{}
+OBJ670,FRU-1002-,FRU-1002- - Raisins (USDA),pcs,0,6,0,2022-10-01,Uncategorized,[],{}
+OBJ671,FRU-1005-,"FRU-1005- - Dates, Whole, Pitted, (USDA)",pcs,0,6,0,2023-11-01,Uncategorized,[],{}
+OBJ672,FRU-1006-,"FRU-1006- - Cranberries, Dry, (USDA)",pcs,0,4,0,2025-02-01,Uncategorized,[],{}
+OBJ673,FRU-1028-,"FRU-1028- - Cherries, Red, Pitted, Frozen",pcs,0,5,0,2024-10-01,Uncategorized,[],{}
+OBJ674,FRU-1031-,"FRU-1031- - Blueberries, Highbush, Frozen,",pcs,0,5,0,2024-12-01,Uncategorized,[],{}
+OBJ675,FRU-1032-,"FRU-1032- - Cherries, Sweet, Pitted, Frozen,",pcs,0,7,0,2023-11-01,Uncategorized,[],{}
+OBJ676,FRU-1034-,"FRU-1034- - Raspberry, Red Puree, Frozen,",pcs,0,6,0,2024-12-01,Uncategorized,[],{}
+OBJ677,FRU-1035-,"FRU-1035- - Strawberries, Cups, Frozen,",pcs,0,6,0,2024-01-01,Uncategorized,[],{}
+OBJ678,FRU-1036-,"FRU-1036- - Strawberries, Whole,",pcs,0,5,0,2025-02-01,Uncategorized,[],{}
+OBJ679,FRU-1037-,"FRU-1037- - Apricots, Frozen, Cups, (USDA)",pcs,0,6,0,2024-05-01,Uncategorized,[],{}
+OBJ680,FRU-1038-,FRU-1038- - Diced Frozen Freestone Peaches,pcs,0,4,0,2023-06-01,Uncategorized,[],{}
+OBJ681,FRU-1040-,"FRU-1040- - Apples, Slices, Frozen, (USDA)",pcs,0,5,0,2024-08-01,Uncategorized,[],{}
+OBJ682,FRU-1046-,"FRU-1046- - Peaches, Freestone Slices, Frozen,",pcs,0,6,0,2024-10-01,Uncategorized,[],{}
+OBJ683,FRU-1068-,"FRU-1068- - Raisins, Bagged (USDA)",pcs,0,1,0,2018-02-01,Uncategorized,[],{}
+OBJ684,FRU-1108-,FRU-1108- - Canned Diced Tomatoes (FEMA),pcs,0,3,0,2019-02-01,Uncategorized,[],{}
+OBJ685,FRU-1220-,FRU-1220- - Sweetened Applesauce (PUR),pcs,0,7,0,2020-11-01,Uncategorized,[],{}
+OBJ686,FRU-1240-,FRU-1240- - Mandarin Oranges in Juice (PUR),pcs,0,6,0,2022-04-01,Uncategorized,[],{}
+OBJ687,FRU-1240-C,FRU-1240-C - Mandarin Oranges in Light Syrup,pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ688,FRU-1251-,"FRU-1251- - Peaches, Slices in Juice, Canned,",pcs,0,2,0,2022-07-01,Uncategorized,[],{}
+OBJ689,FRU-1251-D,FRU-1251-D - Sliced Peaches in Juice (PUR),pcs,0,4,0,2017-05-01,Uncategorized,[],{}
+OBJ690,FRU-1266-,FRU-1266- - Mandarin Oranges in Light Syrup,pcs,0,6,0,2021-11-01,Uncategorized,[],{}
+OBJ691,FRU-1277-,FRU-1277- - Mixed Fruit in Light Syrup (PUR),pcs,0,10,0,2017-05-01,Uncategorized,[],{}
+OBJ692,FRU-1277-D,FRU-1277-D - Mixed Fruit in Light Syrup (PUR),pcs,0,10,0,2017-05-01,Uncategorized,[],{}
+OBJ693,FRU-1287-,FRU-1287- - Sliced Pears in Light Syrup (PUR),pcs,0,8,0,2020-06-01,Uncategorized,[],{}
+OBJ694,FRU-1295-,"FRU-1295- - Sauce, Cranberry, (Holiday)",pcs,0,11,0,2023-11-01,Uncategorized,[],{}
+OBJ695,FRU-1361-,FRU-1361- - Peach Halves in Light Syrup,pcs,0,3,0,2020-12-01,Uncategorized,[],{}
+OBJ696,FRU-1365-,FRU-1365- - Whole Purple Plums in Light,pcs,0,1,0,2018-06-01,Uncategorized,[],{}
+OBJ697,FRU-1367-,FRU-1367- - Pear Slices in Juice (PUR),pcs,0,1,0,2019-11-01,Uncategorized,[],{}
+OBJ698,FRU-1378-,FRU-1378- - Diced Tomatoes (SUB),pcs,0,2,0,2018-07-01,Uncategorized,[],{}
+OBJ699,FRU-1379-,"FRU-1379- - Applesauce, Cups, (USDA)",pcs,0,5,0,2025-02-01,Uncategorized,[],{}
+OBJ700,FRU-1382-,FRU-1382- - Sliced Mangos in Light Syrup,pcs,0,2,0,2021-11-01,Uncategorized,[],{}
+OBJ701,FRU-1384-X,FRU-1384-X - Sliced Peaches in Light Syrup (SUB),pcs,0,4,0,2015-12-01,Uncategorized,[],{}
+OBJ702,FRU-1392-,FRU-1392- - Pineapple Slices (PUR),pcs,0,2,0,2020-01-01,Uncategorized,[],{}
+OBJ703,FRU-1402-C,FRU-1402-C - Fruit Cocktail (PUR),pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ704,FRU-1410-,FRU-1410- - Unsweetened Applesauce (FEMA),pcs,0,2,0,2019-05-01,Uncategorized,[],{}
+OBJ705,FRU-1417-,"FRU-1417- - Mandarin Oranges, Canned,",pcs,0,6,0,2023-01-01,Uncategorized,[],{}
+OBJ706,FRU-1421-,FRU-1421- - Purple Plum Halves in Extra Light,pcs,0,2,0,2019-07-01,Uncategorized,[],{}
+OBJ707,FRU-1432-,FRU-1432- - Apricot Halves in Extra Light,pcs,0,10,0,2020-09-01,Uncategorized,[],{}
+OBJ708,FRU-1433-,"FRU-1433- - Mixed Fruit, In Juice, (PUR)",pcs,0,10,0,2024-12-01,Uncategorized,[],{}
+OBJ709,FRU-1440-,FRU-1440- - Apricots in Light Syrup (PUR),pcs,0,2,0,2018-06-01,Uncategorized,[],{}
+OBJ710,FRU-1442-,FRU-1442- - Fruit Cocktail (SUB),pcs,0,4,0,2018-07-01,Uncategorized,[],{}
+OBJ711,FRU-1446-,FRU-1446- - Sliced Peaches in Light Syrup,pcs,0,4,0,2018-03-01,Uncategorized,[],{}
+OBJ712,FRU-1448-,FRU-1448- - Whole Purple Plums (SUB),pcs,0,3,0,2018-08-01,Uncategorized,[],{}
+OBJ713,FRU-1451-,"FRU-1451- - Pears, Sliced in Juice, Canned,",pcs,0,5,0,2024-11-01,Uncategorized,[],{}
+OBJ714,FRU-1452-,FRU-1452- - Canned Sliced Clingstone,pcs,0,3,0,2024-02-01,Uncategorized,[],{}
+OBJ715,FRU-1453-,FRU-1453- - Tomato Wedges (PUR),pcs,0,2,0,2018-08-01,Uncategorized,[],{}
+OBJ716,FRU-1454-,FRU-1454- - Fig Pieces (USDA),pcs,0,4,0,2023-03-01,Uncategorized,[],{}
+OBJ717,FRU-1455-,FRU-1455- - Fruit Cocktail in Juice (PUR),pcs,0,4,0,2021-11-01,Uncategorized,[],{}
+OBJ718,FRU-1457-,FRU-1457- - Canned Purple Plums (USDA),pcs,0,2,0,2021-10-01,Uncategorized,[],{}
+OBJ719,FRU-1462-,FRU-1462- - Diced Peaches in Juice (PUR),pcs,0,1,0,2018-12-01,Uncategorized,[],{}
+OBJ720,FRU-1467-,FRU-1467- - Sliced Pears in Juice (FEMA),pcs,0,2,0,2022-03-01,Uncategorized,[],{}
+OBJ721,FRU-1468-,FRU-1468- - Sliced Mangos in Light Syrup,pcs,0,10,0,2018-08-01,Uncategorized,[],{}
+OBJ722,FRU-1469-,FRU-1469- - Organic Banana Strawberry,pcs,0,5,0,2017-10-01,Uncategorized,[],{}
+OBJ723,FRU-1470-,FRU-1470- - Pear Halves in Light Syrup (SUB),pcs,0,4,0,2018-01-01,Uncategorized,[],{}
+OBJ724,FRU-1471-,FRU-1471- - Dried Highbush Blueberries,pcs,0,6,0,2021-03-01,Uncategorized,[],{}
+OBJ725,FRU-1472-,"FRU-1472- - Pears, Canned, (USDA)",pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ726,FRU-1476-,"FRU-1476- - Plums, Pitted, Dry, (USDA)",pcs,0,6,0,2024-03-01,Uncategorized,[],{}
+OBJ727,FRU-1480-,FRU-1480- - Mixed Fruit in Juice (FEMA),pcs,0,8,0,2019-09-01,Uncategorized,[],{}
+OBJ728,FRU-1481-,FRU-1481- - Apricots in Extra Light Syrup,pcs,0,4,0,2019-08-01,Uncategorized,[],{}
+OBJ729,FRU-1482-,FRU-1482- - Mixed Fruit (USDA),pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ730,FRU-1483-,FRU-1483- - Pineapple Tidbits in Juice (PUR),pcs,0,3,0,2019-01-01,Uncategorized,[],{}
+OBJ731,FRU-1485-,FRU-1485- - Peach Slices in Juice (PUR),pcs,0,2,0,2019-04-01,Uncategorized,[],{}
+OBJ732,FRU-1486-,FRU-1486- - Sliced Pineapples in Juice (PUR),pcs,0,1,0,2019-05-01,Uncategorized,[],{}
+OBJ733,FRU-1487-,FRU-1487- - Peach Halves in Light Syrup,pcs,0,1,0,2020-01-01,Uncategorized,[],{}
+OBJ734,FRU-1490-,FRU-1490- - Canned Pineapple (SAL),pcs,0,2,0,2019-03-01,Uncategorized,[],{}
+OBJ735,FRU-1495-,FRU-1495- - Dried Cranberries (USDA),pcs,0,6,0,2022-02-01,Uncategorized,[],{}
+OBJ736,FRU-1498-,"FRU-1498- - Apricot, Halves, Canned (USDA)",pcs,0,8,0,2024-03-01,Uncategorized,[],{}
+OBJ737,FRU-1499-,FRU-1499- - Canned Pear Slices (USDA),pcs,0,8,0,2019-10-01,Uncategorized,[],{}
+OBJ738,FRU-1501-,FRU-1501- - Tomatoes in Olive Oil & Italian,pcs,0,3,0,2020-01-01,Uncategorized,[],{}
+OBJ739,FRU-1503-,FRU-1503- - Sliced Peaches in Juice (FEMA),pcs,0,11,0,2020-09-01,Uncategorized,[],{}
+OBJ740,FRU-1510-,"FRU-1510- - Pears, Diced in Juice, (PUR)",pcs,0,18,0,2024-05-01,Uncategorized,[],{}
+OBJ741,FRU-1518-,FRU-1518- - Sliced Mangoes in Light Syrup,pcs,0,2,0,2020-12-01,Uncategorized,[],{}
+OBJ742,FRU-1521-,FRU-1521- - Mandarin Segments in Juice,pcs,0,10,0,2020-12-01,Uncategorized,[],{}
+OBJ743,FRU-1527-,FRU-1527- - Clingstone Sliced Peaches,pcs,0,6,0,2021-11-01,Uncategorized,[],{}
+OBJ744,FRU-1528-,FRU-1528- - Unsweetened Applesauce,pcs,0,22,0,2020-12-01,Uncategorized,[],{}
+OBJ745,FRU-1529-,FRU-1529- - Dried Fruit Mix (USDA),pcs,0,3,0,2021-03-01,Uncategorized,[],{}
+OBJ746,FRU-1530-,FRU-1530- - Dried Cherries (USDA),pcs,0,5,0,2021-06-01,Uncategorized,[],{}
+OBJ747,FRU-1531-,"FRU-1531- - Tomatoes, Diced, Canned,",pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ748,FRU-1532-,FRU-1532- - Diced Tomatoes (FEMA),pcs,0,3,0,2021-04-01,Uncategorized,[],{}
+OBJ749,FRU-1533-,FRU-1533- - Sliced Peaches in Light Syrup,pcs,0,3,0,2020-11-01,Uncategorized,[],{}
+OBJ750,FRU-1537-,FRU-1537- - Pineapple Chunks in Juice (FEMA),pcs,0,3,0,2022-05-01,Uncategorized,[],{}
+OBJ751,FRU-1538-,FRU-1538- - Pineapple Tidbits in Juice (FEMA),pcs,0,1,0,2022-03-01,Uncategorized,[],{}
+OBJ752,FRU-1542-,FRU-1542- - Mixed Fruit in Juice (TANF),pcs,0,2,0,2021-10-01,Uncategorized,[],{}
+OBJ753,FRU-1543-,FRU-1543- - Diced Peaches in Juice (TANF),pcs,0,2,0,2022-06-01,Uncategorized,[],{}
+OBJ754,FRU-1544-,"FRU-1544- - Cherries, Dry, Sweet, (USDA)",pcs,0,5,0,2024-08-01,Uncategorized,[],{}
+OBJ755,FRU-1546-,"FRU-1546- - Tomatoes, Diced, No Salt Added,",pcs,0,5,0,2024-01-01,Uncategorized,[],{}
+OBJ756,FRU-1555-,FRU-1555- - Diced Peach Cups (USDA) in,pcs,0,14,0,2022-10-01,Uncategorized,[],{}
+OBJ757,FRU-1561-,"FRU-1561- - Date Pieces, Dried (USDA)",pcs,0,6,0,2024-12-01,Uncategorized,[],{}
+OBJ758,FRU-1563-,"FRU-1563- - Tomatoes, Diced, Canned (PUR)",pcs,0,10,0,2023-03-01,Uncategorized,[],{}
+OBJ759,FRU-1565-,FRU-1565- - Italian Diced Tomatoes,pcs,0,6,0,2022-10-01,Uncategorized,[],{}
+OBJ760,FRU-1567-,FRU-1567- - Thick & Chunky Applesauce,pcs,0,5,0,2023-01-01,Uncategorized,[],{}
+OBJ761,FRU-1568-,"FRU-1568- - Tomatoes, Diced, No Salt Added,",pcs,0,7,0,2023-07-01,Uncategorized,[],{}
+OBJ762,FRU-1569-,FRU-1569- - Diced Tomatoes In Juice,pcs,0,5,0,2023-03-01,Uncategorized,[],{}
+OBJ763,FRU-1570-,"FRU-1570- - Applesauce, Unsweetened",pcs,0,4,0,2023-04-01,Uncategorized,[],{}
+OBJ764,FRU-1571-,FRU-1571- - Mixed Fruit in Juice (TANF),pcs,0,9,0,2023-04-01,Uncategorized,[],{}
+OBJ765,FRU-1573-,FRU-1573- - Organic Crushed Tomatoes with,pcs,0,14,0,2023-04-01,Uncategorized,[],{}
+OBJ766,FRU-1576-,FRU-1576- - Diced Tomatoes (Hunts),pcs,0,10,0,2023-07-01,Uncategorized,[],{}
+OBJ767,FRU-1579-,FRU-1579- - Diced Tomatoes,pcs,0,5,0,2023-06-01,Uncategorized,[],{}
+OBJ768,FRU-1585-,FRU-1585- - Assorted Fruit Cups - 36 Count,pcs,0,12,0,2023-09-01,Uncategorized,[],{}
+OBJ769,FRU-1587-,"FRU-1587- - Tomatoes, Diced, No Salt Added,",pcs,0,7,0,2024-12-01,Uncategorized,[],{}
+OBJ770,FRU-1589-,FRU-1589- - Whole Peeled Tomatoes In,pcs,0,12,0,2023-10-01,Uncategorized,[],{}
+OBJ771,FRU-1591-,FRU-1591- - Organic Diced Tomatoes w/Garlic,pcs,0,6,0,2023-11-01,Uncategorized,[],{}
+OBJ772,FRU-1592-,FRU-1592- - Organic Fire Roasted Diced,pcs,0,6,0,2023-12-01,Uncategorized,[],{}
+OBJ773,FRU-1596-,FRU-1596- - Mandarin Orange Fruit Cups,pcs,0,5,0,2024-03-01,Uncategorized,[],{}
+OBJ774,FRU-1612-,"FRU-1612- - Sauce, Cranberry, (FEMA-",pcs,0,18,0,2024-11-01,Uncategorized,[],{}
+OBJ775,FRU-1613-,"FRU-1613- - Tomatoes, Diced, Canned (PUR)",pcs,0,12,0,2025-02-01,Uncategorized,[],{}
+OBJ776,GEN-1012-,GEN-1012- - GCFD Baseball Hats,pcs,0,1,0,2021-03-01,Uncategorized,[],{}
+OBJ777,GRA-1089-,"GRA-1089- - Flour, All Purpose, Enriched,",pcs,0,5,0,2024-01-01,Uncategorized,[],{}
+OBJ778,GRA-1090-,GRA-1090- - White Corn Grits (USDA),pcs,0,2,0,2021-07-01,Uncategorized,[],{}
+OBJ779,GRA-1092-,GRA-1092- - Grits (FEMA),pcs,0,3,0,2021-03-01,Uncategorized,[],{}
+OBJ780,GRA-1093-,GRA-1093- - Fine Yellow Grits (USDA),pcs,0,2,0,2019-11-01,Uncategorized,[],{}
+OBJ781,GRA-1094-,GRA-1094- - All Purpose Enriched Flour,pcs,0,4,0,2018-04-01,Uncategorized,[],{}
+OBJ782,GRA-1096-,GRA-1096- - All Purpose Flour (FEMA),pcs,0,6,0,2018-12-01,Uncategorized,[],{}
+OBJ783,GRA-1104-,GRA-1104- - White Corn Grits (USDA),pcs,0,3,0,2022-11-01,Uncategorized,[],{}
+OBJ784,GRA-1108-,"GRA-1108- - Flour, White Whole Wheat,",pcs,0,4,0,2025-02-01,Uncategorized,[],{}
+OBJ785,GRN-1175,"GRN-1175 - Rice, Medium Grain, (USDA)",pcs,0,3,0,2024-11-01,Uncategorized,[],{}
+OBJ786,GRN-1292,GRN-1292 - Long Grain Rice (PUR),pcs,0,4,0,2019-03-01,Uncategorized,[],{}
+OBJ787,GRN-1292-D,GRN-1292-D - Long Grain Rice (PUR) 15/2#,pcs,0,2,0,2017-05-01,Uncategorized,[],{}
+OBJ788,GRN-1342,GRN-1342 - Brown Rice (SUB)(RP),pcs,0,4,0,2018-09-01,Uncategorized,[],{}
+OBJ789,GRN-1342-D,GRN-1342-D - Brown Rice (SUB)(RP) 12/3#,pcs,0,2,0,2017-05-01,Uncategorized,[],{}
+OBJ790,GRN-1342-X,GRN-1342-X - Brown Rice (SUB)(RP),pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ791,GRN-1351,"GRN-1351 - Rice, White, Long Grain, (PUR)",pcs,0,30,0,2025-02-01,Uncategorized,[],{}
+OBJ792,GRN-1364,"GRN-1364 - Rice, White, Long Grain, (PUR)",pcs,0,12,0,2022-07-01,Uncategorized,[],{}
+OBJ793,GRN-1366,"GRN-1366 - Rice, White, Long Grain, (PUR)",pcs,0,17,0,2022-05-01,Uncategorized,[],{}
+OBJ794,GRN-1378,GRN-1378 - Long Grain Rice (USDA),pcs,0,1,0,2023-03-01,Uncategorized,[],{}
+OBJ795,GRN-1381,"GRN-1381 - Rice, White, Long Grain, (PUR)",pcs,0,12,0,2024-07-01,Uncategorized,[],{}
+OBJ796,GRN-1383,GRN-1383 - Medium Grain Rice (USDA),pcs,0,1,0,2018-08-01,Uncategorized,[],{}
+OBJ797,GRN-1384,GRN-1384 - Brown Rice (SUB)(RP),pcs,0,6,0,2020-06-01,Uncategorized,[],{}
+OBJ798,GRN-1385,"GRN-1385 - Rice, Long Grain, (USDA)",pcs,0,3,0,2025-02-01,Uncategorized,[],{}
+OBJ799,GRN-1386,GRN-1386 - Brown Rice (USDA),pcs,0,1,0,2019-10-01,Uncategorized,[],{}
+OBJ800,GRN-1387,GRN-1387 - Brown Rice (USDA),pcs,0,1,0,2020-01-01,Uncategorized,[],{}
+OBJ801,GRN-1388,"GRN-1388 - Rice, White, Long Grain, (PUR)",pcs,0,12,0,2024-12-01,Uncategorized,[],{}
+OBJ802,GRN-1389,GRN-1389 - Parboiled Long Brown Rice,pcs,0,1,0,2020-08-01,Uncategorized,[],{}
+OBJ803,GRN-1394,"GRN-1394 - Rice, White, Long Grain, (SUB)",pcs,0,6,0,2022-12-01,Uncategorized,[],{}
+OBJ804,GRN-1401,GRN-1401 - Enriched Long Grain Parboiled,pcs,0,10,0,2020-09-01,Uncategorized,[],{}
+OBJ805,GRN-1411,GRN-1411 - Uncle Ben's Long Grain & Wild,pcs,0,5,0,2021-11-01,Uncategorized,[],{}
+OBJ806,GRN-1412,GRN-1412 - Uncle Ben's Original Long Grain,pcs,0,3,0,2021-12-01,Uncategorized,[],{}
+OBJ807,GRN-1418,"GRN-1418 - Rice, White, Long Grain, (PUR)",pcs,0,10,0,2022-06-01,Uncategorized,[],{}
+OBJ808,GRN-1420,GRN-1420 - Garlic Lime Rice Mix (RP),pcs,0,3,0,2022-06-01,Uncategorized,[],{}
+OBJ809,GRN-1421,GRN-1421 - Mexican Rice Mix (RP),pcs,0,3,0,2022-07-01,Uncategorized,[],{}
+OBJ810,GRN-1428,GRN-1428 - Long Grain Rice w/Garden,pcs,0,10,0,2023-11-01,Uncategorized,[],{}
+OBJ811,GRN-1431,GRN-1431 - Ben's Original Rice - Assorted,pcs,0,25,0,2024-07-01,Uncategorized,[],{}
+OBJ812,GRN-1436,GRN-1436 - Ben's Original Basmati Rice,pcs,0,5,0,2024-10-01,Uncategorized,[],{}
+OBJ813,GRN-1445,GRN-1445 - Caribbean Style Rice,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ814,GRN-1446,GRN-1446 - Original 10 Smoky Southwest,pcs,0,5,0,2024-11-01,Uncategorized,[],{}
+OBJ815,GRN-1449,GRN-1449 - Ben's Original Jasmine Rice,pcs,0,20,0,2024-10-01,Uncategorized,[],{}
+OBJ816,GRN-1452,GRN-1452 - Tikka Masala Flavor Ready Rice,pcs,0,5,0,2024-11-01,Uncategorized,[],{}
+OBJ817,GRN-1453,GRN-1453 - Chinese Style Five Spice Rice,pcs,0,5,0,2024-12-01,Uncategorized,[],{}
+OBJ818,HSE-1352-,HSE-1352- - Compact Fluorescent Light Bulbs,pcs,0,10,0,2017-10-01,Uncategorized,[],{}
+OBJ819,HSE-1355-,HSE-1355- - LED Light Bulbs,pcs,0,5,0,2017-11-01,Uncategorized,[],{}
+OBJ820,HSE-1357-,HSE-1357- - LED Light Bulbs - 9 Watt,pcs,0,6,0,2019-10-01,Uncategorized,[],{}
+OBJ821,HSE-1360-,HSE-1360- - 4.5 Watt Candelabra LED Light,pcs,0,6,0,2022-10-01,Uncategorized,[],{}
+OBJ822,HSE-1361-,HSE-1361- - A19 LED Light Bulb - 9 Watt,pcs,0,5,0,2020-10-01,Uncategorized,[],{}
+OBJ823,HSE-1365-,"HSE-1365- - Laundry Detergent, (PUR)",pcs,0,5,0,2022-11-01,Uncategorized,[],{}
+OBJ824,HSE-1366-,HSE-1366- - 8.5W Dimmable,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ825,HSE-1373-,"HSE-1373- - Dish Soap, (PUR)",pcs,0,10,0,2022-10-01,Uncategorized,[],{}
+OBJ826,HSE-1374-,HSE-1374- - Powerful Cleaning Wipes,pcs,0,10,0,2022-04-01,Uncategorized,[],{}
+OBJ827,HSE-1380-,HSE-1380- - Assorted Laundry Detergent,pcs,0,10,0,2022-09-01,Uncategorized,[],{}
+OBJ828,HSE-1381-,HSE-1381- - LED 15W A19 Lamp Light Bulbs,pcs,0,5,0,2022-11-01,Uncategorized,[],{}
+OBJ829,HSE-1384-,HSE-1384- - Hand Sanitizing Wipes - Alcohol,pcs,0,1,0,2022-12-01,Uncategorized,[],{}
+OBJ830,HSE-1385-,HSE-1385- - Self Stick Weather Stripping,pcs,0,5,0,2022-05-01,Uncategorized,[],{}
+OBJ831,HSE-1386-,HSE-1386- - LED Light Bulbs - 15W A19 Dim,pcs,0,3,0,2023-05-01,Uncategorized,[],{}
+OBJ832,HSE-1388-,HSE-1388- - LED Household Bulbs - 100W,pcs,0,5,0,2022-07-01,Uncategorized,[],{}
+OBJ833,HSE-1389-,HSE-1389- - Disinfecting Wipes,pcs,0,20,0,2022-11-01,Uncategorized,[],{}
+OBJ834,HSE-1398-,HSE-1398- - Assorted Laundry Detergent,pcs,0,10,0,2023-02-01,Uncategorized,[],{}
+OBJ835,HSE-1403-,HSE-1403- - Disinfecting Wipes,pcs,0,25,0,2023-01-01,Uncategorized,[],{}
+OBJ836,HSE-1407-,HSE-1407- - Tropical Sunrise Laundry,pcs,0,5,0,2023-01-01,Uncategorized,[],{}
+OBJ837,HSE-1411-,HSE-1411- - Disinfecting Wipes,pcs,0,15,0,2023-01-01,Uncategorized,[],{}
+OBJ838,HSE-1414-,HSE-1414- - Disenfecting Wipes - 75%,pcs,0,10,0,2023-04-01,Uncategorized,[],{}
+OBJ839,HSE-1415-,HSE-1415- - Disinfecting Wipes,pcs,0,10,0,2024-05-01,Uncategorized,[],{}
+OBJ840,HSE-1416-,HSE-1416- - Disinfecting Wipes - 75% Alcohol,pcs,0,10,0,2023-03-01,Uncategorized,[],{}
+OBJ841,HSE-1417-,HSE-1417- - Alcohol Wet Wipes,pcs,0,5,0,2023-03-01,Uncategorized,[],{}
+OBJ842,HSE-1418-,HSE-1418- - Equivalent Led Light Bulb -100,pcs,0,5,0,2023-03-01,Uncategorized,[],{}
+OBJ843,HSE-1429-,HSE-1429- - 14W LED Light Bulbs (100W,pcs,0,5,0,2023-07-01,Uncategorized,[],{}
+OBJ844,HSE-1430-,HSE-1430- - Cleaning Vinegar Wipes -,pcs,0,20,0,2023-06-01,Uncategorized,[],{}
+OBJ845,HSE-1432-,HSE-1432- - Led Light Bulbs -14W,pcs,0,5,0,2023-06-01,Uncategorized,[],{}
+OBJ846,HSE-1438-,HSE-1438- - Laundry Detergent Sheets (Earth,pcs,0,2,0,2024-03-01,Uncategorized,[],{}
+OBJ847,HSE-1453-,HSE-1453- - Hand Sanitizing Wipes - 500,pcs,0,5,0,2024-05-01,Uncategorized,[],{}
+OBJ848,HSE-1458-,HSE-1458- - Laundry Detergent - Blissful,pcs,0,5,0,2024-03-01,Uncategorized,[],{}
+OBJ849,HSE-1464-,HSE-1464- - Laundry Detergent Pods -,pcs,0,5,0,2024-03-01,Uncategorized,[],{}
+OBJ850,HSE-1470-,HSE-1470- - LED Light Bulbs - 100 Watt,pcs,0,10,0,2025-02-01,Uncategorized,[],{}
+OBJ851,JUI-0224-D,JUI-0224-D - Cranberry Juice Concentrate,pcs,0,7,0,2019-12-01,Uncategorized,[],{}
+OBJ852,JUI-1070-Z,JUI-1070-Z - 100% Pure Orange Juice (USDA),pcs,0,4,0,2022-04-01,Uncategorized,[],{}
+OBJ853,JUI-1169-D,"JUI-1169-D - Juice, Cherry Apple, (USDA)",pcs,0,4,0,2024-03-01,Uncategorized,[],{}
+OBJ854,JUI-1182-D,"JUI-1182-D - Juice, Apple, (USDA)",pcs,0,3,0,2024-12-01,Uncategorized,[],{}
+OBJ855,JUI-1189-D,"JUI-1189-D - Juice, Grape, (USDA)",pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ856,JUI-1190-D,JUI-1190-D - Grapefruit Juice (USDA),pcs,0,4,0,2021-07-01,Uncategorized,[],{}
+OBJ857,JUI-1198-R,JUI-1198-R - Red Goodness Fruit Smoothie,pcs,0,5,0,2022-12-01,Uncategorized,[],{}
+OBJ858,JUI-1205-R,JUI-1205-R - Pomegranate Juice,pcs,0,6,0,2023-12-01,Uncategorized,[],{}
+OBJ859,JUI-1213-D,"JUI-1213-D - Juice, Orange, (USDA)",pcs,0,4,0,2024-09-01,Uncategorized,[],{}
+OBJ860,JUI-1215-R,JUI-1215-R - Organic Carrot Juice,pcs,0,2,0,2023-08-01,Uncategorized,[],{}
+OBJ861,JUI-1220-R,JUI-1220-R - Orange,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ862,JUI-1223-D,JUI-1223-D - Grape Juice,pcs,0,5,0,2017-04-01,Uncategorized,[],{}
+OBJ863,JUI-1224-D,JUI-1224-D - Cranberry Apple Juice (USDA),pcs,0,2,0,2021-03-01,Uncategorized,[],{}
+OBJ864,JUI-1225-D,JUI-1225-D - Tomato Juice (USDA),pcs,0,3,0,2023-05-01,Uncategorized,[],{}
+OBJ865,JUI-1226-D,JUI-1226-D - 100% Orange Juice,pcs,0,5,0,2020-07-01,Uncategorized,[],{}
+OBJ866,JUI-1230-D,JUI-1230-D - Apple Juice,pcs,0,6,0,2018-04-01,Uncategorized,[],{}
+OBJ867,JUI-1244-D,JUI-1244-D - Orange Juice (USDA),pcs,0,8,0,2022-05-01,Uncategorized,[],{}
+OBJ868,JUI-1246-D,JUI-1246-D - Grapefruit Juice (USDA),pcs,0,3,0,2022-09-01,Uncategorized,[],{}
+OBJ869,JUI-1247-D,JUI-1247-D - Mixed,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ870,JUI-1250-D,JUI-1250-D - Apple Juice Boxes (TANF),pcs,0,5,0,2022-08-01,Uncategorized,[],{}
+OBJ871,JUI-1251-D,JUI-1251-D - Orange Juice Boxes (TANF),pcs,0,4,0,2022-08-01,Uncategorized,[],{}
+OBJ872,JUI-1263-D,JUI-1263-D - Orange Juice Boxes (TANF),pcs,0,10,0,2023-04-01,Uncategorized,[],{}
+OBJ873,JUI-1264-D,"JUI-1264-D - Juice, Orange, Boxes, (PUR)",pcs,0,5,0,2023-06-01,Uncategorized,[],{}
+OBJ874,JUI-1265-D,JUI-1265-D - Tantillo Lime Juice,pcs,0,5,0,2023-04-01,Uncategorized,[],{}
+OBJ875,MEA-1016,"MEA-1016 - Assorted Meats, Fish & Poultry",pcs,0,3,0,2019-11-01,Uncategorized,[],{}
+OBJ876,MEA-1018,"MEA-1018 - Pork, Canned, (USDA)",pcs,0,5,0,2023-10-01,Uncategorized,[],{}
+OBJ877,MEA-1034,MEA-1034 - Canned Chunk White Chicken in,pcs,0,3,0,2017-05-01,Uncategorized,[],{}
+OBJ878,MEA-1034-D,MEA-1034-D - Canned Chunk White Chicken in,pcs,0,3,0,2017-05-01,Uncategorized,[],{}
+OBJ879,MEA-1057-X,MEA-1057-X - Canned Chicken - 10oz cans (SUB),pcs,0,10,0,2015-12-01,Uncategorized,[],{}
+OBJ880,MEA-1058,"MEA-1058 - Canned Chicken, Boned (USDA)",pcs,0,1,0,2018-01-01,Uncategorized,[],{}
+OBJ881,MEA-1060,MEA-1060 - Beef Chorizo,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ882,MEA-1066-R,MEA-1066-R - Honey Roasted Turkey,pcs,0,3,0,2016-01-01,Uncategorized,[],{}
+OBJ883,MEA-1069,MEA-1069 - Canned Chicken in Water (PUR),pcs,0,1,0,2021-02-01,Uncategorized,[],{}
+OBJ884,MEA-1069-D,MEA-1069-D - Canned Chicken in Water (PUR),pcs,0,6,0,2017-06-01,Uncategorized,[],{}
+OBJ885,MEA-1070,"MEA-1070 - Beef, Canned, (USDA)",pcs,0,4,0,2024-12-01,Uncategorized,[],{}
+OBJ886,MEA-1071,MEA-1071 - Chunk White Chicken (FEMA),pcs,0,1,0,2019-06-01,Uncategorized,[],{}
+OBJ887,MEA-1077,MEA-1077 - Canned Turkey (FEMA),pcs,0,4,0,2019-03-01,Uncategorized,[],{}
+OBJ888,MEA-1078,MEA-1078 - Canned Turkey (FEMA),pcs,0,6,0,2018-11-01,Uncategorized,[],{}
+OBJ889,MEA-1081,MEA-1081 - Canned Chicken (USDA),pcs,0,1,0,2023-04-01,Uncategorized,[],{}
+OBJ890,MEA-1082,"MEA-1082 - Chicken, Boned, Pouches, (USDA)",pcs,0,6,0,2024-12-01,Uncategorized,[],{}
+OBJ891,MEA-1083,MEA-1083 - Canned Ham (PUR),pcs,0,4,0,2021-04-01,Uncategorized,[],{}
+OBJ892,MEA-1085,MEA-1085 - Canned Ham (FEMA),pcs,0,3,0,2022-03-01,Uncategorized,[],{}
+OBJ893,MEA-1086,MEA-1086 - Chunk White Chicken (FEMA),pcs,0,2,0,2022-04-01,Uncategorized,[],{}
+OBJ894,MEA-1087,MEA-1087 - Roast Beef (PUR),pcs,0,3,0,2021-07-01,Uncategorized,[],{}
+OBJ895,MEA-1089,"MEA-1089 - Chunk Chicken in Water, (PUR)",pcs,0,5,0,2023-07-01,Uncategorized,[],{}
+OBJ896,MEA-1092,"MEA-1092 - Chicken, Chunk White, Pouched,",pcs,0,5,0,2024-07-01,Uncategorized,[],{}
+OBJ897,MEA-1104,MEA-1104 - Roasted Herb Garlic Seasoned,pcs,0,4,0,2019-06-01,Uncategorized,[],{}
+OBJ898,MEA-1108,MEA-1108 - Grilled Chicken Breast Strips,pcs,0,5,0,2019-08-01,Uncategorized,[],{}
+OBJ899,MEA-1232,"MEA-1232 - Beef, Ground, (USDA)",pcs,0,5,0,2024-09-01,Uncategorized,[],{}
+OBJ900,MEA-1392,"MEA-1392 - Turkey, Ground, (PUR)",pcs,0,11,0,2024-10-01,Uncategorized,[],{}
+OBJ901,MEA-1445,"MEA-1445 - Beef, Patties, 5 Patties Per",pcs,0,12,0,2022-10-01,Uncategorized,[],{}
+OBJ902,MEA-1445-Z,MEA-1445-Z - Beef Patties - 18# case (PUR),pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ903,MEA-1770,MEA-1770 - Fully Cooked Bratwurst Slices,pcs,0,4,0,2018-07-01,Uncategorized,[],{}
+OBJ904,MEA-1997,MEA-1997 - Chicken Leg Quarters (USDA),pcs,0,4,0,2021-12-01,Uncategorized,[],{}
+OBJ905,MEA-2004-Z,MEA-2004-Z - Sheboygan Cooked Bratwurst,pcs,0,4,0,2016-01-01,Uncategorized,[],{}
+OBJ906,MEA-2058,MEA-2058 - Pork Chop Ends & Pieces (PUR),pcs,0,5,0,2017-10-01,Uncategorized,[],{}
+OBJ907,MEA-2058-Z,MEA-2058-Z - Pork Chop Ends & Pieces (PUR) CASE Blue,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ908,MEA-2077,MEA-2077 - Cooked Pork Sausage Links,pcs,0,5,0,2018-11-01,Uncategorized,[],{}
+OBJ909,MEA-2131,MEA-2131 - Oven Roasted Cooked Chorizo,pcs,0,4,0,2018-03-01,Uncategorized,[],{}
+OBJ910,MEA-2136,MEA-2136 - Cooked Pork Sausage Pizza,pcs,0,5,0,2017-10-01,Uncategorized,[],{}
+OBJ911,MEA-2158,"MEA-2158 - Turkey, Whole, Fresh Young,",pcs,0,32,0,2023-11-01,Uncategorized,[],{}
+OBJ912,MEA-2174,MEA-2174 - Chicken Drumsticks (PUR),pcs,0,6,0,2017-07-01,Uncategorized,[],{}
+OBJ913,MEA-2232,"MEA-2232 - Frozen Ham, Water Added",pcs,0,3,0,2022-11-01,Uncategorized,[],{}
+OBJ914,MEA-2250-Z,MEA-2250-Z - Original Bratwurst,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ915,MEA-2270,MEA-2270 - Original Breakfast Sausage,pcs,0,5,0,2017-08-01,Uncategorized,[],{}
+OBJ916,MEA-2272-Z,MEA-2272-Z - Chicken & Pork Chorizo,pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ917,MEA-2279-Z,MEA-2279-Z - Beef Franks,pcs,0,2,0,2016-01-01,Uncategorized,[],{}
+OBJ918,MEA-2330,MEA-2330 - Cooked Sliced Hot Italian,pcs,0,4,0,2018-06-01,Uncategorized,[],{}
+OBJ919,MEA-2343,MEA-2343 - Cooked Italian Sausage,pcs,0,5,0,2017-09-01,Uncategorized,[],{}
+OBJ920,MEA-2354,MEA-2354 - Pork Loin Chops (PUR),pcs,0,4,0,2022-01-01,Uncategorized,[],{}
+OBJ921,MEA-2384,MEA-2384 - Sugarhouse Maple Chicken,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ922,MEA-2400,MEA-2400 - 2oz Cooked Italian Style,pcs,0,5,0,2018-10-01,Uncategorized,[],{}
+OBJ923,MEA-2418,MEA-2418 - Cooked Italian Style Meatballs,pcs,0,5,0,2017-05-01,Uncategorized,[],{}
+OBJ924,MEA-2418-Z,MEA-2418-Z - Cooked Italian Style,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ925,MEA-2442,MEA-2442 - Turkey Ham,pcs,0,3,0,2017-11-01,Uncategorized,[],{}
+OBJ926,MEA-2449,MEA-2449 - Chicken Leg Quarters,pcs,0,6,0,2019-10-01,Uncategorized,[],{}
+OBJ927,MEA-2458,MEA-2458 - Fully Cooked Hot Pork Sausage,pcs,0,5,0,2017-07-01,Uncategorized,[],{}
+OBJ928,MEA-2462,MEA-2462 - Rib Eye Steaks,pcs,0,3,0,2018-04-01,Uncategorized,[],{}
+OBJ929,MEA-2467,MEA-2467 - Boneless Skinless Chicken Breast,pcs,0,3,0,2021-06-01,Uncategorized,[],{}
+OBJ930,MEA-2467-Z,MEA-2467-Z - Boneless Skinless Chicken Breast CASE (PUR) 12/2.5# PKGS EGG-1050-R Brown Eggs (PUR) 15/1 DOZEN,pcs,0,2,0,2017-04-01,Uncategorized,[],{}
+OBJ931,MEA-2471,MEA-2471 - Cooked Beer Bratwurst,pcs,0,10,0,2017-04-01,Uncategorized,[],{}
+OBJ932,MEA-2471-Z,MEA-2471-Z - Cooked Beer Bratwurst Johnsonville,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ933,MEA-2482,MEA-2482 - Smokey Cheddar Bratwurst,pcs,0,5,0,2017-06-01,Uncategorized,[],{}
+OBJ934,MEA-2482-Z,MEA-2482-Z - Smokey Cheddar,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ935,MEA-2486,MEA-2486 - Whitsun Ale Bratwurst,pcs,0,5,0,2017-05-01,Uncategorized,[],{}
+OBJ936,MEA-2486-Z,MEA-2486-Z - Whitsun Ale,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ937,MEA-2492,MEA-2492 - Classic Pork Franks,pcs,0,5,0,2017-06-01,Uncategorized,[],{}
+OBJ938,MEA-2500,MEA-2500 - Grilled Teriyaki Glazed Chicken,pcs,0,5,0,2018-03-01,Uncategorized,[],{}
+OBJ939,MEA-2508,MEA-2508 - Ground Beef (USDA),pcs,0,3,0,2022-11-01,Uncategorized,[],{}
+OBJ940,MEA-2513,MEA-2513 - Cooked Bratwurst Links,pcs,0,5,0,2017-09-01,Uncategorized,[],{}
+OBJ941,MEA-2534,MEA-2534 - Sirloin Steak,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ942,MEA-2543,MEA-2543 - Garlic & Herb Chicken Breast,pcs,0,20,0,2017-09-01,Uncategorized,[],{}
+OBJ943,MEA-2545,MEA-2545 - Whole Chicken (HOLIDAY),pcs,0,14,0,2020-11-01,Uncategorized,[],{}
+OBJ944,MEA-2554,MEA-2554 - Rotisserie Half Chickens,pcs,0,6,0,2018-04-01,Uncategorized,[],{}
+OBJ945,MEA-2564,MEA-2564 - Chicken Drumsticks (PUR),pcs,0,5,0,2021-03-01,Uncategorized,[],{}
+OBJ946,MEA-2572,MEA-2572 - Deli Sliced Turkey Breast (USDA),pcs,0,1,0,2018-09-01,Uncategorized,[],{}
+OBJ947,MEA-2587,MEA-2587 - Pulled Pork in BBQ Sauce,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ948,MEA-2588,MEA-2588 - Lean Beef Franks,pcs,0,4,0,2018-01-01,Uncategorized,[],{}
+OBJ949,MEA-2604,MEA-2604 - Chicken Drumsticks (SUB),pcs,0,5,0,2019-05-01,Uncategorized,[],{}
+OBJ950,MEA-2620,MEA-2620 - Boneless Skinless Chicken Breast,pcs,0,4,0,2018-03-01,Uncategorized,[],{}
+OBJ951,MEA-2631,MEA-2631 - Pork Chorizo,pcs,0,5,0,2019-11-01,Uncategorized,[],{}
+OBJ952,MEA-2637,MEA-2637 - House Recipe Sliced Pepperoni,pcs,0,4,0,2018-07-01,Uncategorized,[],{}
+OBJ953,MEA-2638,MEA-2638 - Fully Cooked Pork Pizza Topping,pcs,0,4,0,2018-07-01,Uncategorized,[],{}
+OBJ954,MEA-2642,MEA-2642 - Pork Belly (RP),pcs,0,1,0,2018-04-01,Uncategorized,[],{}
+OBJ955,MEA-2670,MEA-2670 - Jumbo Chicken Thighs,pcs,0,3,0,2018-07-01,Uncategorized,[],{}
+OBJ956,MEA-2678,MEA-2678 - Flame Grilled Cheddar Sausage,pcs,0,4,0,2018-07-01,Uncategorized,[],{}
+OBJ957,MEA-2694,MEA-2694 - Pork Chop Ends & Pieces (PUR),pcs,0,3,0,2021-04-01,Uncategorized,[],{}
+OBJ958,MEA-2696,"MEA-2696 - Pork, Pulled, Cooked, (USDA)",pcs,0,4,0,2025-02-01,Uncategorized,[],{}
+OBJ959,MEA-2717,MEA-2717 - Chicken Drumsticks (USDA),pcs,0,4,0,2022-04-01,Uncategorized,[],{}
+OBJ960,MEA-2718,MEA-2718 - Chicken Leg Quarters (USDA),pcs,0,4,0,2023-07-01,Uncategorized,[],{}
+OBJ961,MEA-2719,MEA-2719 - Chicken Thighs (USDA),pcs,0,3,0,2022-04-01,Uncategorized,[],{}
+OBJ962,MEA-2721,MEA-2721 - Turkey Roasts (USDA),pcs,0,2,0,2019-07-01,Uncategorized,[],{}
+OBJ963,MEA-2751,"MEA-2751 - Red Pepper, Basil, & Mozzarella",pcs,0,3,0,2018-11-01,Uncategorized,[],{}
+OBJ964,MEA-2753,MEA-2753 - Grilled Chicken Breast Strips,pcs,0,10,0,2023-03-01,Uncategorized,[],{}
+OBJ965,MEA-2754,MEA-2754 - Roasted Beef Top Sirloin,pcs,0,6,0,2019-07-01,Uncategorized,[],{}
+OBJ966,MEA-2756,MEA-2756 - Chicken Breasts (PUR),pcs,0,1,0,2019-04-01,Uncategorized,[],{}
+OBJ967,MEA-2757,"MEA-2757 - Pork, Chops, Boneless, (USDA)",pcs,0,4,0,2025-02-01,Uncategorized,[],{}
+OBJ968,MEA-2759,MEA-2759 - Pork Loin Roast (USDA),pcs,0,4,0,2019-07-01,Uncategorized,[],{}
+OBJ969,MEA-2760,"MEA-2760 - Pork, Taco Filling, Cooked,",pcs,0,3,0,2025-02-01,Uncategorized,[],{}
+OBJ970,MEA-2761,MEA-2761 - Habanero-Lime Pork Chop Pieces,pcs,0,1,0,2019-05-01,Uncategorized,[],{}
+OBJ971,MEA-2762,MEA-2762 - Beef Round Roast (USDA),pcs,0,3,0,2023-05-01,Uncategorized,[],{}
+OBJ972,MEA-2763,"MEA-2763 - Pork, Ham, Sliced, Water Added,",pcs,0,3,0,2024-08-01,Uncategorized,[],{}
+OBJ973,MEA-2764,"MEA-2764 - Pork, Patties, Cooked, (USDA)",pcs,0,3,0,2024-10-01,Uncategorized,[],{}
+OBJ974,MEA-2767,MEA-2767 - Italian Style Pork Tenderloin,pcs,0,4,0,2018-12-01,Uncategorized,[],{}
+OBJ975,MEA-2780,MEA-2780 - Chili Lime Pork Tenderloin,pcs,0,4,0,2019-01-01,Uncategorized,[],{}
+OBJ976,MEA-2781,MEA-2781 - Honey Cured Boneless Ham,pcs,0,5,0,2019-01-01,Uncategorized,[],{}
+OBJ977,MEA-2786,MEA-2786 - Smoked Pork Tail,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ978,MEA-2788,MEA-2788 - Country Farmhouse Bacon,pcs,0,5,0,2019-02-01,Uncategorized,[],{}
+OBJ979,MEA-2793,MEA-2793 - Pork Meatballs w/ Sweet BBQ,pcs,0,4,0,2018-12-01,Uncategorized,[],{}
+OBJ980,MEA-2800,MEA-2800 - Young Turkey,pcs,0,2,0,2019-01-01,Uncategorized,[],{}
+OBJ981,MEA-2818,MEA-2818 - Pork Loin Roast (USDA),pcs,0,5,0,2024-12-01,Uncategorized,[],{}
+OBJ982,MEA-2837,MEA-2837 - Uncooked Diced Chicken Breast,pcs,0,13,0,2020-09-01,Uncategorized,[],{}
+OBJ983,MEA-2841,MEA-2841 - Honey Smoked Uncured Ham,pcs,0,3,0,2019-08-01,Uncategorized,[],{}
+OBJ984,MEA-2847,MEA-2847 - Boneless Skinless Chicken Breast,pcs,0,3,0,2019-09-01,Uncategorized,[],{}
+OBJ985,MEA-2850,MEA-2850 - Uncured Bun-Length Weiners,pcs,0,3,0,2019-09-01,Uncategorized,[],{}
+OBJ986,MEA-2852,MEA-2852 - Turkey Ham,pcs,0,5,0,2019-09-01,Uncategorized,[],{}
+OBJ987,MEA-2863,MEA-2863 - Fully Cooked Pork Sausage,pcs,0,6,0,2019-10-01,Uncategorized,[],{}
+OBJ988,MEA-2865,MEA-2865 - Fully Cooked Original Pork,pcs,0,5,0,2019-11-01,Uncategorized,[],{}
+OBJ989,MEA-2866,MEA-2866 - Chicken Drumsticks (PUR),pcs,0,1,0,2020-01-01,Uncategorized,[],{}
+OBJ990,MEA-2867,MEA-2867 - Uncured Beef Junior Franks,pcs,0,5,0,2019-10-01,Uncategorized,[],{}
+OBJ991,MEA-2874,MEA-2874 - Split Chicken Breasts (USDA),pcs,0,3,0,2022-07-01,Uncategorized,[],{}
+OBJ992,MEA-2875,MEA-2875 - Boneless Chicken Breasts (USDA),pcs,0,3,0,2022-09-01,Uncategorized,[],{}
+OBJ993,MEA-2876,MEA-2876 - Chicken Fajita Strips (USDA),pcs,0,4,0,2021-12-01,Uncategorized,[],{}
+OBJ994,MEA-2877,MEA-2877 - Unbreaded Chicken Fillets,pcs,0,3,0,2022-08-01,Uncategorized,[],{}
+OBJ995,MEA-2885,MEA-2885 - Chicken Drumsticks (USDA),pcs,0,3,0,2021-12-01,Uncategorized,[],{}
+OBJ996,MEA-2886,MEA-2886 - Deli Sliced Turkey Breasts (USDA),pcs,0,4,0,2022-03-01,Uncategorized,[],{}
+OBJ997,MEA-2887,MEA-2887 - Chicken Thighs (USDA),pcs,0,2,0,2021-07-01,Uncategorized,[],{}
+OBJ998,MEA-2888,MEA-2888 - Smoked Sliced Turkey Breasts,pcs,0,2,0,2020-12-01,Uncategorized,[],{}
+OBJ999,MEA-2891,MEA-2891 - Boneless Seasoned Pork Loin,pcs,0,5,0,2020-06-01,Uncategorized,[],{}
+OBJ1000,MEA-2893,"MEA-2893 - Turkey, Ground, (FEMA)",pcs,0,32,0,2025-02-01,Uncategorized,[],{}
+OBJ1001,MEA-2897,MEA-2897 - Chicken Strips (USDA),pcs,0,5,0,2022-06-01,Uncategorized,[],{}
+OBJ1002,MEA-2898,MEA-2898 - Cooked Turkey Breasts (USDA),pcs,0,4,0,2021-12-01,Uncategorized,[],{}
+OBJ1003,MEA-2904,MEA-2904 - Fully Cooked BBQ Ribs,pcs,0,2,0,2020-07-01,Uncategorized,[],{}
+OBJ1004,MEA-2905,MEA-2905 - Pork Sausage Roll,pcs,0,5,0,2023-02-01,Uncategorized,[],{}
+OBJ1005,MEA-2911,MEA-2911 - Ham Pieces,pcs,0,6,0,2020-06-01,Uncategorized,[],{}
+OBJ1006,MEA-2913,MEA-2913 - BBQ Sweet Potato Chicken Snack,pcs,0,5,0,2020-06-01,Uncategorized,[],{}
+OBJ1007,MEA-2914,MEA-2914 - Assorted Frozen Meat (Food,pcs,0,3,0,2020-07-01,Uncategorized,[],{}
+OBJ1008,MEA-2917,MEA-2917 - Hickory Half Bone-In Spiral Sliced,pcs,0,21,0,2020-12-01,Uncategorized,[],{}
+OBJ1009,MEA-2923,MEA-2923 - Fully Cooked Seasoned Bone-In,pcs,0,6,0,2020-09-01,Uncategorized,[],{}
+OBJ1010,MEA-2934,MEA-2934 - Assorted Frozen Meat Box (CFAP),pcs,0,34,0,2020-11-01,Uncategorized,[],{}
+OBJ1011,MEA-2938,MEA-2938 - Sliced Turkey Breast,pcs,0,20,0,2021-01-01,Uncategorized,[],{}
+OBJ1012,MEA-2944,MEA-2944 - Smoked True Half Hams,pcs,0,14,0,2020-12-01,Uncategorized,[],{}
+OBJ1013,MEA-2949,MEA-2949 - Boneless Skinless Chicken Breast,pcs,0,12,0,2021-02-01,Uncategorized,[],{}
+OBJ1014,MEA-2957,MEA-2957 - Chicken Thighs,pcs,0,3,0,2021-03-01,Uncategorized,[],{}
+OBJ1015,MEA-2958,MEA-2958 - Chicken Drumsticks,pcs,0,3,0,2021-04-01,Uncategorized,[],{}
+OBJ1016,MEA-2965,MEA-2965 - Lean Ground Bison Meat (USDA),pcs,0,3,0,2023-04-01,Uncategorized,[],{}
+OBJ1017,MEA-2966,MEA-2966 - Center Cut Pork Loin Chops,pcs,0,1,0,2021-05-01,Uncategorized,[],{}
+OBJ1018,MEA-2967,MEA-2967 - Sliced Smoked Turkey Ham,pcs,0,4,0,2022-01-01,Uncategorized,[],{}
+OBJ1019,MEA-2969,"MEA-2969 - Pork, Tenderloin Tips, (PUR)",pcs,0,10,0,2022-09-01,Uncategorized,[],{}
+OBJ1020,MEA-2973,MEA-2973 - Chicken Drumsticks (PUR),pcs,0,1,0,2022-05-01,Uncategorized,[],{}
+OBJ1021,MEA-2975,MEA-2975 - Pork Chop Ends & Pieces (PUR),pcs,0,4,0,2021-11-01,Uncategorized,[],{}
+OBJ1022,MEA-2977,MEA-2977 - Hickory Half Bone-In Spiral Sliced,pcs,0,5,0,2022-04-01,Uncategorized,[],{}
+OBJ1023,MEA-2978,MEA-2978 - Bone-In Turkey Breast - 6 count,pcs,0,26,0,2021-12-01,Uncategorized,[],{}
+OBJ1024,MEA-2980,MEA-2980 - Whole Chicken (PUR),pcs,0,2,0,2022-02-01,Uncategorized,[],{}
+OBJ1025,MEA-2981,MEA-2981 - Seasoned Pork Patties (USDA),pcs,0,3,0,2022-07-01,Uncategorized,[],{}
+OBJ1026,MEA-2997,"MEA-2997 - Chicken, Drumsticks, Halal (PUR)",pcs,0,12,0,2025-02-01,Uncategorized,[],{}
+OBJ1027,MEA-2998,"MEA-2998 - Chicken, Nuggets, Fully Cooked,",pcs,0,10,0,2022-08-01,Uncategorized,[],{}
+OBJ1028,MEA-3002,"MEA-3002 - Turkey, Whole, (HOLIDAY)",pcs,0,35,0,2022-12-01,Uncategorized,[],{}
+OBJ1029,MEA-3003,"MEA-3003 - Chicken, Whole, (USDA)",pcs,0,3,0,2023-03-01,Uncategorized,[],{}
+OBJ1030,MEA-3004,"MEA-3004 - Chicken, Whole, (USDA)",pcs,0,2,0,2023-06-01,Uncategorized,[],{}
+OBJ1031,MEA-3005,MEA-3005 - Italiano Charcuterie Party Platter,pcs,0,1,0,2022-07-01,Uncategorized,[],{}
+OBJ1032,MEA-3010,MEA-3010 - Bone-In Half Ham (HOLIDAY),pcs,0,23,0,2022-12-01,Uncategorized,[],{}
+OBJ1033,MEA-3030,"MEA-3030 - Chicken, Drumsticks, (PUR)",pcs,0,12,0,2025-02-01,Uncategorized,[],{}
+OBJ1034,MEA-3034,"MEA-3034 - Beef, Fillet Steaks, (PUR)",pcs,0,5,0,2022-11-01,Uncategorized,[],{}
+OBJ1035,MEA-3047,MEA-3047 - Chicken Breast Tenderloins,pcs,0,3,0,2022-12-01,Uncategorized,[],{}
+OBJ1036,MEA-3061,MEA-3061 - Chicken Breast Strips - 8 Original,pcs,0,20,0,2023-01-01,Uncategorized,[],{}
+OBJ1037,MEA-3062,MEA-3062 - Ground Pork,pcs,0,10,0,2025-02-01,Uncategorized,[],{}
+OBJ1038,MEA-3064,MEA-3064 - Sage Sausage Roll (Tyson Foods),pcs,0,10,0,2023-02-01,Uncategorized,[],{}
+OBJ1039,MEA-3089,MEA-3089 - Pork Chorizo Bolita,pcs,0,5,0,2023-03-01,Uncategorized,[],{}
+OBJ1040,MEA-3094,"MEA-3094 - Chicken, Nuggets, Fully Cooked,",pcs,0,25,0,2023-03-01,Uncategorized,[],{}
+OBJ1041,MEA-3101,MEA-3101 - Hickory Smoked Beef Bacon Ends,pcs,0,10,0,2023-05-01,Uncategorized,[],{}
+OBJ1042,MEA-3105,MEA-3105 - Fully Cooked Pork Topping,pcs,0,3,0,2023-05-01,Uncategorized,[],{}
+OBJ1043,MEA-3110,MEA-3110 - Carmelized Onion & Beer,pcs,0,2,0,2023-05-01,Uncategorized,[],{}
+OBJ1044,MEA-3111,MEA-3111 - Beef Bacon Bits,pcs,0,10,0,2023-07-01,Uncategorized,[],{}
+OBJ1045,MEA-3113,MEA-3113 - Plant Based Hotdogs,pcs,0,10,0,2023-06-01,Uncategorized,[],{}
+OBJ1046,MEA-3116,"MEA-3116 - Chicken, Leg Quarters, Frozen,",pcs,0,4,0,2025-02-01,Uncategorized,[],{}
+OBJ1047,MEA-3117,"MEA-3117 - Chicken, Drumsticks, Frozen,",pcs,0,4,0,2025-02-01,Uncategorized,[],{}
+OBJ1048,MEA-3118,"MEA-3118 - Hams, Buffet Style, (HOLIDAY)",pcs,0,61,0,2023-12-01,Uncategorized,[],{}
+OBJ1049,MEA-3119,"MEA-3119 - Turkeys, Whole, (HOLIDAY)",pcs,0,8,0,2023-11-01,Uncategorized,[],{}
+OBJ1050,MEA-3121,MEA-3121 - Vegan Chicken Thigh Patties -,pcs,0,2,0,2023-09-01,Uncategorized,[],{}
+OBJ1051,MEA-3128,MEA-3128 - Breakfast Bites (Jimmy Dean's),pcs,0,5,0,2024-01-01,Uncategorized,[],{}
+OBJ1052,MEA-3134,MEA-3134 - Pork Chorizo - 12oz (Individually,pcs,0,3,0,2024-01-01,Uncategorized,[],{}
+OBJ1053,MEA-3135,"MEA-3135 - Turkey, Whole (Jennie-O)",pcs,0,8,0,2024-11-01,Uncategorized,[],{}
+OBJ1054,MEA-3137,MEA-3137 - Uncooked Fried Chicken,pcs,0,5,0,2023-11-01,Uncategorized,[],{}
+OBJ1055,MEA-3146,"MEA-3146 - Chicken, Breast, Boneless, (USDA)",pcs,0,2,0,2024-07-01,Uncategorized,[],{}
+OBJ1056,MEA-3147,"MEA-3147 - Chicken, Ground, (PUR)",pcs,0,6,0,2024-05-01,Uncategorized,[],{}
+OBJ1057,MEA-3156,MEA-3156 - Wicked Chorizo - Vegan Sausage,pcs,0,6,0,2024-05-01,Uncategorized,[],{}
+OBJ1058,MEA-3158,MEA-3158 - Pre-Cooked Pork Chorizo,pcs,0,20,0,2024-04-01,Uncategorized,[],{}
+OBJ1059,MEA-3162,MEA-3162 - Pork Roast,pcs,0,5,0,2024-05-01,Uncategorized,[],{}
+OBJ1060,MEA-3177,"MEA-3177 - Turkey, Breast, Bone-In, 6 count,",pcs,0,41,0,2024-12-01,Uncategorized,[],{}
+OBJ1061,MEA-3178,"MEA-3178 - Chicken, Drumsticks, (FEMA)",pcs,0,18,0,2024-12-01,Uncategorized,[],{}
+OBJ1062,MEA-3181,"MEA-3181 - Turkey, Whole, Fresh Young,",pcs,0,20,0,2024-11-01,Uncategorized,[],{}
+OBJ1063,MEA-3182,"MEA-3182 - Chicken, Whole, (FEMA-",pcs,0,6,0,2024-12-01,Uncategorized,[],{}
+OBJ1064,MEA-3183,"MEA-3183 - Bone-In Ham, (FEMA-HOLIDAY)",pcs,0,16,0,2024-12-01,Uncategorized,[],{}
+OBJ1065,MLK-1036-,"MLK-1036- - Milk, 1%, UHT, (USDA)",pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ1066,MLK-1042-,MLK-1042- - 1% UHT Milk (USDA),pcs,0,2,0,2018-03-01,Uncategorized,[],{}
+OBJ1067,MLK-1047-,MLK-1047- - Fat Free Shelf Stable Skim Milk,pcs,0,2,0,2018-08-01,Uncategorized,[],{}
+OBJ1068,MLK-1048-,MLK-1048- - Lactose Free Evaporated Milk,pcs,0,2,0,2019-03-01,Uncategorized,[],{}
+OBJ1069,MLK-1049-,MLK-1049- - Evaporated Milk,pcs,0,4,0,2019-02-01,Uncategorized,[],{}
+OBJ1070,MLK-1050-,MLK-1050- - Organic Evaporated Milk,pcs,0,1,0,2019-04-01,Uncategorized,[],{}
+OBJ1071,MLK-1051-,MLK-1051- - Instant Dry Milk (USDA),pcs,0,4,0,2022-10-01,Uncategorized,[],{}
+OBJ1072,MLK-1054-,MLK-1054- - 2% Shelf Stable Milk,pcs,0,10,0,2022-12-01,Uncategorized,[],{}
+OBJ1073,MLK-1063-,MLK-1063- - Sesame Milk (Organic),pcs,0,5,0,2022-10-01,Uncategorized,[],{}
+OBJ1074,MLK-1068-,MLK-1068- - 1% Lowfat Chocolate UHT Milk,pcs,0,5,0,2023-11-01,Uncategorized,[],{}
+OBJ1075,MLK-1071-,MLK-1071- - 1% Chocolate Milk Shelf Stable,pcs,0,20,0,2024-10-01,Uncategorized,[],{}
+OBJ1076,MLK-1073-,"MLK-1073- - Milk, 2% Reduced Fat, UHT,",pcs,0,10,0,2024-11-01,Uncategorized,[],{}
+OBJ1077,MLK-1075-,"MLK-1075- - Milk, 2%, Half Gallon, (PUR)",pcs,0,8,0,2022-12-01,Uncategorized,[],{}
+OBJ1078,MLK-1075-R,MLK-1075-R - 2% Milk (PUR),pcs,0,2,0,2016-01-01,Uncategorized,[],{}
+OBJ1079,MLK-1076-,"MLK-1076- - Milk, Whole, Half Gallon, (PUR)",pcs,0,33,0,2025-02-01,Uncategorized,[],{}
+OBJ1080,MLK-1084-,MLK-1084- - 2% Ultra Filtered Chocolate Milk,pcs,0,5,0,2019-07-01,Uncategorized,[],{}
+OBJ1081,MLK-1086-,MLK-1086- - 1% Fresh Milk (USDA),pcs,0,2,0,2019-02-01,Uncategorized,[],{}
+OBJ1082,MLK-1087-,"MLK-1087- - Milk, 2%, Fresh, (USDA)",pcs,0,10,0,2024-03-01,Uncategorized,[],{}
+OBJ1083,MLK-1089-,MLK-1089- - Fresh Whole Milk (USDA),pcs,0,5,0,2018-12-01,Uncategorized,[],{}
+OBJ1084,MLK-1094-,MLK-1094- - 1% Fresh Milk (USDA),pcs,0,8,0,2019-10-01,Uncategorized,[],{}
+OBJ1085,MLK-1095-,MLK-1095- - 2% Fresh Milk (USDA),pcs,0,15,0,2019-08-01,Uncategorized,[],{}
+OBJ1086,MLK-1096-,MLK-1096- - Fresh Skim Milk (USDA),pcs,0,2,0,2019-10-01,Uncategorized,[],{}
+OBJ1087,MLK-1097-,MLK-1097- - Fresh Whole Milk (USDA),pcs,0,5,0,2019-06-01,Uncategorized,[],{}
+OBJ1088,MLK-1100-,"MLK-1100- - Milk, 2%, Fresh, (USDA)",pcs,0,20,0,2025-02-01,Uncategorized,[],{}
+OBJ1089,MLK-1101-,MLK-1101- - Fresh Whole Milk (USDA),pcs,0,6,0,2020-12-01,Uncategorized,[],{}
+OBJ1090,MLK-1107-,"MLK-1107- - Milk, 2%, Fresh, Gallons, (USDA)",pcs,0,20,0,2024-09-01,Uncategorized,[],{}
+OBJ1091,MLK-1115-,MLK-1115- - Organic Whole Milk,pcs,0,10,0,2022-08-01,Uncategorized,[],{}
+OBJ1092,MLK-1118-,"MLK-1118- - Milk, 2%, Half Gallon, (PUR)",pcs,0,20,0,2025-02-01,Uncategorized,[],{}
+OBJ1093,MLK-1119-,"MLK-1119- - Milk, 1%, Fresh, (USDA)",pcs,0,15,0,2023-12-01,Uncategorized,[],{}
+OBJ1094,MLK-1122-,MLK-1122- - Probiotic 2% Milk,pcs,0,2,0,2023-06-01,Uncategorized,[],{}
+OBJ1095,MLK-1124-,MLK-1124- - Whole Milk,pcs,0,4,0,2023-09-01,Uncategorized,[],{}
+OBJ1096,MLK-1129-,MLK-1129- - Chocolate Milk,pcs,0,10,0,2023-12-01,Uncategorized,[],{}
+OBJ1097,MLK-1131-,"MLK-1131- - Milk, 2%, Fresh, 6-count (USDA)",pcs,0,40,0,2024-05-01,Uncategorized,[],{}
+OBJ1098,NDA-1010,NDA-1010 - Unsweetened Almond Milk (PUR),pcs,0,1,0,2017-05-01,Uncategorized,[],{}
+OBJ1099,NDA-1010-D,NDA-1010-D - Unsweetened Almond Milk (PUR),pcs,0,1,0,2017-05-01,Uncategorized,[],{}
+OBJ1100,NDA-1011,NDA-1011 - Macadamia Nut Milk,pcs,0,2,0,2018-06-01,Uncategorized,[],{}
+OBJ1101,NDA-1012,NDA-1012 - Non-Soy Veggie Milk,pcs,0,2,0,2018-06-01,Uncategorized,[],{}
+OBJ1102,NDA-1015,NDA-1015 - Organic Unsweetened Vanilla,pcs,0,2,0,2018-12-01,Uncategorized,[],{}
+OBJ1103,NDA-1016,NDA-1016 - Organic Unsweetened Vanilla,pcs,0,4,0,2019-02-01,Uncategorized,[],{}
+OBJ1104,NDA-1017,NDA-1017 - Chocolate Salted Carmel Coffee,pcs,0,2,0,2018-11-01,Uncategorized,[],{}
+OBJ1105,NDA-1018,NDA-1018 - Original Coffee Creamer,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1106,NDA-1020,NDA-1020 - Coconut Coffee Creamer,pcs,0,4,0,2019-02-01,Uncategorized,[],{}
+OBJ1107,NDA-1029,NDA-1029 - Caramel Macchiato Coffee,pcs,0,5,0,2020-09-01,Uncategorized,[],{}
+OBJ1108,NDA-1031,"NDA-1031 - Milk, Almond, Unsweetened,",pcs,0,10,0,2022-08-01,Uncategorized,[],{}
+OBJ1109,NDA-1032,NDA-1032 - Plant Protein Vanilla Milk,pcs,0,4,0,2018-08-01,Uncategorized,[],{}
+OBJ1110,NDA-1036,NDA-1036 - Almond Milk (Dairy Free),pcs,0,20,0,2022-08-01,Uncategorized,[],{}
+OBJ1111,NDA-1037,NDA-1037 - Unsweetened Coconut Milk,pcs,0,3,0,2023-07-01,Uncategorized,[],{}
+OBJ1112,NDA-1042,NDA-1042 - Original Oat Milk,pcs,0,5,0,2023-08-01,Uncategorized,[],{}
+OBJ1113,NDA-1043,NDA-1043 - Plant-Based Milk - Barista Blend,pcs,0,6,0,2024-01-01,Uncategorized,[],{}
+OBJ1114,NDA-1045,NDA-1045 - Hope And Sesame Milk -Variety,pcs,0,5,0,2023-03-01,Uncategorized,[],{}
+OBJ1115,NDA-1048,NDA-1048 - Organic Dream Soy Milk Original,pcs,0,5,0,2023-05-01,Uncategorized,[],{}
+OBJ1116,NDA-1051,NDA-1051 - Soy Milk Plain Unsweetened,pcs,0,5,0,2023-05-01,Uncategorized,[],{}
+OBJ1117,NDA-1052,"NDA-1052 - Organic Rice Milk ""Whole""",pcs,0,1,0,2023-09-01,Uncategorized,[],{}
+OBJ1118,NDA-1055,NDA-1055 - French Vanilla Coffee Creamer,pcs,0,5,0,2018-11-01,Uncategorized,[],{}
+OBJ1119,NDA-1056,NDA-1056 - Organic Original Rice Milk,pcs,0,3,0,2023-08-01,Uncategorized,[],{}
+OBJ1120,NDA-1060,NDA-1060 - Smoothie Blend Soy Milk,pcs,0,6,0,2023-10-01,Uncategorized,[],{}
+OBJ1121,NDA-1068,NDA-1068 - Hope And Sesame Milk-,pcs,0,3,0,2024-03-01,Uncategorized,[],{}
+OBJ1122,NDA-1069,NDA-1069 - Hope And Sesame Milk -,pcs,0,10,0,2024-01-01,Uncategorized,[],{}
+OBJ1123,NDA-1070,NDA-1070 - Hope And Sesame Milk -,pcs,0,3,0,2024-01-01,Uncategorized,[],{}
+OBJ1124,NDA-1072,NDA-1072 - Plant Based Chocolate Milk,pcs,0,10,0,2024-04-01,Uncategorized,[],{}
+OBJ1125,NDA-1074,NDA-1074 - Chocolate Plant-Based Milk,pcs,0,6,0,2024-05-01,Uncategorized,[],{}
+OBJ1126,NDA-1075,NDA-1075 - White Plant-Based Whole Milk -,pcs,0,2,0,2024-05-01,Uncategorized,[],{}
+OBJ1127,NDA-1076,NDA-1076 - White Plant-Based Whole Milk -,pcs,0,20,0,2024-04-01,Uncategorized,[],{}
+OBJ1128,NDA-1079,NDA-1079 - Oat Milk,pcs,0,10,0,2023-10-01,Uncategorized,[],{}
+OBJ1129,NDA-1091,NDA-1091 - Oat Plain Lightly Sweetened,pcs,0,1,0,2022-02-01,Uncategorized,[],{}
+OBJ1130,NDA-1092,NDA-1092 - Plant Based Whole Milk,pcs,0,3,0,2022-12-01,Uncategorized,[],{}
+OBJ1131,NDA-1095,NDA-1095 - Plant,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1132,NDA-1096,NDA-1096 - Vanilla Almond Milk,pcs,0,20,0,2023-01-01,Uncategorized,[],{}
+OBJ1133,NDA-1100,NDA-1100 - Plant-Based Cheddar Cheese,pcs,0,8,0,2024-01-01,Uncategorized,[],{}
+OBJ1134,NDA-1102,NDA-1102 - Organic Unsweetened Almond,pcs,0,6,0,2024-05-01,Uncategorized,[],{}
+OBJ1135,NDA-1103,NDA-1103 - Organic Unsweetened Vanilla,pcs,0,10,0,2024-05-01,Uncategorized,[],{}
+OBJ1136,NUT-1005-,NUT-1005- - Shelled Walnuts (USDA),pcs,0,4,0,2024-11-01,Uncategorized,[],{}
+OBJ1137,NUT-1006-,"NUT-1006- - Pecan, Pieces, (USDA)",pcs,0,5,0,2024-10-01,Uncategorized,[],{}
+OBJ1138,NUT-1007-,NUT-1007- - Dried Fruit & Nut Mix (USDA),pcs,0,10,0,2023-02-01,Uncategorized,[],{}
+OBJ1139,NUT-1008-,NUT-1008- - Roasted Pistachios in Shells,pcs,0,3,0,2023-03-01,Uncategorized,[],{}
+OBJ1140,NUT-1009-,"NUT-1009- - Hazelnuts, (USDA)",pcs,0,6,0,2024-08-01,Uncategorized,[],{}
+OBJ1141,NUT-1012-,NUT-1012- - Roasted Whole Shell Almonds,pcs,0,3,0,2025-02-01,Uncategorized,[],{}
+OBJ1142,NUT-1013-,NUT-1013- - Natural Whole Shell Almonds,pcs,0,6,0,2022-03-01,Uncategorized,[],{}
+OBJ1143,NUT-1015-,"NUT-1015- - Pistachios, Roasted in Shell,",pcs,0,5,0,2025-02-01,Uncategorized,[],{}
+OBJ1144,OIL-1024-,"OIL-1024- - Cooking Oil, Vegetable, (PUR)",pcs,0,9,0,2022-06-01,Uncategorized,[],{}
+OBJ1145,OIL-1029-,OIL-1029- - Vegetable Oil (USDA),pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ1146,OIL-1030-,OIL-1030- - Vegetable Oil (FEMA),pcs,0,4,0,2020-01-01,Uncategorized,[],{}
+OBJ1147,OIL-1044-,OIL-1044- - Vegetable Oil (TANF),pcs,0,6,0,2020-08-01,Uncategorized,[],{}
+OBJ1148,OIL-1046-,OIL-1046- - Canola Oil,pcs,0,5,0,2020-07-01,Uncategorized,[],{}
+OBJ1149,OIL-1049-,OIL-1049- - Corn Oil,pcs,0,3,0,2020-09-01,Uncategorized,[],{}
+OBJ1150,OIL-1050-,OIL-1050- - Corn Oil (FEMA),pcs,0,7,0,2021-12-01,Uncategorized,[],{}
+OBJ1151,OIL-1051-,OIL-1051- - Canola Oil (FEMA),pcs,0,4,0,2022-01-01,Uncategorized,[],{}
+OBJ1152,OIL-1052-,OIL-1052- - Vegetable Oil (PUR),pcs,0,6,0,2022-04-01,Uncategorized,[],{}
+OBJ1153,OIL-1054-,"OIL-1054- - Cooking Oil, Vegetable (PUR)",pcs,0,6,0,2023-02-01,Uncategorized,[],{}
+OBJ1154,OIL-1061-,"OIL-1061- - Cooking Oil, Vegetable, (PUR)",pcs,0,4,0,2024-11-01,Uncategorized,[],{}
+OBJ1155,OIL-1064-,"OIL-1064- - Cooking Oil, Vegetable, (FEMA)",pcs,0,12,0,2025-02-01,Uncategorized,[],{}
+OBJ1156,PAP-1298-,PAP-1298- - Plastic T-Shirt Bags (PUR),pcs,0,1,0,2018-04-01,Uncategorized,[],{}
+OBJ1157,PAP-1467-,PAP-1467- - Toilet Paper,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1158,PAP-1471-,PAP-1471- - Toilet Paper,pcs,0,5,0,2018-02-01,Uncategorized,[],{}
+OBJ1159,PAP-1484-,PAP-1484- - Extra Large Clear Vinyl Gloves,pcs,0,4,0,2019-02-01,Uncategorized,[],{}
+OBJ1160,PAP-1488-,PAP-1488- - Paper Grocery Bags,pcs,0,5,0,2019-06-01,Uncategorized,[],{}
+OBJ1161,PAP-1490-,PAP-1490- - Plastic T-Shirt Bags (PUR),pcs,0,2,0,2021-10-01,Uncategorized,[],{}
+OBJ1162,PAP-1504-,PAP-1504- - Plastic T-Shirt Bags,pcs,0,2,0,2020-09-01,Uncategorized,[],{}
+OBJ1163,PAP-1508-,PAP-1508- - Ziploc Snack Bags,pcs,0,6,0,2020-07-01,Uncategorized,[],{}
+OBJ1164,PAP-1512-,PAP-1512- - Sandwich Bags,pcs,0,10,0,2020-09-01,Uncategorized,[],{}
+OBJ1165,PAP-1518-,"PAP-1518- - Bags, Plastic T-Shirt, GCFD Logo,",pcs,0,2,0,2024-12-01,Uncategorized,[],{}
+OBJ1166,PAP-1520-,PAP-1520- - 10oz Paper Cups,pcs,0,5,0,2022-01-01,Uncategorized,[],{}
+OBJ1167,PAP-1537-,PAP-1537- - Reusable Plastic Bags,pcs,0,10,0,2023-02-01,Uncategorized,[],{}
+OBJ1168,PAP-1584-,PAP-1584- - Fork & Spoon Sets,pcs,0,10,0,2024-03-01,Uncategorized,[],{}
+OBJ1169,PAP-1590-,PAP-1590- - 4-Pack Fork & Spoon Sets,pcs,0,10,0,2024-11-01,Uncategorized,[],{}
+OBJ1170,PAP-1596-,PAP-1596- - Child Divided Tray,pcs,0,5,0,2024-01-01,Uncategorized,[],{}
+OBJ1171,PAP-1613-,PAP-1613- - 8.875 Inch Styrofoam Lunch,pcs,0,10,0,2024-11-01,Uncategorized,[],{}
+OBJ1172,PAS-1000-,"PAS-1000- - Assorted Pasta, Mac & Cheese",pcs,0,3,0,2018-03-01,Uncategorized,[],{}
+OBJ1173,PAS-1000-D,"PAS-1000-D - Assorted Pasta, Mac & Cheese",pcs,0,3,0,2017-05-01,Uncategorized,[],{}
+OBJ1174,PAS-1003-,PAS-1003- - Organic Zucchini Noodles,pcs,0,4,0,2019-01-01,Uncategorized,[],{}
+OBJ1175,PAS-1070-,PAS-1070- - Tagliatelle Pasta,pcs,0,6,0,2017-06-01,Uncategorized,[],{}
+OBJ1176,PAS-1085-,PAS-1085- - Stuffed Mushroom Ravioli,pcs,0,2,0,2021-03-01,Uncategorized,[],{}
+OBJ1177,PAS-1093-,PAS-1093- - Macaroni And Cheese,pcs,0,5,0,2025-02-01,Uncategorized,[],{}
+OBJ1178,PAS-1188-,PAS-1188- - Egg Noodles (USDA),pcs,0,1,0,2018-05-01,Uncategorized,[],{}
+OBJ1179,PAS-1266-,"PAS-1266- - Pasta, Macaroni & Cheese, (PUR)",pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ1180,PAS-1266-D,PAS-1266-D - Macaroni & Cheese (PUR),pcs,0,4,0,2017-05-01,Uncategorized,[],{}
+OBJ1181,PAS-1283-,PAS-1283- - Easy Mac & Cheese Cups,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1182,PAS-1311-,PAS-1311- - Elbow Macaroni (PUR),pcs,0,2,0,2018-09-01,Uncategorized,[],{}
+OBJ1183,PAS-1311-D,PAS-1311-D - Elbow Macaroni (PUR),pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ1184,PAS-1404-,PAS-1404- - Macaroni & Cheese (FEMA),pcs,0,12,0,2019-07-01,Uncategorized,[],{}
+OBJ1185,PAS-1438-,PAS-1438- - Whole Wheat Spaghetti Pasta,pcs,0,2,0,2019-08-01,Uncategorized,[],{}
+OBJ1186,PAS-1443-,PAS-1443- - Whole Grain Spaghetti (USDA),pcs,0,3,0,2019-10-01,Uncategorized,[],{}
+OBJ1187,PAS-1471-,PAS-1471- - Macaroni & Cheese,pcs,0,3,0,2019-06-01,Uncategorized,[],{}
+OBJ1188,PAS-1495-X,PAS-1495-X - Stivaletti Macaroni Pasta (SUB)(RP),pcs,0,2,0,2015-12-01,Uncategorized,[],{}
+OBJ1189,PAS-1499-,PAS-1499- - Cavatappi Pasta (SUB)(RP),pcs,0,5,0,2020-11-01,Uncategorized,[],{}
+OBJ1190,PAS-1514-,PAS-1514- - Penne Rigate Pasta (SUB)(RP),pcs,0,10,0,2019-06-01,Uncategorized,[],{}
+OBJ1191,PAS-1517-,"PAS-1517- - Pasta, Spaghetti, (PUR)",pcs,0,10,0,2025-02-01,Uncategorized,[],{}
+OBJ1192,PAS-1524-,PAS-1524- - Spaghetti (PUR),pcs,0,1,0,2020-01-01,Uncategorized,[],{}
+OBJ1193,PAS-1524-D,PAS-1524-D - Spaghetti (PUR),pcs,0,2,0,2016-01-01,Uncategorized,[],{}
+OBJ1194,PAS-1531-,"PAS-1531- - Pasta, Elbow Macaroni, (USDA)",pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ1195,PAS-1535-,PAS-1535- - Spaghetti (USDA),pcs,0,7,0,2024-12-01,Uncategorized,[],{}
+OBJ1196,PAS-1540-,PAS-1540- - Elbow Macaroni (SUB)(RP),pcs,0,2,0,2019-12-01,Uncategorized,[],{}
+OBJ1197,PAS-1555-,PAS-1555- - Salad Shell Pasta (FEMA),pcs,0,8,0,2017-04-01,Uncategorized,[],{}
+OBJ1198,PAS-1555-D,PAS-1555-D - Salad Shell Pasta (FEMA) 12/16OZ CASE BOXES BAK-1035-R Homestyle Flour Tortillas,pcs,0,5,0,2017-04-01,Uncategorized,[],{}
+OBJ1199,PAS-1558-,PAS-1558- - Spaghetti (FEMA),pcs,0,3,0,2017-11-01,Uncategorized,[],{}
+OBJ1200,PAS-1560-,"PAS-1560- - Pasta, Elbow, (PUR)",pcs,0,10,0,2024-05-01,Uncategorized,[],{}
+OBJ1201,PAS-1563-,PAS-1563- - Penne Pasta (PUR),pcs,0,6,0,2017-08-01,Uncategorized,[],{}
+OBJ1202,PAS-1564-,PAS-1564- - Whole Wheat Penne Rigate Pasta,pcs,0,4,0,2017-09-01,Uncategorized,[],{}
+OBJ1203,PAS-1575-,PAS-1575- - Macaroni & Cheese (USDA),pcs,0,2,0,2018-11-01,Uncategorized,[],{}
+OBJ1204,PAS-1580-,PAS-1580- - Teriyaki Chicken Cup of Noodles,pcs,0,5,0,2017-10-01,Uncategorized,[],{}
+OBJ1205,PAS-1585-,PAS-1585- - Macaroni & Cheese,pcs,0,3,0,2024-05-01,Uncategorized,[],{}
+OBJ1206,PAS-1597-,PAS-1597- - Vegetable Fettuccine,pcs,0,5,0,2018-04-01,Uncategorized,[],{}
+OBJ1207,PAS-1601-,PAS-1601- - Penne Pasta (PUR),pcs,0,2,0,2018-11-01,Uncategorized,[],{}
+OBJ1208,PAS-1605-,PAS-1605- - Elbow Pasta (PUR),pcs,0,1,0,2019-01-01,Uncategorized,[],{}
+OBJ1209,PAS-1606-,PAS-1606- - Spaghetti (PUR),pcs,0,3,0,2019-02-01,Uncategorized,[],{}
+OBJ1210,PAS-1607-,PAS-1607- - Macaroni & Cheese (PUR),pcs,0,6,0,2019-02-01,Uncategorized,[],{}
+OBJ1211,PAS-1609-,PAS-1609- - Spaghetti (PUR),pcs,0,4,0,2019-11-01,Uncategorized,[],{}
+OBJ1212,PAS-1613-,PAS-1613- - Brown Rice Fusilli Pasta (RP),pcs,0,2,0,2019-06-01,Uncategorized,[],{}
+OBJ1213,PAS-1616-,PAS-1616- - Whole Grain Macaroni Pasta,pcs,0,3,0,2020-01-01,Uncategorized,[],{}
+OBJ1214,PAS-1618-,PAS-1618- - Macaroni & Cheese Dinner,pcs,0,5,0,2019-10-01,Uncategorized,[],{}
+OBJ1215,PAS-1620-,PAS-1620- - Vermicelli (PUR),pcs,0,1,0,2020-01-01,Uncategorized,[],{}
+OBJ1216,PAS-1630-,PAS-1630- - Enriched Macaroni Product,pcs,0,3,0,2020-07-01,Uncategorized,[],{}
+OBJ1217,PAS-1634-,PAS-1634- - Elbow Macaroni (PUR),pcs,0,4,0,2020-07-01,Uncategorized,[],{}
+OBJ1218,PAS-1635-,PAS-1635- - Protein+ Elbow Pasta,pcs,0,5,0,2020-06-01,Uncategorized,[],{}
+OBJ1219,PAS-1638-,PAS-1638- - Assorted 1LB Pasta,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1220,PAS-1639-,"PAS-1639- - Pasta, Macaroni & Cheese,",pcs,0,12,0,2025-02-01,Uncategorized,[],{}
+OBJ1221,PAS-1640-,PAS-1640- - Penne Rigate Pasta (FEMA),pcs,0,2,0,2021-06-01,Uncategorized,[],{}
+OBJ1222,PAS-1641-,"PAS-1641- - Pasta, Elbow Macaroni, (SUB)(RP)",pcs,0,8,0,2023-03-01,Uncategorized,[],{}
+OBJ1223,PAS-1653-,PAS-1653- - Tri-Color Rotini,pcs,0,2,0,2021-12-01,Uncategorized,[],{}
+OBJ1224,PAS-1670-,PAS-1670- - Whole Grain Short Penne Rigate,pcs,0,3,0,2022-06-01,Uncategorized,[],{}
+OBJ1225,PAS-1674-,PAS-1674- - Extruded Noodles (RP),pcs,0,5,0,2022-07-01,Uncategorized,[],{}
+OBJ1226,PAS-1675-,PAS-1675- - Macaroni Pasta w/Cheese Sauce,pcs,0,5,0,2022-11-01,Uncategorized,[],{}
+OBJ1227,PAS-1680-,PAS-1680- - Mac & Cheese,pcs,0,3,0,2022-09-01,Uncategorized,[],{}
+OBJ1228,PAS-1691-,PAS-1691- - Rotini Pasta (RP)(PUR),pcs,0,5,0,2023-08-01,Uncategorized,[],{}
+OBJ1229,PAS-1692-,PAS-1692- - Shells & White Cheddar,pcs,0,10,0,2023-06-01,Uncategorized,[],{}
+OBJ1230,PAS-1697-,PAS-1697- - Chickpea Rotini (Barilla),pcs,0,5,0,2023-07-01,Uncategorized,[],{}
+OBJ1231,PAS-1698-,PAS-1698- - Red Lentil Penne,pcs,0,5,0,2023-06-01,Uncategorized,[],{}
+OBJ1232,PAS-1705-,PAS-1705- - Penne Rigate Pasta (RP)(PUR),pcs,0,10,0,2024-12-01,Uncategorized,[],{}
+OBJ1233,PAS-1706-,PAS-1706- - Pipette Pasta (RP),pcs,0,5,0,2023-11-01,Uncategorized,[],{}
+OBJ1234,PAS-1710-,PAS-1710- - Assorted Bagged Pasta (RP),pcs,0,3,0,2023-12-01,Uncategorized,[],{}
+OBJ1235,PAS-1714-,PAS-1714- - Pasta Bowl - Tomato Basil Pesto,pcs,0,3,0,2023-11-01,Uncategorized,[],{}
+OBJ1236,PER-1007-,PER-1007- - Reusable Face Masks -,pcs,0,5,0,2023-07-01,Uncategorized,[],{}
+OBJ1237,PER-1008-,PER-1008- - Depends - Fresh Protection Plus,pcs,0,5,0,2023-09-01,Uncategorized,[],{}
+OBJ1238,PER-1354-N,PER-1354-N - Colgate Toothbrushes,pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ1239,PER-1356-N,PER-1356-N - Colgate Total Mint Toothpaste,pcs,0,4,0,2016-01-01,Uncategorized,[],{}
+OBJ1240,PER-1359-,PER-1359- - Enamel Health Sensitive,pcs,0,5,0,2019-02-01,Uncategorized,[],{}
+OBJ1241,PER-1372-,PER-1372- - Sensitive Complete Protection,pcs,0,5,0,2020-09-01,Uncategorized,[],{}
+OBJ1242,PER-1372-N,PER-1372-N - Sensitive Complete Protection Mint,pcs,0,8,0,2017-05-01,Uncategorized,[],{}
+OBJ1243,PER-1373-,PER-1373- - Colgate Toothpaste,pcs,0,2,0,2017-07-01,Uncategorized,[],{}
+OBJ1244,PER-1377-,PER-1377- - Total Peppermint Mouthwash,pcs,0,5,0,2017-08-01,Uncategorized,[],{}
+OBJ1245,PER-1378-,PER-1378- - Total Clean Mint Toothpaste,pcs,0,5,0,2019-01-01,Uncategorized,[],{}
+OBJ1246,PER-1380-,PER-1380- - Asst. Personal Care (SAL),pcs,0,3,0,2018-01-01,Uncategorized,[],{}
+OBJ1247,PER-1386-,PER-1386- - Colgate Sensitive Complete,pcs,0,6,0,2020-01-01,Uncategorized,[],{}
+OBJ1248,PER-1390-,PER-1390- - Bubble Fruit Flavor Kid's,pcs,0,6,0,2021-04-01,Uncategorized,[],{}
+OBJ1249,PER-1393-,PER-1393- - Clean-in-Between Toothpate,pcs,0,5,0,2019-05-01,Uncategorized,[],{}
+OBJ1250,PER-1394-,PER-1394- - Advanced Care Mouthwash,pcs,0,10,0,2019-06-01,Uncategorized,[],{}
+OBJ1251,PER-1396-,PER-1396- - Sensitivity Relief Serum,pcs,0,5,0,2019-08-01,Uncategorized,[],{}
+OBJ1252,PER-1397-,PER-1397- - Dry Mouth Oral Rinse,pcs,0,6,0,2019-09-01,Uncategorized,[],{}
+OBJ1253,PER-1404-,PER-1404- - Liquid Hand Soap,pcs,0,2,0,2020-08-01,Uncategorized,[],{}
+OBJ1254,PER-1407-,PER-1407- - Hand Sanitizer,pcs,0,10,0,2020-08-01,Uncategorized,[],{}
+OBJ1255,PER-1408-,PER-1408- - Toothbrushes,pcs,0,8,0,2020-07-01,Uncategorized,[],{}
+OBJ1256,PER-1409-,PER-1409- - Bar Hand Soap,pcs,0,3,0,2020-07-01,Uncategorized,[],{}
+OBJ1257,PER-1410-,PER-1410- - Wonder Woman Kids Electric,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1258,PER-1415-,PER-1415- - Total Clean Mint Toothpaste,pcs,0,3,0,2021-03-01,Uncategorized,[],{}
+OBJ1259,PER-1418-,PER-1418- - Toothbrush + Toothpaste Kits,pcs,0,3,0,2020-09-01,Uncategorized,[],{}
+OBJ1260,PER-1419-,PER-1419- - Hand Sanitizer,pcs,0,2,0,2020-11-01,Uncategorized,[],{}
+OBJ1261,PER-1423-,PER-1423- - Hand Sanitizer,pcs,0,2,0,2021-01-01,Uncategorized,[],{}
+OBJ1262,PER-1427-,PER-1427- - Hand Sanitizing Wipe Bags,pcs,0,2,0,2021-06-01,Uncategorized,[],{}
+OBJ1263,PER-1429-,PER-1429- - Hand Sanitizer,pcs,0,3,0,2021-03-01,Uncategorized,[],{}
+OBJ1264,PER-1433-,PER-1433- - Face Shield,pcs,0,1,0,2021-03-01,Uncategorized,[],{}
+OBJ1265,PER-1434-,PER-1434- - KN-95 Masks,pcs,0,5,0,2025-02-01,Uncategorized,[],{}
+OBJ1266,PER-1436-,PER-1436- - Face Cream Convenience Kit,pcs,0,6,0,2021-02-01,Uncategorized,[],{}
+OBJ1267,PER-1439-,"PER-1439- - Bar Soap, (PUR)",pcs,0,3,0,2022-11-01,Uncategorized,[],{}
+OBJ1268,PER-1440-,PER-1440- - Disposable Protective Masks -,pcs,0,9,0,2021-03-01,Uncategorized,[],{}
+OBJ1269,PER-1441-,PER-1441- - Hand Sanitizer,pcs,0,1,0,2021-05-01,Uncategorized,[],{}
+OBJ1270,PER-1443-,PER-1443- - Bar Soap (PUR),pcs,0,1,0,2021-05-01,Uncategorized,[],{}
+OBJ1271,PER-1444-,PER-1444- - Shampoo & Body Bath (PUR),pcs,0,3,0,2021-10-01,Uncategorized,[],{}
+OBJ1272,PER-1446-,PER-1446- - Hand Sanitizer,pcs,0,5,0,2021-05-01,Uncategorized,[],{}
+OBJ1273,PER-1453-,PER-1453- - Reusable Face Masks - Adult Size,pcs,0,3,0,2021-06-01,Uncategorized,[],{}
+OBJ1274,PER-1454-,PER-1454- - Reusable Face Masks - Youth,pcs,0,2,0,2021-06-01,Uncategorized,[],{}
+OBJ1275,PER-1471-,PER-1471- - Shampoo (PUR),pcs,0,5,0,2021-11-01,Uncategorized,[],{}
+OBJ1276,PER-1473-,PER-1473- - Aloe Vera & Jasmine Hand Soap,pcs,0,3,0,2021-10-01,Uncategorized,[],{}
+OBJ1277,PER-1474-,PER-1474- - Orange Blossom Hand Soap,pcs,0,10,0,2021-11-01,Uncategorized,[],{}
+OBJ1278,PER-1475-,PER-1475- - Freesia Citrus Hand Soap,pcs,0,3,0,2021-12-01,Uncategorized,[],{}
+OBJ1279,PER-1477-,PER-1477- - Shampoo & Conditioner (PUR),pcs,0,5,0,2022-02-01,Uncategorized,[],{}
+OBJ1280,PER-1478-,PER-1478- - Hand Sanitizer,pcs,0,16,0,2022-10-01,Uncategorized,[],{}
+OBJ1281,PER-1480-,PER-1480- - Cherry Blossom Scented Hand,pcs,0,3,0,2021-12-01,Uncategorized,[],{}
+OBJ1282,PER-1484-,PER-1484- - Ocean Fresh Sanitizing Wipes,pcs,0,10,0,2021-12-01,Uncategorized,[],{}
+OBJ1283,PER-1486-,PER-1486- - 3-in-1 Shampoo (PUR),pcs,0,9,0,2022-05-01,Uncategorized,[],{}
+OBJ1284,PER-1489-,PER-1489- - Hand Sanitizer Containing Ethyl,pcs,0,2,0,2022-02-01,Uncategorized,[],{}
+OBJ1285,PER-1494-,PER-1494- - White Face Masks,pcs,0,3,0,2022-03-01,Uncategorized,[],{}
+OBJ1286,PER-1495-,PER-1495- - Tazza Hand Sanitizing Wipes,pcs,0,10,0,2023-04-01,Uncategorized,[],{}
+OBJ1287,PER-1497-,PER-1497- - Hand Sanitizer,pcs,0,6,0,2022-04-01,Uncategorized,[],{}
+OBJ1288,PER-1498-,PER-1498- - Quality Hand Sanitizer,pcs,0,3,0,2022-09-01,Uncategorized,[],{}
+OBJ1289,PER-1499-,PER-1499- - Nourising Hand Sanitizer,pcs,0,6,0,2022-04-01,Uncategorized,[],{}
+OBJ1290,PER-1501-,"PER-1501- - Bar Soap, (PUR)",pcs,0,13,0,2022-07-01,Uncategorized,[],{}
+OBJ1291,PER-1505-,PER-1505- - Covid-19 Self Test Kits,pcs,0,1,0,2023-06-01,Uncategorized,[],{}
+OBJ1292,PER-1507-,PER-1507- - Disinfectant Wipes,pcs,0,10,0,2022-12-01,Uncategorized,[],{}
+OBJ1293,PER-1508-,"PER-1508- - Shampoo & Conditioner, (PUR)",pcs,0,10,0,2023-02-01,Uncategorized,[],{}
+OBJ1294,PER-1510-,PER-1510- - Tazza-X Hand Sanitizing Wipes,pcs,0,15,0,2023-03-01,Uncategorized,[],{}
+OBJ1295,PER-1511-,PER-1511- - Disinfecting Wipes,pcs,0,10,0,2022-12-01,Uncategorized,[],{}
+OBJ1296,PER-1512-,PER-1512- - Tazza-X Hand Santizing Sprayer,pcs,0,5,0,2022-11-01,Uncategorized,[],{}
+OBJ1297,PER-1513-,PER-1513- - Feminine Hygiene Pads -,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1298,PER-1514-,PER-1514- - Feminine Hygiene Pads -,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1299,PER-1519-,PER-1519- - Assorted Feminine Hygiene,pcs,0,10,0,2023-02-01,Uncategorized,[],{}
+OBJ1300,PER-1520-,PER-1520- - Advanced Liquid Hand Sanitizer,pcs,0,10,0,2023-08-01,Uncategorized,[],{}
+OBJ1301,PER-1526-,PER-1526- - Freezer Ice Packs,pcs,0,5,0,2023-04-01,Uncategorized,[],{}
+OBJ1302,PER-1527-,PER-1527- - Regular Protection Toothpaste,pcs,0,30,0,2023-05-01,Uncategorized,[],{}
+OBJ1303,PER-1534-,PER-1534- - Medium Gloves - Nitrile & Vinyl,pcs,0,10,0,2024-11-01,Uncategorized,[],{}
+OBJ1304,PER-1538-,PER-1538- - Reusable Face Mask,pcs,0,1,0,2024-01-01,Uncategorized,[],{}
+OBJ1305,PER-1541-,PER-1541- - Lavender Rose Panty Spray,pcs,0,12,0,2023-12-01,Uncategorized,[],{}
+OBJ1306,PER-1542-,PER-1542- - Baby Foaming Wash & Shampoo,pcs,0,20,0,2023-09-01,Uncategorized,[],{}
+OBJ1307,PER-1543-,PER-1543- - Peppermint 3D White Toothpaste,pcs,0,5,0,2023-09-01,Uncategorized,[],{}
+OBJ1308,PER-1546-,PER-1546- - Freezer Ice Pack,pcs,0,5,0,2023-09-01,Uncategorized,[],{}
+OBJ1309,PER-1550-,PER-1550- - Lip Balm - Assorted Flavors,pcs,0,20,0,2023-11-01,Uncategorized,[],{}
+OBJ1310,PER-1570-,PER-1570- - Disposable Face Mask,pcs,0,5,0,2023-11-01,Uncategorized,[],{}
+OBJ1311,PER-1571-,PER-1571- - Surgical Face Masks,pcs,0,2,0,2023-10-01,Uncategorized,[],{}
+OBJ1312,PER-1574-,PER-1574- - Covid-19 Self Test Kits,pcs,0,5,0,2025-02-01,Uncategorized,[],{}
+OBJ1313,PER-1575-,PER-1575- - Extra Large Gloves - Nitrile,pcs,0,5,0,2024-11-01,Uncategorized,[],{}
+OBJ1314,PER-1577-,PER-1577- - Medium Gloves - Nitrile,pcs,0,5,0,2024-10-01,Uncategorized,[],{}
+OBJ1315,PER-1586-,PER-1586- - Covid-19 Antigen Home Tests,pcs,0,2,0,2024-11-01,Uncategorized,[],{}
+OBJ1316,PER-1595-,PER-1595- - Face Shields,pcs,0,3,0,2024-11-01,Uncategorized,[],{}
+OBJ1317,PER-1598-,PER-1598- - Rose Water Plant Based Body,pcs,0,20,0,2025-02-01,Uncategorized,[],{}
+OBJ1318,PNM-1000,PNM-1000 - Meat Free Deli Turkey,pcs,0,1,0,2021-06-01,Uncategorized,[],{}
+OBJ1319,PNM-1001,PNM-1001 - Meat Free Chicken Strips,pcs,0,1,0,2021-04-01,Uncategorized,[],{}
+OBJ1320,PNM-1002,PNM-1002 - Plant Based Protein - Pulled Oats,pcs,0,3,0,2023-08-01,Uncategorized,[],{}
+OBJ1321,PNM-1007,PNM-1007 - Plant Based Liquid Eggs,pcs,0,5,0,2024-05-01,Uncategorized,[],{}
+OBJ1322,PNM-1008,PNM-1008 - Plant Based Bratwurst,pcs,0,10,0,2024-03-01,Uncategorized,[],{}
+OBJ1323,PNM-1009,PNM-1009 - Plant Based Chipotle Mayo,pcs,0,5,0,2024-05-01,Uncategorized,[],{}
+OBJ1324,PNM-1011,PNM-1011 - Dairy Free Spicy Mexican,pcs,0,8,0,2024-08-01,Uncategorized,[],{}
+OBJ1325,PNM-1012,PNM-1012 - Plant-Based Breaded Fish Sticks,pcs,0,5,0,2024-08-01,Uncategorized,[],{}
+OBJ1326,PNM-1013,PNM-1013 - Plant-Based Deli Style Ham,pcs,0,10,0,2024-12-01,Uncategorized,[],{}
+OBJ1327,PNM-1018,PNM-1018 - Wicked Jalapeno Griller Patties -,pcs,0,4,0,2024-11-01,Uncategorized,[],{}
+OBJ1328,POU-0340-,POU-0340- - Whole Chickens (USDA),pcs,0,10,0,2024-11-01,Uncategorized,[],{}
+OBJ1329,PRO-0227-,"PRO-0227- - Potatoes, Fresh, (USDA)",pcs,0,43,0,2024-12-01,Uncategorized,[],{}
+OBJ1330,PRO-1006-,PRO-1006- - Italian Greens Blend,pcs,0,10,0,2024-05-01,Uncategorized,[],{}
+OBJ1331,PRO-1008-,"PRO-1008- - Mangos, Frozen, 25#",pcs,0,5,0,2025-02-01,Uncategorized,[],{}
+OBJ1332,PRO-1574-,PRO-1574- - Onions - 40# Box,pcs,0,4,0,2021-12-01,Uncategorized,[],{}
+OBJ1333,PRO-1879-,"PRO-1879- - Potatoes, (PUR)",pcs,0,16,0,2023-10-01,Uncategorized,[],{}
+OBJ1334,PRO-1880-,"PRO-1880- - Onions, (PUR)",pcs,0,3,0,2022-11-01,Uncategorized,[],{}
+OBJ1335,PRO-1880-F,PRO-1880-F - Onions - 50# Bag,pcs,0,1,0,2015-12-01,Uncategorized,[],{}
+OBJ1336,PRO-1889-,"PRO-1889- - Oranges, (PUR)",pcs,0,15,0,2024-11-01,Uncategorized,[],{}
+OBJ1337,PRO-1921-,PRO-1921- - Peaches - 25# Box,pcs,0,1,0,2021-06-01,Uncategorized,[],{}
+OBJ1338,PRO-1973-,"PRO-1973- - Apples, (PUR)",pcs,0,2,0,2024-01-01,Uncategorized,[],{}
+OBJ1339,PRO-2101-,"PRO-2101- - Lettuce, Assorted Organic",pcs,0,6,0,2024-10-01,Uncategorized,[],{}
+OBJ1340,PRO-2103-,"PRO-2103- - Cantaloupes, 38#",pcs,0,3,0,2023-05-01,Uncategorized,[],{}
+OBJ1341,PRO-2105-,"PRO-2105- - Cucumbers, 16oz",pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1342,PRO-2107-,"PRO-2107- - Corn, Sweet - 40# Box",pcs,0,1,0,2023-08-01,Uncategorized,[],{}
+OBJ1343,PRO-2118-,"PRO-2118- - Watermelons, 40# Box",pcs,0,7,0,2023-08-01,Uncategorized,[],{}
+OBJ1344,PRO-2145-,"PRO-2145- - Potatoes, 10/5# Bags",pcs,0,6,0,2024-12-01,Uncategorized,[],{}
+OBJ1345,PRO-2146-,"PRO-2146- - Sweet Potatoes, 12/3# Bags",pcs,0,6,0,2024-12-01,Uncategorized,[],{}
+OBJ1346,PRO-2152-,"PRO-2152- - Lettuce, Romaine, 12 count",pcs,0,6,0,2023-12-01,Uncategorized,[],{}
+OBJ1347,PRO-2160-,"PRO-2160- - Mangos, (PUR)",pcs,0,12,0,2024-08-01,Uncategorized,[],{}
+OBJ1348,PRO-2161-,"PRO-2161- - Corn, 43# Box",pcs,0,6,0,2024-05-01,Uncategorized,[],{}
+OBJ1349,PRO-2174-,"PRO-2174- - Tomatoes, 10oz Packages",pcs,0,10,0,2024-05-01,Uncategorized,[],{}
+OBJ1350,PRO-2204-,"PRO-2204- - Pears, D'Anjou, Fresh, (USDA)",pcs,0,3,0,2025-02-01,Uncategorized,[],{}
+OBJ1351,PRO-2228-,"PRO-2228- - Peppers, (F2FB)",pcs,0,8,0,2024-10-01,Uncategorized,[],{}
+OBJ1352,PRO-2229-,PRO-2229- - Potatoes. (FEMA-HOLIDAY),pcs,0,14,0,2024-11-01,Uncategorized,[],{}
+OBJ1353,PRO-2230-,"PRO-2230- - Sweet Potatoes, (FEMA-",pcs,0,36,0,2024-12-01,Uncategorized,[],{}
+OBJ1354,PRO-2232-,"PRO-2232- - Butterhead Lettuce, 12 Count",pcs,0,5,0,2024-12-01,Uncategorized,[],{}
+OBJ1355,PRO-2235-,"PRO-2235- - Beets, (F2FB)",pcs,0,2,0,2025-02-01,Uncategorized,[],{}
+OBJ1356,PRO-2241-,"PRO-2241- - Oranges, 27# Box",pcs,0,3,0,2024-12-01,Uncategorized,[],{}
+OBJ1357,PRO-2250-,"PRO-2250- - Broccoli, 20# Box",pcs,0,5,0,2025-02-01,Uncategorized,[],{}
+OBJ1358,PRO-3021-,"PRO-3021- - Cabbage, (PUR)",pcs,0,6,0,2024-02-01,Uncategorized,[],{}
+OBJ1359,PRO-3226-,"PRO-3226- - Potatoes, (PUR)",pcs,0,6,0,2024-11-01,Uncategorized,[],{}
+OBJ1360,PRO-3245-,PRO-3245- - Bananas - 40# Box,pcs,0,2,0,2021-12-01,Uncategorized,[],{}
+OBJ1361,PRO-3248-,"PRO-3248- - Celery, (PUR)",pcs,0,3,0,2024-11-01,Uncategorized,[],{}
+OBJ1362,PRO-3252-,"PRO-3252- - Oranges, (PUR)",pcs,0,2,0,2022-11-01,Uncategorized,[],{}
+OBJ1363,PRO-3254-,PRO-3254- - Zucchini - 26# Box,pcs,0,3,0,2020-07-01,Uncategorized,[],{}
+OBJ1364,PRO-3263-,PRO-3263- - Pears - 35# Box,pcs,0,1,0,2019-12-01,Uncategorized,[],{}
+OBJ1365,PRO-3263-F,PRO-3263-F - Pears - 35# box,pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ1366,PRO-3272-,PRO-3272- - Potatoes (CEDA) 10/5# BAGS,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ1367,PRO-3284-,"PRO-3284- - Apples, (PUR)",pcs,0,3,0,2024-11-01,Uncategorized,[],{}
+OBJ1368,PRO-3295-,PRO-3295- - Cantaloupe (CEDA) 35# BOX,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ1369,PRO-3296-,PRO-3296- - Carrots (CEDA) 50# BAGS,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ1370,PRO-3305-,PRO-3305- - Spaghetti Squash - 40# Box,pcs,0,1,0,2020-11-01,Uncategorized,[],{}
+OBJ1371,PRO-3314-,PRO-3314- - Celery - 40# case,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1372,PRO-3320-,"PRO-3320- - Potatoes, (HOLIDAY)",pcs,0,18,0,2023-11-01,Uncategorized,[],{}
+OBJ1373,PRO-3324-,PRO-3324- - Broccoli - 20# Box,pcs,0,1,0,2022-04-01,Uncategorized,[],{}
+OBJ1374,PRO-3326-,PRO-3326- - Carrots - 50# Bag,pcs,0,1,0,2021-12-01,Uncategorized,[],{}
+OBJ1375,PRO-3328-,PRO-3328- - Onions - 16/3# Bags,pcs,0,7,0,2022-04-01,Uncategorized,[],{}
+OBJ1376,PRO-3332-,PRO-3332- - Sweet Potatoes - 40# Case,pcs,0,2,0,2019-11-01,Uncategorized,[],{}
+OBJ1377,PRO-3339-,PRO-3339- - Onions - 50# Bag,pcs,0,1,0,2020-01-01,Uncategorized,[],{}
+OBJ1378,PRO-3352-,"PRO-3352- - Peppers, Bell, Green, (PUR)",pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ1379,PRO-3355-,PRO-3355- - Red Peppers - 11# Case,pcs,0,1,0,2022-04-01,Uncategorized,[],{}
+OBJ1380,PRO-3377-,PRO-3377- - Pears (CEDA) 44# BOX,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ1381,PRO-3385-,"PRO-3385- - Mangos, (PUR)",pcs,0,10,0,2025-02-01,Uncategorized,[],{}
+OBJ1382,PRO-3395-,"PRO-3395- - Corn, (PUR)",pcs,0,6,0,2024-05-01,Uncategorized,[],{}
+OBJ1383,PRO-3405-,PRO-3405- - Butternut Squash - 30# Box,pcs,0,1,0,2019-02-01,Uncategorized,[],{}
+OBJ1384,PRO-3430-,PRO-3430- - Nectarines - 28# Box,pcs,0,1,0,2019-08-01,Uncategorized,[],{}
+OBJ1385,PRO-3442-,PRO-3442- - Peppers - 23# Box,pcs,0,3,0,2022-06-01,Uncategorized,[],{}
+OBJ1386,PRO-3448-,"PRO-3448- - Potatoes, 40# Box",pcs,0,8,0,2024-07-01,Uncategorized,[],{}
+OBJ1387,PRO-3448-F,PRO-3448-F - Potatoes - 40# Case,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1388,PRO-3469-,PRO-3469- - Avocados - 25# Box,pcs,0,2,0,2022-04-01,Uncategorized,[],{}
+OBJ1389,PRO-3494-,PRO-3494- - Apples - 35# Box,pcs,0,1,0,2019-07-01,Uncategorized,[],{}
+OBJ1390,PRO-3494-F,PRO-3494-F - Apples - 35# Box,pcs,0,2,0,2015-12-01,Uncategorized,[],{}
+OBJ1391,PRO-3500-,PRO-3500- - Oranges - 33# Box,pcs,0,2,0,2022-06-01,Uncategorized,[],{}
+OBJ1392,PRO-3513-,"PRO-3513- - Potatoes, Bagged (PUR)",pcs,0,3,0,2023-01-01,Uncategorized,[],{}
+OBJ1393,PRO-3514-,PRO-3514- - Green Beans - 30# Box,pcs,0,1,0,2019-03-01,Uncategorized,[],{}
+OBJ1394,PRO-3521-,"PRO-3521- - Melons, Cantaloupe, (PUR)",pcs,0,4,0,2022-09-01,Uncategorized,[],{}
+OBJ1395,PRO-3522-,PRO-3522- - Butternut Squash - 40# Box,pcs,0,1,0,2020-11-01,Uncategorized,[],{}
+OBJ1396,PRO-3526-,PRO-3526- - Butternut Squash - 35# Box,pcs,0,1,0,2019-11-01,Uncategorized,[],{}
+OBJ1397,PRO-3552-,PRO-3552- - Zucchini (CEDA) 20# BOX,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ1398,PRO-3569-,PRO-3569- - Corn - 30# Case,pcs,0,2,0,2018-08-01,Uncategorized,[],{}
+OBJ1399,PRO-3572-,PRO-3572- - Bananas - 42# Box,pcs,0,1,0,2019-10-01,Uncategorized,[],{}
+OBJ1400,PRO-3573-,"PRO-3573- - Apples, (PUR)",pcs,0,3,0,2022-10-01,Uncategorized,[],{}
+OBJ1401,PRO-3576-,PRO-3576- - Cucumbers - 48# Box,pcs,0,1,0,2018-12-01,Uncategorized,[],{}
+OBJ1402,PRO-3586-,PRO-3586- - Cauliflower - 25# Box,pcs,0,2,0,2024-11-01,Uncategorized,[],{}
+OBJ1403,PRO-3594-,"PRO-3594- - Melons, Honeydew, (PUR)",pcs,0,1,0,2022-07-01,Uncategorized,[],{}
+OBJ1404,PRO-3621-,PRO-3621- - Cantaloupes - 37# Box,pcs,0,1,0,2019-02-01,Uncategorized,[],{}
+OBJ1405,PRO-3637-,PRO-3637- - Grapefruit - 36# Box,pcs,0,1,0,2022-02-01,Uncategorized,[],{}
+OBJ1406,PRO-3638-,"PRO-3638- - Cucumbers, (PUR)",pcs,0,1,0,2022-06-01,Uncategorized,[],{}
+OBJ1407,PRO-3641-,PRO-3641- - Zucchini - 25# Box,pcs,0,1,0,2018-12-01,Uncategorized,[],{}
+OBJ1408,PRO-3699-,PRO-3699- - Radishes - 40# Bag,pcs,0,1,0,2020-01-01,Uncategorized,[],{}
+OBJ1409,PRO-3703-,PRO-3703- - Fresh Gala Apples (USDA),pcs,0,3,0,2022-10-01,Uncategorized,[],{}
+OBJ1410,PRO-3706-,PRO-3706- - Apples - 35# Box,pcs,0,5,0,2017-06-01,Uncategorized,[],{}
+OBJ1411,PRO-3706-R,PRO-3706-R - Apples - 35#,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1412,PRO-3710-,"PRO-3710- - Corn, 25# Box",pcs,0,4,0,2023-08-01,Uncategorized,[],{}
+OBJ1413,PRO-3729-,PRO-3729- - Cucumbers - 45# Box,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1414,PRO-3732-,PRO-3732- - Fresh Pears (USDA),pcs,0,6,0,2023-05-01,Uncategorized,[],{}
+OBJ1415,PRO-3733-,PRO-3733- - Matchstick Carrots - 10oz bags,pcs,0,10,0,2022-12-01,Uncategorized,[],{}
+OBJ1416,PRO-3734-,PRO-3734- - Lemons - 40# Box,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ1417,PRO-3737-,PRO-3737- - Tomatoes - 20# Box,pcs,0,2,0,2022-05-01,Uncategorized,[],{}
+OBJ1418,PRO-3749-,PRO-3749- - Corn - 28# Box,pcs,0,1,0,2019-09-01,Uncategorized,[],{}
+OBJ1419,PRO-3760-F,PRO-3760-F - Pears - 30# Box,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1420,PRO-3762-,PRO-3762- - Baby Carrots - 12 Bags,pcs,0,10,0,2023-02-01,Uncategorized,[],{}
+OBJ1421,PRO-3766-,PRO-3766- - Grapefruit - 35# Box,pcs,0,2,0,2017-11-01,Uncategorized,[],{}
+OBJ1422,PRO-3766-F,PRO-3766-F - Grapefruit - 35# Box,pcs,0,2,0,2015-12-01,Uncategorized,[],{}
+OBJ1423,PRO-3776-,PRO-3776- - Spaghetti Squash - 36# Box,pcs,0,1,0,2022-04-01,Uncategorized,[],{}
+OBJ1424,PRO-3778-,PRO-3778- - Acorn Squash - 36# Box,pcs,0,1,0,2019-05-01,Uncategorized,[],{}
+OBJ1425,PRO-3782-F,PRO-3782-F - Green Beans - 27# Box,pcs,0,2,0,2015-12-01,Uncategorized,[],{}
+OBJ1426,PRO-3783-,PRO-3783- - Peppers - 20# Box,pcs,0,1,0,2022-02-01,Uncategorized,[],{}
+OBJ1427,PRO-3791-F,PRO-3791-F - Apples - 42# Box,pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ1428,PRO-3795-,PRO-3795- - Cucumbers - 25# Box,pcs,0,1,0,2024-11-01,Uncategorized,[],{}
+OBJ1429,PRO-3808-,PRO-3808- - Brussel Sprouts - 25# Box,pcs,0,1,0,2022-04-01,Uncategorized,[],{}
+OBJ1430,PRO-3815-,PRO-3815- - Cucumbers - 15# Box,pcs,0,2,0,2021-03-01,Uncategorized,[],{}
+OBJ1431,PRO-3821-,PRO-3821- - Assorted Lettuce - 12 count,pcs,0,6,0,2023-08-01,Uncategorized,[],{}
+OBJ1432,PRO-3832-,"PRO-3832- - Celery, (PUR)",pcs,0,2,0,2022-09-01,Uncategorized,[],{}
+OBJ1433,PRO-3845-,"PRO-3845- - Melons, Cantaloupe, (PUR)",pcs,0,20,0,2024-11-01,Uncategorized,[],{}
+OBJ1434,PRO-3856-,PRO-3856- - Spaghetti Squash - 35# Box,pcs,0,1,0,2020-01-01,Uncategorized,[],{}
+OBJ1435,PRO-3866-,PRO-3866- - Peppers - 29# Box,pcs,0,1,0,2019-12-01,Uncategorized,[],{}
+OBJ1436,PRO-3878-,PRO-3878- - Gourmet Lettuce Medley - 4.5oz,pcs,0,5,0,2023-06-01,Uncategorized,[],{}
+OBJ1437,PRO-3928-,PRO-3928- - Lettuce - 38# Box,pcs,0,1,0,2022-02-01,Uncategorized,[],{}
+OBJ1438,PRO-3935-,PRO-3935- - Apples - 38# Box,pcs,0,1,0,2019-04-01,Uncategorized,[],{}
+OBJ1439,PRO-3936-,PRO-3936- - Celery - 55# Box,pcs,0,1,0,2018-10-01,Uncategorized,[],{}
+OBJ1440,PRO-3942-,"PRO-3942- - Apples, Fresh, (USDA)",pcs,0,9,0,2025-02-01,Uncategorized,[],{}
+OBJ1441,PRO-3977-,"PRO-3977- - Melons, Cantaloupe, (PUR)",pcs,0,6,0,2022-08-01,Uncategorized,[],{}
+OBJ1442,PRO-3977-R,PRO-3977-R - Cantaloupe - 36#,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1443,PRO-3978-,PRO-3978- - Beets - 25# Bag,pcs,0,1,0,2019-05-01,Uncategorized,[],{}
+OBJ1444,PRO-3991-,PRO-3991- - Apples - 42# Box,pcs,0,2,0,2018-03-01,Uncategorized,[],{}
+OBJ1445,PRO-3996-,"PRO-3996- - Jicama, (PUR)",pcs,0,1,0,2022-08-01,Uncategorized,[],{}
+OBJ1446,PRO-4021-,"PRO-4021- - Onions, 50# Bag",pcs,0,2,0,2023-12-01,Uncategorized,[],{}
+OBJ1447,PRO-4021-R,PRO-4021-R - Onions - 50#,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1448,PRO-4026-,PRO-4026- - Apples - 40# Case,pcs,0,2,0,2019-04-01,Uncategorized,[],{}
+OBJ1449,PRO-4028-,PRO-4028- - Oranges - 35# Box,pcs,0,1,0,2022-03-01,Uncategorized,[],{}
+OBJ1450,PRO-4028-F,PRO-4028-F - Oranges - 35# Box,pcs,0,2,0,2015-12-01,Uncategorized,[],{}
+OBJ1451,PRO-4040-,PRO-4040- - Carrots - 50# Bags,pcs,0,1,0,2019-02-01,Uncategorized,[],{}
+OBJ1452,PRO-4048-,"PRO-4048- - Carrots, 35# Box",pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ1453,PRO-4048-R,PRO-4048-R - Carrots - 35#,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1454,PRO-4060-,"PRO-4060- - Tomatoes, (PUR)",pcs,0,2,0,2022-08-01,Uncategorized,[],{}
+OBJ1455,PRO-4064-,PRO-4064- - Limes - 40# Box,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ1456,PRO-4066-,PRO-4066- - Peppers - 11# Box,pcs,0,3,0,2022-02-01,Uncategorized,[],{}
+OBJ1457,PRO-4070-,PRO-4070- - Cucumbers - 50# Box,pcs,0,3,0,2022-02-01,Uncategorized,[],{}
+OBJ1458,PRO-4071-,PRO-4071- - Tomatoes - 10# Box,pcs,0,1,0,2019-08-01,Uncategorized,[],{}
+OBJ1459,PRO-4080-,"PRO-4080- - Cauliflower, 26# Box, (PUR)",pcs,0,5,0,2022-06-01,Uncategorized,[],{}
+OBJ1460,PRO-4082-,"PRO-4082- - Cabbage, (PUR)",pcs,0,3,0,2024-01-01,Uncategorized,[],{}
+OBJ1461,PRO-4103-,PRO-4103- - Grapefruit - 40# Box,pcs,0,2,0,2021-01-01,Uncategorized,[],{}
+OBJ1462,PRO-4120-,PRO-4120- - Potatoes - 50# Bag,pcs,0,2,0,2020-06-01,Uncategorized,[],{}
+OBJ1463,PRO-4121-,"PRO-4121- - Melons, Cantaloupe, (PUR)",pcs,0,10,0,2023-04-01,Uncategorized,[],{}
+OBJ1464,PRO-4124-,PRO-4124- - Eggplant - 25# case,pcs,0,1,0,2019-11-01,Uncategorized,[],{}
+OBJ1465,PRO-4154-,PRO-4154- - Pears - 40# Case,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ1466,PRO-4160-,"PRO-4160- - Melons, Cantaloupe, (PUR)",pcs,0,10,0,2023-06-01,Uncategorized,[],{}
+OBJ1467,PRO-4162-,PRO-4162- - Tomatoes - 12# Box,pcs,0,2,0,2018-05-01,Uncategorized,[],{}
+OBJ1468,PRO-4162-F,PRO-4162-F - Tomatoes - 12# Box,pcs,0,4,0,2015-12-01,Uncategorized,[],{}
+OBJ1469,PRO-4165-,PRO-4165- - Carrots - 50# Bag,pcs,0,1,0,2018-12-01,Uncategorized,[],{}
+OBJ1470,PRO-4174-,"PRO-4174- - Corn, (PUR)",pcs,0,2,0,2023-07-01,Uncategorized,[],{}
+OBJ1471,PRO-4192-,PRO-4192- - Honeydew -25# Box,pcs,0,1,0,2022-04-01,Uncategorized,[],{}
+OBJ1472,PRO-4199-,"PRO-4199- - Peppers, (PUR)",pcs,0,4,0,2024-04-01,Uncategorized,[],{}
+OBJ1473,PRO-4200-,PRO-4200- - Sweet Potatoes - 40# Box,pcs,0,1,0,2021-06-01,Uncategorized,[],{}
+OBJ1474,PRO-4201-,PRO-4201- - Beets - 25# Bag,pcs,0,3,0,2022-03-01,Uncategorized,[],{}
+OBJ1475,PRO-4202-,PRO-4202- - Cabbage - 25# Box,pcs,0,1,0,2019-11-01,Uncategorized,[],{}
+OBJ1476,PRO-4204-,PRO-4204- - Oranges - 35# Box,pcs,0,2,0,2018-03-01,Uncategorized,[],{}
+OBJ1477,PRO-4207-,PRO-4207- - Pears - 36# Box,pcs,0,4,0,2021-01-01,Uncategorized,[],{}
+OBJ1478,PRO-4208-,PRO-4208- - Fresh White Round Potatoes,pcs,0,1,0,2019-10-01,Uncategorized,[],{}
+OBJ1479,PRO-4211-,"PRO-4211- - Peppers, Jalapeno, 35# Box",pcs,0,1,0,2022-05-01,Uncategorized,[],{}
+OBJ1480,PRO-4214-,PRO-4214- - Sweet Potatoes - 12/3# Bags,pcs,0,3,0,2022-05-01,Uncategorized,[],{}
+OBJ1481,PRO-4216-,PRO-4216- - Nectarines - 25# Box,pcs,0,1,0,2017-05-01,Uncategorized,[],{}
+OBJ1482,PRO-4216-R,PRO-4216-R - Nectarines - 25#,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1483,PRO-4222-,PRO-4222- - Cantaloupes - 40# Box,pcs,0,2,0,2017-06-01,Uncategorized,[],{}
+OBJ1484,PRO-4222-R,PRO-4222-R - Cantaloupes - 40#,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1485,PRO-4225-,PRO-4225- - Apples (CEDA) 12/3# BAGS,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ1486,PRO-4231-,PRO-4231- - Grapefruit - 40# Box,pcs,0,1,0,2019-02-01,Uncategorized,[],{}
+OBJ1487,PRO-4233-,"PRO-4233- - Apples, 36# Box",pcs,0,3,0,2024-10-01,Uncategorized,[],{}
+OBJ1488,PRO-4240-,PRO-4240- - Peaches - 40# Box,pcs,0,2,0,2017-06-01,Uncategorized,[],{}
+OBJ1489,PRO-4253-,PRO-4253- - Fresh D'Anjou Pears (USDA),pcs,0,2,0,2022-02-01,Uncategorized,[],{}
+OBJ1490,PRO-4254-,PRO-4254- - Fresh Bosc Pears (USDA),pcs,0,1,0,2018-11-01,Uncategorized,[],{}
+OBJ1491,PRO-4276-,"PRO-4276- - Oranges, (PUR)",pcs,0,1,0,2022-07-01,Uncategorized,[],{}
+OBJ1492,PRO-4283-,"PRO-4283- - Onions, 48# Box",pcs,0,4,0,2024-09-01,Uncategorized,[],{}
+OBJ1493,PRO-4284-,PRO-4284- - Peaches - 19# Box,pcs,0,1,0,2017-09-01,Uncategorized,[],{}
+OBJ1494,PRO-4285-,PRO-4285- - Plums - 28# Case,pcs,0,1,0,2018-11-01,Uncategorized,[],{}
+OBJ1495,PRO-4301-,PRO-4301- - Garlic - 30# Box,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ1496,PRO-4302-,PRO-4302- - Fresh Baby Carrots,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1497,PRO-4303-,PRO-4303- - Limes - 40# Box,pcs,0,1,0,2018-06-01,Uncategorized,[],{}
+OBJ1498,PRO-4331-,PRO-4331- - Celery - 24# Box,pcs,0,3,0,2024-11-01,Uncategorized,[],{}
+OBJ1499,PRO-4332-,PRO-4332- - Peaches - 24# Case,pcs,0,1,0,2018-09-01,Uncategorized,[],{}
+OBJ1500,PRO-4338-,"PRO-4338- - Pineapples, (PUR)",pcs,0,18,0,2025-02-01,Uncategorized,[],{}
+OBJ1501,PRO-4339-,PRO-4339- - Watermelon - 50# Box,pcs,0,1,0,2021-11-01,Uncategorized,[],{}
+OBJ1502,PRO-4340-,PRO-4340- - Broccoli - 20# Box,pcs,0,5,0,2024-12-01,Uncategorized,[],{}
+OBJ1503,PRO-4352-,PRO-4352- - Radishes - 40# Box,pcs,0,1,0,2019-08-01,Uncategorized,[],{}
+OBJ1504,PRO-4370-,"PRO-4370- - Pineapples, 25# Box",pcs,0,10,0,2024-03-01,Uncategorized,[],{}
+OBJ1505,PRO-4391-,PRO-4391- - Organic Rainbow Peeled Carrots,pcs,0,3,0,2021-07-01,Uncategorized,[],{}
+OBJ1506,PRO-4394-,PRO-4394- - Nectarines - 16# Box,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ1507,PRO-4407-,"PRO-4407- - Squash, Yellow, (PUR)",pcs,0,3,0,2022-08-01,Uncategorized,[],{}
+OBJ1508,PRO-4409-,PRO-4409- - Squash - 20# Box,pcs,0,1,0,2018-04-01,Uncategorized,[],{}
+OBJ1509,PRO-4411-,PRO-4411- - Honeydew - 32# Box,pcs,0,2,0,2021-04-01,Uncategorized,[],{}
+OBJ1510,PRO-4415-,PRO-4415- - Oranges - 38# Box,pcs,0,1,0,2018-04-01,Uncategorized,[],{}
+OBJ1511,PRO-4417-,PRO-4417- - Avocados (CEDA) 25# CASE,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ1512,PRO-4422-,"PRO-4422- - Mangos, 9# Box, (PUR)",pcs,0,3,0,2022-06-01,Uncategorized,[],{}
+OBJ1513,PRO-4425-,PRO-4425- - Organic Baby Cut Carrots,pcs,0,2,0,2018-06-01,Uncategorized,[],{}
+OBJ1514,PRO-4426-,"PRO-4426- - Carrots, Organic Baby Cut",pcs,0,5,0,2023-04-01,Uncategorized,[],{}
+OBJ1515,PRO-4438-,PRO-4438- - Peaches - 37# Box,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1516,PRO-4439-,PRO-4439- - Cantaloupes - 44# Box,pcs,0,1,0,2018-07-01,Uncategorized,[],{}
+OBJ1517,PRO-4441-,PRO-4441- - Peaches - 30# Box,pcs,0,1,0,2018-11-01,Uncategorized,[],{}
+OBJ1518,PRO-4443-,PRO-4443- - Celery - 60# Box,pcs,0,2,0,2018-07-01,Uncategorized,[],{}
+OBJ1519,PRO-4444-,PRO-4444- - Plums - 31# Box,pcs,0,1,0,2018-07-01,Uncategorized,[],{}
+OBJ1520,PRO-4448-,PRO-4448- - Peppers - 23# Box,pcs,0,2,0,2018-07-01,Uncategorized,[],{}
+OBJ1521,PRO-4459-,PRO-4459- - Fresh Fuji Apples (USDA),pcs,0,1,0,2019-01-01,Uncategorized,[],{}
+OBJ1522,PRO-4463-,PRO-4463- - Spaghetti Squash - 30# Box,pcs,0,2,0,2018-08-01,Uncategorized,[],{}
+OBJ1523,PRO-4472-,PRO-4472- - Cucumbers - 10# Box,pcs,0,2,0,2018-08-01,Uncategorized,[],{}
+OBJ1524,PRO-4481-,PRO-4481- - Corn - 35# Box,pcs,0,1,0,2019-07-01,Uncategorized,[],{}
+OBJ1525,PRO-4482-,PRO-4482- - Mini Peppers - 28# Box,pcs,0,1,0,2019-07-01,Uncategorized,[],{}
+OBJ1526,PRO-4491-,"PRO-4491- - Melons, Honeydew, (PUR)",pcs,0,8,0,2024-01-01,Uncategorized,[],{}
+OBJ1527,PRO-4496-,PRO-4496- - Mandarin Oranges - 40# Box,pcs,0,1,0,2018-11-01,Uncategorized,[],{}
+OBJ1528,PRO-4497-,PRO-4497- - Butternut Squash - 35# Box,pcs,0,2,0,2022-02-01,Uncategorized,[],{}
+OBJ1529,PRO-4509-,PRO-4509- - Yellow Squash - 20# Box,pcs,0,1,0,2019-11-01,Uncategorized,[],{}
+OBJ1530,PRO-4518-,"PRO-4518- - Grapes, Fresh, (USDA)",pcs,0,8,0,2024-12-01,Uncategorized,[],{}
+OBJ1531,PRO-4519-,"PRO-4519- - Apples, Fresh, (USDA)",pcs,0,9,0,2025-02-01,Uncategorized,[],{}
+OBJ1532,PRO-4520-,"PRO-4520- - Grapefruit, Fresh, (USDA)",pcs,0,3,0,2025-02-01,Uncategorized,[],{}
+OBJ1533,PRO-4521-,"PRO-4521- - Oranges, Fresh, (USDA)",pcs,0,4,0,2025-02-01,Uncategorized,[],{}
+OBJ1534,PRO-4522-,PRO-4522- - Fresh Russet Potatoes (USDA),pcs,0,2,0,2019-06-01,Uncategorized,[],{}
+OBJ1535,PRO-4529-,PRO-4529- - Mandarin Oranges - 38# Box,pcs,0,1,0,2019-02-01,Uncategorized,[],{}
+OBJ1536,PRO-4542-,"PRO-4542- - Zucchini, (PUR)",pcs,0,5,0,2022-08-01,Uncategorized,[],{}
+OBJ1537,PRO-4549-,"PRO-4549- - Pineapples, 26# Box, (PUR)",pcs,0,3,0,2022-05-01,Uncategorized,[],{}
+OBJ1538,PRO-4553-,PRO-4553- - Apples - 12/3# Bags,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ1539,PRO-4554-,PRO-4554- - Yellow Squash - 44# Box,pcs,0,1,0,2019-02-01,Uncategorized,[],{}
+OBJ1540,PRO-4555-,PRO-4555- - Zucchini - 45# Box,pcs,0,2,0,2020-12-01,Uncategorized,[],{}
+OBJ1541,PRO-4557-,PRO-4557- - Spaghetti Squash - 32# Box,pcs,0,1,0,2019-02-01,Uncategorized,[],{}
+OBJ1542,PRO-4561-,PRO-4561- - Peppers - 26# Box,pcs,0,1,0,2021-04-01,Uncategorized,[],{}
+OBJ1543,PRO-4563-,"PRO-4563- - Oranges, Fresh, (USDA)",pcs,0,10,0,2023-06-01,Uncategorized,[],{}
+OBJ1544,PRO-4568-,PRO-4568- - Zucchini - 42# Box,pcs,0,1,0,2019-04-01,Uncategorized,[],{}
+OBJ1545,PRO-4572-,PRO-4572- - Honeydew - 36# Box,pcs,0,2,0,2021-01-01,Uncategorized,[],{}
+OBJ1546,PRO-4573-,PRO-4573- - Tomatillos - 25# Box,pcs,0,1,0,2019-04-01,Uncategorized,[],{}
+OBJ1547,PRO-4578-,"PRO-4578- - Corn, (PUR)",pcs,0,3,0,2022-07-01,Uncategorized,[],{}
+OBJ1548,PRO-4587-,PRO-4587- - Honeydew - 23# Box,pcs,0,1,0,2019-07-01,Uncategorized,[],{}
+OBJ1549,PRO-4590-,PRO-4590- - Acorn Squash - 35# Box,pcs,0,1,0,2020-01-01,Uncategorized,[],{}
+OBJ1550,PRO-4600-,PRO-4600- - Cantaloupe - 30# Box,pcs,0,2,0,2021-04-01,Uncategorized,[],{}
+OBJ1551,PRO-4604-,"PRO-4604- - Plums, Fresh, (USDA)",pcs,0,3,0,2024-11-01,Uncategorized,[],{}
+OBJ1552,PRO-4610-,PRO-4610- - Oranges - 42# Box,pcs,0,1,0,2019-08-01,Uncategorized,[],{}
+OBJ1553,PRO-4616-,PRO-4616- - Yellow Squash - 30# Box,pcs,0,1,0,2019-08-01,Uncategorized,[],{}
+OBJ1554,PRO-4624-,PRO-4624- - Plums - 30# Case,pcs,0,1,0,2019-09-01,Uncategorized,[],{}
+OBJ1555,PRO-4631-,PRO-4631- - Fresh Bagged Potatoes (USDA),pcs,0,4,0,2020-11-01,Uncategorized,[],{}
+OBJ1556,PRO-4632-,PRO-4632- - Fresh Potato Variety (USDA),pcs,0,2,0,2020-01-01,Uncategorized,[],{}
+OBJ1557,PRO-4633-,PRO-4633- - Butternut Squash - 55# Box,pcs,0,1,0,2019-10-01,Uncategorized,[],{}
+OBJ1558,PRO-4652-,PRO-4652- - Butternut Squash - 38# Box,pcs,0,2,0,2021-12-01,Uncategorized,[],{}
+OBJ1559,PRO-4660-,"PRO-4660- - Carrots, 24# Box",pcs,0,5,0,2024-11-01,Uncategorized,[],{}
+OBJ1560,PRO-4666-,PRO-4666- - Butternut Squash - 36# Box,pcs,0,2,0,2022-03-01,Uncategorized,[],{}
+OBJ1561,PRO-4670-,PRO-4670- - Grey Squash - 25# Box,pcs,0,5,0,2023-05-01,Uncategorized,[],{}
+OBJ1562,PRO-4671-,PRO-4671- - Cucumbers - 50# Box,pcs,0,2,0,2020-11-01,Uncategorized,[],{}
+OBJ1563,PRO-4676-,"PRO-4676- - Watermelons, (PUR)",pcs,0,10,0,2024-10-01,Uncategorized,[],{}
+OBJ1564,PRO-4683-,"PRO-4683- - Lettuce, (PUR)",pcs,0,1,0,2022-07-01,Uncategorized,[],{}
+OBJ1565,PRO-4686-,PRO-4686- - Romaine Lettuce - 30# Box,pcs,0,4,0,2024-08-01,Uncategorized,[],{}
+OBJ1566,PRO-4689-,PRO-4689- - Honeydew - 40# Box,pcs,0,1,0,2020-06-01,Uncategorized,[],{}
+OBJ1567,PRO-4693-,"PRO-4693- - Celery, (PUR)",pcs,0,2,0,2023-05-01,Uncategorized,[],{}
+OBJ1568,PRO-4699-,"PRO-4699- - Sweet Potatoes, Fresh (USDA)",pcs,0,3,0,2023-09-01,Uncategorized,[],{}
+OBJ1569,PRO-4701-,PRO-4701- - Potatoes - 10# Bag,pcs,0,5,0,2020-08-01,Uncategorized,[],{}
+OBJ1570,PRO-4703-,PRO-4703- - Crownless Pineapples - 35# Box,pcs,0,2,0,2020-08-01,Uncategorized,[],{}
+OBJ1571,PRO-4704-,"PRO-4704- - Avocados, 26# Box",pcs,0,6,0,2024-08-01,Uncategorized,[],{}
+OBJ1572,PRO-4708-,PRO-4708- - Papaya - 35# Box,pcs,0,1,0,2022-03-01,Uncategorized,[],{}
+OBJ1573,PRO-4720-,PRO-4720- - Baby Cut Carrots - 2 Pound Bags,pcs,0,10,0,2023-04-01,Uncategorized,[],{}
+OBJ1574,PRO-4722-,PRO-4722- - Zucchini - 48# Box,pcs,0,2,0,2021-01-01,Uncategorized,[],{}
+OBJ1575,PRO-4725-,"PRO-4725- - Watermelons, (PUR)",pcs,0,4,0,2022-08-01,Uncategorized,[],{}
+OBJ1576,PRO-4726-,PRO-4726- - Onions - 35# Box,pcs,0,2,0,2021-03-01,Uncategorized,[],{}
+OBJ1577,PRO-4742-,"PRO-4742- - Carrots, 48# Case",pcs,0,6,0,2024-08-01,Uncategorized,[],{}
+OBJ1578,PRO-4743-,"PRO-4743- - Carrots, Baby Cut - 30# Box",pcs,0,3,0,2022-09-01,Uncategorized,[],{}
+OBJ1579,PRO-4749-,PRO-4749- - Mixed Fresh Produce Box (USDA),pcs,0,30,0,2023-03-01,Uncategorized,[],{}
+OBJ1580,PRO-4762-,PRO-4762- - Mango - 8# Box,pcs,0,2,0,2022-03-01,Uncategorized,[],{}
+OBJ1581,PRO-4766-,PRO-4766- - Radishes (CEDA) 14/1# BAGS,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ1582,PRO-4772-,PRO-4772- - Fresh Bartlett Pears (USDA),pcs,0,5,0,2023-01-01,Uncategorized,[],{}
+OBJ1583,PRO-4774-,PRO-4774- - Cauliflower - 35# Box,pcs,0,1,0,2021-12-01,Uncategorized,[],{}
+OBJ1584,PRO-4782-,"PRO-4782- - Carrots, Cello - 12/2# Bags",pcs,0,21,0,2023-12-01,Uncategorized,[],{}
+OBJ1585,PRO-4783-,"PRO-4783- - Sweet Potatoes, (HOLIDAY)",pcs,0,10,0,2023-12-01,Uncategorized,[],{}
+OBJ1586,PRO-4784-,PRO-4784- - Collard Greens (Holiday),pcs,0,19,0,2021-12-01,Uncategorized,[],{}
+OBJ1587,PRO-4788-,PRO-4788- - Cilantro - 24# Box,pcs,0,1,0,2021-11-01,Uncategorized,[],{}
+OBJ1588,PRO-4794-,PRO-4794- - Peppers - 24# Box,pcs,0,1,0,2021-11-01,Uncategorized,[],{}
+OBJ1589,PRO-4800-,PRO-4800- - Tangerines - 35# Box,pcs,0,1,0,2021-12-01,Uncategorized,[],{}
+OBJ1590,PRO-4804-,PRO-4804- - Lettuce - 42# Box,pcs,0,1,0,2021-12-01,Uncategorized,[],{}
+OBJ1591,PRO-4809-,PRO-4809- - Jicama - 38# Box,pcs,0,1,0,2022-02-01,Uncategorized,[],{}
+OBJ1592,PRO-4810-,PRO-4810- - Pears - 8/3# Bags,pcs,0,2,0,2022-01-01,Uncategorized,[],{}
+OBJ1593,PRO-4817-,PRO-4817- - Lettuce - 35# Box,pcs,0,1,0,2022-01-01,Uncategorized,[],{}
+OBJ1594,PRO-4818-,PRO-4818- - Cello Carrots - 48# Case,pcs,0,6,0,2022-11-01,Uncategorized,[],{}
+OBJ1595,PRO-4824-,PRO-4824- - Jicama - 35# Box,pcs,0,2,0,2022-03-01,Uncategorized,[],{}
+OBJ1596,PRO-4827-,PRO-4827- - Green Bell Peppers - 18# Box,pcs,0,2,0,2022-03-01,Uncategorized,[],{}
+OBJ1597,PRO-4828-,PRO-4828- - Lemons - 30# Box,pcs,0,2,0,2022-04-01,Uncategorized,[],{}
+OBJ1598,PRO-4832-,"PRO-4832- - Lettuce, Romaine, (PUR)",pcs,0,1,0,2022-07-01,Uncategorized,[],{}
+OBJ1599,PRO-4833-,PRO-4833- - Kiwi - 22# Box,pcs,0,2,0,2022-04-01,Uncategorized,[],{}
+OBJ1600,PRO-4838-,"PRO-4838- - Asparagus, 11# Box",pcs,0,6,0,2024-05-01,Uncategorized,[],{}
+OBJ1601,PRO-4842-,"PRO-4842- - Nectarines, Fresh, (USDA)",pcs,0,10,0,2024-10-01,Uncategorized,[],{}
+OBJ1602,PRO-4843-,"PRO-4843- - Peaches, Fresh, (USDA)",pcs,0,6,0,2024-11-01,Uncategorized,[],{}
+OBJ1603,PRO-4844-,"PRO-4844- - Cucumbers, (PUR)",pcs,0,2,0,2022-07-01,Uncategorized,[],{}
+OBJ1604,PRO-4845-,"PRO-4845- - Carrots, Cello - 1 pound bags",pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1605,PRO-4848-,"PRO-4848- - Peaches, Fresh, Tray Pack, (USDA)",pcs,0,15,0,2023-11-01,Uncategorized,[],{}
+OBJ1606,PRO-4858-,"PRO-4858- - Lettuce, Romaine, (PUR)",pcs,0,8,0,2024-03-01,Uncategorized,[],{}
+OBJ1607,PRO-4859-,PRO-4859- - Snack Pack Baby Cut Carrots,pcs,0,16,0,2022-11-01,Uncategorized,[],{}
+OBJ1608,PRO-4862-,"PRO-4862- - Onions, (HOLIDAY)",pcs,0,15,0,2023-11-01,Uncategorized,[],{}
+OBJ1609,PRO-4863-,"PRO-4863- - Cucumbers, 12 count",pcs,0,6,0,2023-08-01,Uncategorized,[],{}
+OBJ1610,PRO-4870-,"PRO-4870- - Oranges, Mandarin (PUR)",pcs,0,6,0,2022-11-01,Uncategorized,[],{}
+OBJ1611,PRO-4909-,"PRO-4909- - Greens, Collard, (PUR)",pcs,0,10,0,2024-10-01,Uncategorized,[],{}
+OBJ1612,PRO-4936-,"PRO-4936- - Apples, 38# Box",pcs,0,3,0,2024-11-01,Uncategorized,[],{}
+OBJ1613,PRO-4938-,PRO-4938- - Carrot Sticks - 12oz Bags,pcs,0,6,0,2022-10-01,Uncategorized,[],{}
+OBJ1614,PRO-4940-,PRO-4940- - Green Grapes - 7 Bags/Box,pcs,0,15,0,2022-10-01,Uncategorized,[],{}
+OBJ1615,PRO-4942-,"PRO-4942- - Cabbage, 50# Box",pcs,0,9,0,2025-02-01,Uncategorized,[],{}
+OBJ1616,PRO-4950-,"PRO-4950- - Oranges, 38# Box",pcs,0,6,0,2022-12-01,Uncategorized,[],{}
+OBJ1617,PRO-4951-,"PRO-4951- - Oranges, 40# Box",pcs,0,6,0,2023-01-01,Uncategorized,[],{}
+OBJ1618,PRO-4956-,"PRO-4956- - Onions, 16/3# Case",pcs,0,7,0,2024-12-01,Uncategorized,[],{}
+OBJ1619,PRO-4957-,"PRO-4957- - Onions, 50# Bag",pcs,0,11,0,2025-02-01,Uncategorized,[],{}
+OBJ1620,PRO-4960-,"PRO-4960- - Celery, 52# Box",pcs,0,7,0,2025-02-01,Uncategorized,[],{}
+OBJ1621,PRO-4962-,"PRO-4962- - Potatoes, 50# Case",pcs,0,12,0,2025-02-01,Uncategorized,[],{}
+OBJ1622,PRO-4967-,"PRO-4967- - Sweet Potatoes, 40# Box",pcs,0,3,0,2025-02-01,Uncategorized,[],{}
+OBJ1623,PRO-4969-,PRO-4969- - Pineapples (CEDA) 25# BOX,pcs,0,2,0,2021-10-01,Uncategorized,[],{}
+OBJ1624,PRO-4974-,"PRO-4974- - Pineapples, (PUR)",pcs,0,8,0,2022-09-01,Uncategorized,[],{}
+OBJ1625,PRO-4975-,PRO-4975- - Onions (CEDA) 16/3# BAGS,pcs,0,1,0,2021-10-01,Uncategorized,[],{}
+OBJ1626,PRO-4979-,PRO-4979- - Zucchini - 20# Box,pcs,0,2,0,2020-11-01,Uncategorized,[],{}
+OBJ1627,PRO-5002-,"PRO-5002- - Squash, Hard, Carnival - 35# Box",pcs,0,3,0,2023-01-01,Uncategorized,[],{}
+OBJ1628,PRO-5007-,"PRO-5007- - Tangerines, Mandarins, Fresh,",pcs,0,10,0,2024-04-01,Uncategorized,[],{}
+OBJ1629,PRO-5015-,"PRO-5015- - Carrots, Assorted Processed -",pcs,0,2,0,2025-02-01,Uncategorized,[],{}
+OBJ1630,PRO-5016-,"PRO-5016- - Carrots, Assorted Processed -",pcs,0,4,0,2024-09-01,Uncategorized,[],{}
+OBJ1631,PRO-5017-,"PRO-5017- - Carrots, Assorted Processed -",pcs,0,2,0,2024-11-01,Uncategorized,[],{}
+OBJ1632,SAU-0400-,"SAU-0400- - Spaghetti Sauce, Meatless,",pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ1633,SAU-1037-,SAU-1037- - Mild Pico De Gallo Salsa,pcs,0,3,0,2017-06-01,Uncategorized,[],{}
+OBJ1634,SAU-1037-R,SAU-1037-R - Mild Pico De Gallo,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1635,SAU-1043-,SAU-1043- - Roasted Salsa,pcs,0,5,0,2018-09-01,Uncategorized,[],{}
+OBJ1636,SAU-1059-,SAU-1059- - Medium Organic Salsa,pcs,0,5,0,2017-06-01,Uncategorized,[],{}
+OBJ1637,SAU-1062-,SAU-1062- - Mild Organic Salsa,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1638,SAU-1064-,SAU-1064- - Mango Peach Habanero Salsa,pcs,0,4,0,2018-11-01,Uncategorized,[],{}
+OBJ1639,SAU-1067-,SAU-1067- - Restaurant Style Salsa - Medium,pcs,0,3,0,2017-10-01,Uncategorized,[],{}
+OBJ1640,SAU-1069-,SAU-1069- - Jack's Special Salsa - Medium,pcs,0,3,0,2017-10-01,Uncategorized,[],{}
+OBJ1641,SAU-1082-,SAU-1082- - Asian Sesame Dressing,pcs,0,1,0,2018-09-01,Uncategorized,[],{}
+OBJ1642,SAU-1093-,SAU-1093- - Pasta Sauce (PUR),pcs,0,5,0,2017-05-01,Uncategorized,[],{}
+OBJ1643,SAU-1093-D,SAU-1093-D - Pasta Sauce (PUR) 12/24OZ CANS,pcs,0,5,0,2017-05-01,Uncategorized,[],{}
+OBJ1644,SAU-1177-,SAU-1177- - Spaghetti Sauce (PUR),pcs,0,7,0,2020-01-01,Uncategorized,[],{}
+OBJ1645,SAU-1177-C,SAU-1177-C - Spaghetti Sauce (PUR),pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ1646,SAU-1268-C,SAU-1268-C - Pasta Sauce (PUR),pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ1647,SAU-1280-,SAU-1280- - A1 Steak Sauce,pcs,0,3,0,2019-07-01,Uncategorized,[],{}
+OBJ1648,SAU-1284-,SAU-1284- - Ketchup,pcs,0,5,0,2023-08-01,Uncategorized,[],{}
+OBJ1649,SAU-1288-,"SAU-1288- - Spaghetti Sauce, Canned, (PUR)",pcs,0,5,0,2023-03-01,Uncategorized,[],{}
+OBJ1650,SAU-1296-,SAU-1296- - Tomato Sauce (USDA),pcs,0,6,0,2024-12-01,Uncategorized,[],{}
+OBJ1651,SAU-1297-,SAU-1297- - Tomato Sauce (K) (USDA),pcs,0,3,0,2019-12-01,Uncategorized,[],{}
+OBJ1652,SAU-1298-,"SAU-1298- - Spaghetti Sauce, Canned, Low",pcs,0,36,0,2025-02-01,Uncategorized,[],{}
+OBJ1653,SAU-1301-,SAU-1301- - Breakfast Syrup Cups,pcs,0,5,0,2024-09-01,Uncategorized,[],{}
+OBJ1654,SAU-1308-,SAU-1308- - Wing Sauce,pcs,0,4,0,2018-03-01,Uncategorized,[],{}
+OBJ1655,SAU-1316-,SAU-1316- - Tomato Sauce,pcs,0,6,0,2018-04-01,Uncategorized,[],{}
+OBJ1656,SAU-1321-,SAU-1321- - Bullseye Original BBQ Sauce,pcs,0,1,0,2018-04-01,Uncategorized,[],{}
+OBJ1657,SAU-1324-,SAU-1324- - Horseradish,pcs,0,2,0,2018-08-01,Uncategorized,[],{}
+OBJ1658,SAU-1326-,SAU-1326- - Picante Sauce,pcs,0,5,0,2018-08-01,Uncategorized,[],{}
+OBJ1659,SAU-1334-,SAU-1334- - Mustard Sauce,pcs,0,1,0,2018-09-01,Uncategorized,[],{}
+OBJ1660,SAU-1336-,SAU-1336- - Organic Tomato Ketchup,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1661,SAU-1339-,SAU-1339- - Buffalo Hot Sauce,pcs,0,3,0,2018-11-01,Uncategorized,[],{}
+OBJ1662,SAU-1341-,SAU-1341- - Mild Green Tomato Salsa,pcs,0,6,0,2018-11-01,Uncategorized,[],{}
+OBJ1663,SAU-1345-,SAU-1345- - Tomato + Basil Pasta Sauce,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1664,SAU-1351-,SAU-1351- - Rib & Chicken BBQ Sauce,pcs,0,3,0,2019-03-01,Uncategorized,[],{}
+OBJ1665,SAU-1371-,SAU-1371- - Tomato Sauce (SUB),pcs,0,10,0,2020-09-01,Uncategorized,[],{}
+OBJ1666,SAU-1377-,SAU-1377- - Tomato Ketchup,pcs,0,10,0,2023-12-01,Uncategorized,[],{}
+OBJ1667,SAU-1383-,SAU-1383- - Tomato Ketchup,pcs,0,6,0,2020-11-01,Uncategorized,[],{}
+OBJ1668,SAU-1384-,"SAU-1384- - Pasta Sauce, Canned, Low",pcs,0,18,0,2023-07-01,Uncategorized,[],{}
+OBJ1669,SAU-1385-,SAU-1385- - McDonald's McRib Barbeque,pcs,0,4,0,2021-02-01,Uncategorized,[],{}
+OBJ1670,SAU-1390-,SAU-1390- - BBQ Sauce,pcs,0,5,0,2021-06-01,Uncategorized,[],{}
+OBJ1671,SAU-1391-,SAU-1391- - Salsa - Mild (PUR),pcs,0,5,0,2021-10-01,Uncategorized,[],{}
+OBJ1672,SAU-1392-,"SAU-1392- - Gravy, Turkey, (Holiday)",pcs,0,11,0,2023-11-01,Uncategorized,[],{}
+OBJ1673,SAU-1393-,SAU-1393- - Premium Soy Sauce,pcs,0,5,0,2021-10-01,Uncategorized,[],{}
+OBJ1674,SAU-1396-,SAU-1396- - Salsa - Mild (PUR),pcs,0,3,0,2022-01-01,Uncategorized,[],{}
+OBJ1675,SAU-1414-,SAU-1414- - Avocado Hot Sauce,pcs,0,6,0,2023-08-01,Uncategorized,[],{}
+OBJ1676,SAU-1417-,"SAU-1417- - Gravy, Turkey, (HOLIDAY)",pcs,0,5,0,2023-11-01,Uncategorized,[],{}
+OBJ1677,SAU-1421-,SAU-1421- - Trevon Diggs Dallas Sweet Heat,pcs,0,10,0,2023-10-01,Uncategorized,[],{}
+OBJ1678,SAU-1424-,SAU-1424- - Yucatan Sauce,pcs,0,10,0,2023-12-01,Uncategorized,[],{}
+OBJ1679,SAU-1438-,SAU-1438- - Dickey's Spicy Barbecue Sauce,pcs,0,3,0,2024-05-01,Uncategorized,[],{}
+OBJ1680,SAU-1446-,SAU-1446- - Country Gravy Mix,pcs,0,20,0,2024-10-01,Uncategorized,[],{}
+OBJ1681,SAU-1447-,"SAU-1447- - Gravy, Turkey, (FEMA-HOLIDAY)",pcs,0,18,0,2024-12-01,Uncategorized,[],{}
+OBJ1682,SEA-0680-,SEA-0680- - Chunk Tuna in Water (USDA),pcs,0,6,0,2022-04-01,Uncategorized,[],{}
+OBJ1683,SEA-1039-,"SEA-1039- - Chunk Light Tuna In Water, (PUR)",pcs,0,5,0,2024-10-01,Uncategorized,[],{}
+OBJ1684,SEA-1039-C,SEA-1039-C - Chunk Light Tuna In Water (PUR),pcs,0,3,0,2016-01-01,Uncategorized,[],{}
+OBJ1685,SEA-1039-D,SEA-1039-D - Chunk Light Tuna In Water (PUR),pcs,0,2,0,2017-05-01,Uncategorized,[],{}
+OBJ1686,SEA-1073-,SEA-1073- - Unbreaded Catfish Filets (USDA),pcs,0,3,0,2025-02-01,Uncategorized,[],{}
+OBJ1687,SEA-1074-,SEA-1074- - Boneless & Skinless Alaskan,pcs,0,5,0,2021-03-01,Uncategorized,[],{}
+OBJ1688,SEA-1075-,SEA-1075- - Chunk Light Tuna In Water,pcs,0,12,0,2025-02-01,Uncategorized,[],{}
+OBJ1689,SEA-1079-,SEA-1079- - Wild Alaskan Coho Salmon,pcs,0,5,0,2017-09-01,Uncategorized,[],{}
+OBJ1690,SEA-1080-,"SEA-1080- - Fish, Pollack, Alaskan, Fillets,",pcs,0,2,0,2024-12-01,Uncategorized,[],{}
+OBJ1691,SEA-1082-,"SEA-1082- - Salmon, Red, Canned, (USDA)",pcs,0,9,0,2024-05-01,Uncategorized,[],{}
+OBJ1692,SEA-1083-,"SEA-1083- - Salmon, Pink, (K), (USDA)",pcs,0,6,0,2024-10-01,Uncategorized,[],{}
+OBJ1693,SEA-1085-,"SEA-1085- - Salmon, Pink, (USDA)",pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ1694,SEA-1086-,SEA-1086- - Canned Mackerel in Water (PUR),pcs,0,2,0,2018-03-01,Uncategorized,[],{}
+OBJ1695,SEA-1087-,"SEA-1087- - Pollock, Alaskan, Fish Sticks,",pcs,0,7,0,2025-02-01,Uncategorized,[],{}
+OBJ1696,SEA-1089-,SEA-1089- - Smoked Salmon,pcs,0,1,0,2019-09-01,Uncategorized,[],{}
+OBJ1697,SEA-1090-,SEA-1090- - Mackerel in Brine (FEMA),pcs,0,2,0,2018-09-01,Uncategorized,[],{}
+OBJ1698,SEA-1093-,SEA-1093- - Sardines (FEMA),pcs,0,1,0,2019-11-01,Uncategorized,[],{}
+OBJ1699,SEA-1096-,"SEA-1096- - Frozen Shrimp, Peeled and",pcs,0,5,0,2024-10-01,Uncategorized,[],{}
+OBJ1700,SEA-1097-,SEA-1097- - Atlantic Pollock Fish Fillets,pcs,0,4,0,2024-04-01,Uncategorized,[],{}
+OBJ1701,SEA-1098-,SEA-1098- - Alaskan Pollock Fish Nuggets,pcs,0,5,0,2023-05-01,Uncategorized,[],{}
+OBJ1702,SEA-1099-,SEA-1099- - Tilapia Fillets (PUR),pcs,0,4,0,2021-04-01,Uncategorized,[],{}
+OBJ1703,SEA-1101-,SEA-1101- - Tilapia Fillets (PUR),pcs,0,4,0,2021-10-01,Uncategorized,[],{}
+OBJ1704,SEA-1102-,"SEA-1102- - Fish, Pacific Whiting, Fillets,",pcs,0,4,0,2023-11-01,Uncategorized,[],{}
+OBJ1705,SEA-1103-,"SEA-1103- - Salmon, Red, Canned, (USDA)",pcs,0,5,0,2024-12-01,Uncategorized,[],{}
+OBJ1706,SEA-1104-,SEA-1104- - Haddock Fish Fillets (USDA),pcs,0,3,0,2022-12-01,Uncategorized,[],{}
+OBJ1707,SEA-1105-,"SEA-1105- - Fish, Catfish Nuggets, Raw,",pcs,0,5,0,2023-11-01,Uncategorized,[],{}
+OBJ1708,SEA-1106-,"SEA-1106- - Fish, Catfish Nuggets, Raw,",pcs,0,4,0,2024-10-01,Uncategorized,[],{}
+OBJ1709,SEA-1116-,SEA-1116- - Pacific Rockfish Fillets (USDA),pcs,0,3,0,2023-04-01,Uncategorized,[],{}
+OBJ1710,SEA-1117-,SEA-1117- - Pacific Salad Shrimp (USDA),pcs,0,4,0,2024-01-01,Uncategorized,[],{}
+OBJ1711,SEA-1121-,"SEA-1121- - Fish, Tilapia Fillets, (PUR)",pcs,0,9,0,2023-06-01,Uncategorized,[],{}
+OBJ1712,SEA-1124-,"SEA-1124- - Fish, Swai, Fillets, (PUR)",pcs,0,7,0,2023-05-01,Uncategorized,[],{}
+OBJ1713,SEA-1125-,"SEA-1125- - Fish, Swai, Fillets, (PUR)",pcs,0,5,0,2024-01-01,Uncategorized,[],{}
+OBJ1714,SEA-1126-,"SEA-1126- - Shrimp, Pacific Salad, 350-500",pcs,0,4,0,2024-04-01,Uncategorized,[],{}
+OBJ1715,SEA-1127-,"SEA-1127- - Salmon Fillets, Wild, (USDA)",pcs,0,4,0,2024-05-01,Uncategorized,[],{}
+OBJ1716,SEA-1133-,"SEA-1133- - Fish, Swai, Fillets, 1 pound, (PUR)",pcs,0,10,0,2024-03-01,Uncategorized,[],{}
+OBJ1717,SEA-1135-,"SEA-1135- - Fish, Swai, Fillets, (PUR)",pcs,0,5,0,2023-11-01,Uncategorized,[],{}
+OBJ1718,SEA-1136-,"SEA-1136- - Fish, Swai, Fillets, (PUR)",pcs,0,5,0,2024-04-01,Uncategorized,[],{}
+OBJ1719,SEA-1138-,"SEA-1138- - Shrimp, Peeled & Deveined, 21-",pcs,0,5,0,2024-12-01,Uncategorized,[],{}
+OBJ1720,SEA-1139-,"SEA-1139- - Fish, Catfish Nuggets, Raw,",pcs,0,4,0,2025-02-01,Uncategorized,[],{}
+OBJ1721,SEA-1140-,"SEA-1140- - Swai Fish, Frozen",pcs,0,3,0,2025-02-01,Uncategorized,[],{}
+OBJ1722,SNK-1095-,SNK-1095- - Vanilla Flan,pcs,0,4,0,2018-03-01,Uncategorized,[],{}
+OBJ1723,SNK-1100-,SNK-1100- - Uncured Ham w/ Monterrey Jack,pcs,0,5,0,2017-11-01,Uncategorized,[],{}
+OBJ1724,SNK-1107-,SNK-1107- - Turkey/Ham & Cheese Snack Kit,pcs,0,4,0,2018-11-01,Uncategorized,[],{}
+OBJ1725,SNK-1108-,SNK-1108- - Almond Butter Perfect Bar,pcs,0,3,0,2018-12-01,Uncategorized,[],{}
+OBJ1726,SNK-1111-,SNK-1111- - Breadsticks + Tomato Herb,pcs,0,4,0,2018-12-01,Uncategorized,[],{}
+OBJ1727,SNK-1117-,SNK-1117- - Almond Butter Refrigerated,pcs,0,4,0,2019-08-01,Uncategorized,[],{}
+OBJ1728,SNK-1118-,SNK-1118- - Lunchables Nacho Fun Pack,pcs,0,4,0,2019-07-01,Uncategorized,[],{}
+OBJ1729,SNK-1121-,SNK-1121- - Assorted Flavor Pickle Bites,pcs,0,4,0,2019-11-01,Uncategorized,[],{}
+OBJ1730,SNK-1122-,SNK-1122- - Almond Butter Bars,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1731,SNK-1144-,SNK-1144- - BBQ Cauliflower Wings,pcs,0,10,0,2023-02-01,Uncategorized,[],{}
+OBJ1732,SNK-1145-,SNK-1145- - Assorted Flavor Fruit Crunch,pcs,0,20,0,2020-11-01,Uncategorized,[],{}
+OBJ1733,SNK-1146-,SNK-1146- - Cauliflower Tots,pcs,0,5,0,2023-03-01,Uncategorized,[],{}
+OBJ1734,SNK-1147-,SNK-1147- - Meat and Cheddar Snack,pcs,0,2,0,2021-02-01,Uncategorized,[],{}
+OBJ1735,SNK-1152-,SNK-1152- - Asst Flavored Snack Dips,pcs,0,5,0,2023-08-01,Uncategorized,[],{}
+OBJ1736,SNK-1153-,SNK-1153- - Buffalo Style Cauliflower Wings,pcs,0,10,0,2024-05-01,Uncategorized,[],{}
+OBJ1737,SNK-1155-,SNK-1155- - Spinach Artichoke Dip,pcs,0,10,0,2024-05-01,Uncategorized,[],{}
+OBJ1738,SNK-1156-,SNK-1156- - Green Goddess Dressing,pcs,0,3,0,2024-01-01,Uncategorized,[],{}
+OBJ1739,SNK-2760-,SNK-2760- - Yellow Corn Round Tortilla Chips,pcs,0,5,0,2022-07-01,Uncategorized,[],{}
+OBJ1740,SNK-2778-D,SNK-2778-D - Bite Size White Corn Tortilla Chips,pcs,0,2,0,2016-01-01,Uncategorized,[],{}
+OBJ1741,SNK-2861-D,SNK-2861-D - Assorted Fruit & Nut Bars,pcs,0,2,0,2016-01-01,Uncategorized,[],{}
+OBJ1742,SNK-2911-,SNK-2911- - Blue Corn Tortilla Chips,pcs,0,3,0,2017-04-01,Uncategorized,[],{}
+OBJ1743,SNK-2952-,SNK-2952- - Honey BBQ Popcorn,pcs,0,2,0,2018-01-01,Uncategorized,[],{}
+OBJ1744,SNK-2955-,SNK-2955- - Blue Corn Tortilla Chips,pcs,0,10,0,2017-04-01,Uncategorized,[],{}
+OBJ1745,SNK-2971-,SNK-2971- - Assorted Digestive Biscuits,pcs,0,3,0,2017-08-01,Uncategorized,[],{}
+OBJ1746,SNK-2988-,SNK-2988- - Fruit & Nut Trail Mix Granola,pcs,0,3,0,2018-02-01,Uncategorized,[],{}
+OBJ1747,SNK-2992-,SNK-2992- - Bite-Sized English Crackers,pcs,0,25,0,2017-10-01,Uncategorized,[],{}
+OBJ1748,SNK-2997-,SNK-2997- - Chocolate Pudding,pcs,0,5,0,2017-10-01,Uncategorized,[],{}
+OBJ1749,SNK-2998-,SNK-2998- - 100% Ground White Corn Salted,pcs,0,3,0,2017-10-01,Uncategorized,[],{}
+OBJ1750,SNK-3004-,SNK-3004- - Blueberry + Raspberry Fruit &,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1751,SNK-3008-,SNK-3008- - Round Salted Tortilla Chips,pcs,0,3,0,2018-05-01,Uncategorized,[],{}
+OBJ1752,SNK-3013-,SNK-3013- - Strawberry & Mango Fruit Chips,pcs,0,4,0,2018-01-01,Uncategorized,[],{}
+OBJ1753,SNK-3020-,SNK-3020- - Apple Cinnamon Raisin Bars,pcs,0,8,0,2018-04-01,Uncategorized,[],{}
+OBJ1754,SNK-3028-,SNK-3028- - Salad Crispins,pcs,0,5,0,2018-03-01,Uncategorized,[],{}
+OBJ1755,SNK-3029-,SNK-3029- - Pumpkin Spice Bars,pcs,0,5,0,2018-08-01,Uncategorized,[],{}
+OBJ1756,SNK-3036-,SNK-3036- - Chocolate Cherry Nut Protein,pcs,0,5,0,2018-04-01,Uncategorized,[],{}
+OBJ1757,SNK-3039-,SNK-3039- - Berry Blast Protein Bars,pcs,0,5,0,2018-04-01,Uncategorized,[],{}
+OBJ1758,SNK-3040-,SNK-3040- - Mixed Berry Protein Bars,pcs,0,4,0,2018-07-01,Uncategorized,[],{}
+OBJ1759,SNK-3042-,SNK-3042- - Gingerbread Protein Bars,pcs,0,4,0,2018-07-01,Uncategorized,[],{}
+OBJ1760,SNK-3044-,SNK-3044- - Peanut Butter Chocolate Protein,pcs,0,2,0,2018-06-01,Uncategorized,[],{}
+OBJ1761,SNK-3053-,SNK-3053- - Cheese Puffs,pcs,0,5,0,2018-05-01,Uncategorized,[],{}
+OBJ1762,SNK-3055-,SNK-3055- - Mountain Trek Trail Mix,pcs,0,4,0,2018-06-01,Uncategorized,[],{}
+OBJ1763,SNK-3056-,SNK-3056- - Jalapeno Cheese Puffs,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1764,SNK-3061-,SNK-3061- - Seasoned Round Corn Tortilla,pcs,0,5,0,2018-06-01,Uncategorized,[],{}
+OBJ1765,SNK-3089-,SNK-3089- - Garlic + Herb Sprouted Seed,pcs,0,4,0,2019-05-01,Uncategorized,[],{}
+OBJ1766,SNK-3096-,SNK-3096- - Jalapeno Sprouted Seed Crackers,pcs,0,2,0,2019-03-01,Uncategorized,[],{}
+OBJ1767,SNK-3099-,SNK-3099- - Cheddar Almond Flour Crackers,pcs,0,4,0,2019-06-01,Uncategorized,[],{}
+OBJ1768,SNK-3101-,SNK-3101- - Cheez Whiz,pcs,0,5,0,2019-10-01,Uncategorized,[],{}
+OBJ1769,SNK-3102-,SNK-3102- - Sweet Chili & Omega Tortilla,pcs,0,3,0,2019-05-01,Uncategorized,[],{}
+OBJ1770,SNK-3109-,SNK-3109- - Black Pepper Beef Jerky,pcs,0,2,0,2019-06-01,Uncategorized,[],{}
+OBJ1771,SNK-3110-,SNK-3110- - Seasoned Freeze Dried Red,pcs,0,6,0,2019-06-01,Uncategorized,[],{}
+OBJ1772,SNK-3111-,SNK-3111- - Soft Baked Peanut Butter Cookies,pcs,0,5,0,2019-07-01,Uncategorized,[],{}
+OBJ1773,SNK-3114-,SNK-3114- - Sundried Tomato & Basil Almond,pcs,0,6,0,2019-07-01,Uncategorized,[],{}
+OBJ1774,SNK-3117-,SNK-3117- - Bacon BBQ Cheese Crisps,pcs,0,5,0,2019-07-01,Uncategorized,[],{}
+OBJ1775,SNK-3118-,SNK-3118- - Parmesan Cheese Crisps,pcs,0,5,0,2019-08-01,Uncategorized,[],{}
+OBJ1776,SNK-3122-,SNK-3122- - Farmhouse Cheddar Almond,pcs,0,6,0,2019-09-01,Uncategorized,[],{}
+OBJ1777,SNK-3126-,SNK-3126- - Farmhouse Cheddar Almond,pcs,0,3,0,2019-09-01,Uncategorized,[],{}
+OBJ1778,SNK-3136-,SNK-3136- - Pimento Spread,pcs,0,2,0,2019-09-01,Uncategorized,[],{}
+OBJ1779,SNK-3142-,SNK-3142- - Korean Barbeque Beef Jerky,pcs,0,3,0,2019-10-01,Uncategorized,[],{}
+OBJ1780,SNK-3143-,SNK-3143- - Salted Roasted Peanuts,pcs,0,3,0,2019-11-01,Uncategorized,[],{}
+OBJ1781,SNK-3146-,SNK-3146- - Salted Coconut Flour Tortilla,pcs,0,3,0,2019-11-01,Uncategorized,[],{}
+OBJ1782,SNK-3151-,SNK-3151- - Cheez-It Snack Crackers,pcs,0,5,0,2019-11-01,Uncategorized,[],{}
+OBJ1783,SNK-3154-,SNK-3154- - Chewy S'Mores Granola Bars,pcs,0,3,0,2020-01-01,Uncategorized,[],{}
+OBJ1784,SNK-3215-,SNK-3215- - Kettle Cooked Lime Chipotle,pcs,0,3,0,2020-06-01,Uncategorized,[],{}
+OBJ1785,SNK-3222-,SNK-3222- - Assorted High Protein Snack,pcs,0,5,0,2020-07-01,Uncategorized,[],{}
+OBJ1786,SNK-3226-,SNK-3226- - Pretzels,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1787,SNK-3227-,SNK-3227- - Classic Snack Mix,pcs,0,5,0,2020-07-01,Uncategorized,[],{}
+OBJ1788,SNK-3231-,SNK-3231- - Salt and Pepper Potato Chips,pcs,0,3,0,2020-10-01,Uncategorized,[],{}
+OBJ1789,SNK-3251-,SNK-3251- - Mini Pretzels,pcs,0,6,0,2020-09-01,Uncategorized,[],{}
+OBJ1790,SNK-3252-,SNK-3252- - Asst Flavor Fruit & Oats Cups,pcs,0,10,0,2020-08-01,Uncategorized,[],{}
+OBJ1791,SNK-3255-,SNK-3255- - Double Cheese Cheez-It Crackers,pcs,0,6,0,2020-09-01,Uncategorized,[],{}
+OBJ1792,SNK-3278-,SNK-3278- - Pretzels (PUR),pcs,0,5,0,2021-05-01,Uncategorized,[],{}
+OBJ1793,SNK-3283-,SNK-3283- - Tostadas,pcs,0,2,0,2024-12-01,Uncategorized,[],{}
+OBJ1794,SNK-3287-,SNK-3287- - Microwave Popcorn,pcs,0,6,0,2021-04-01,Uncategorized,[],{}
+OBJ1795,SNK-3297-,SNK-3297- - Chewy Honey Granola Bars (PUR),pcs,0,3,0,2021-10-01,Uncategorized,[],{}
+OBJ1796,SNK-3303-,SNK-3303- - Home Style Tostadas,pcs,0,5,0,2024-03-01,Uncategorized,[],{}
+OBJ1797,SNK-3308-,"SNK-3308- - Pretzels, Low Sodium, (PUR)",pcs,0,13,0,2023-03-01,Uncategorized,[],{}
+OBJ1798,SNK-3314-,SNK-3314- - Strawberry Breakfast Bars,pcs,0,4,0,2022-02-01,Uncategorized,[],{}
+OBJ1799,SNK-3320-,SNK-3320- - Fruit and Nut Chewy Granola,pcs,0,2,0,2022-04-01,Uncategorized,[],{}
+OBJ1800,SNK-3325-,"SNK-3325- - Pretzels, Low Sodium, (PUR)",pcs,0,5,0,2022-06-01,Uncategorized,[],{}
+OBJ1801,SNK-3327-,SNK-3327- - Whole Grain Touch of Honey,pcs,0,5,0,2022-06-01,Uncategorized,[],{}
+OBJ1802,SNK-3332-,SNK-3332- - Salted Triangle Corn Tortilla,pcs,0,5,0,2022-06-01,Uncategorized,[],{}
+OBJ1803,SNK-3349-,SNK-3349- - Crunch Mania Bite-Size French,pcs,0,3,0,2022-09-01,Uncategorized,[],{}
+OBJ1804,SNK-3359-,SNK-3359- - Organic Carrot Mini-Wafers - For,pcs,0,10,0,2022-10-01,Uncategorized,[],{}
+OBJ1805,SNK-3361-,SNK-3361- - Little Crunchies Baker Grain Baby,pcs,0,10,0,2022-12-01,Uncategorized,[],{}
+OBJ1806,SNK-3362-,SNK-3362- - Strawberry Yogurt Blends Baby,pcs,0,10,0,2022-11-01,Uncategorized,[],{}
+OBJ1807,SNK-3367-,SNK-3367- - Seaweed Snacks w/Sea Salt,pcs,0,6,0,2022-11-01,Uncategorized,[],{}
+OBJ1808,SNK-3369-,SNK-3369- - Tostadas,pcs,0,5,0,2022-12-01,Uncategorized,[],{}
+OBJ1809,SNK-3380-,SNK-3380- - Duoz Bacon And Cheddar,pcs,0,5,0,2023-01-01,Uncategorized,[],{}
+OBJ1810,SNK-3382-,SNK-3382- - Original Peanut Butter Puffs,pcs,0,1,0,2023-02-01,Uncategorized,[],{}
+OBJ1811,SNK-3384-,"SNK-3384- - Granola Bars, Chewy Honey,",pcs,0,3,0,2023-05-01,Uncategorized,[],{}
+OBJ1812,SNK-3392-,SNK-3392- - Honey Roasted Granola,pcs,0,5,0,2023-04-01,Uncategorized,[],{}
+OBJ1813,SNK-3402-,SNK-3402- - Peanut Butter Chocolate Chip,pcs,0,5,0,2023-06-01,Uncategorized,[],{}
+OBJ1814,SNK-3406-,SNK-3406- - Peanut Butter Chocolate Chip,pcs,0,4,0,2023-06-01,Uncategorized,[],{}
+OBJ1815,SNK-3409-,SNK-3409- - Fiber One Birthday Cake Bars,pcs,0,5,0,2023-09-01,Uncategorized,[],{}
+OBJ1816,SNK-3417-,SNK-3417- - Nutri Grain Blueberry Breakfast,pcs,0,10,0,2023-08-01,Uncategorized,[],{}
+OBJ1817,SNK-3418-,SNK-3418- - Frosted Pop-Tart Bites -,pcs,0,10,0,2023-08-01,Uncategorized,[],{}
+OBJ1818,SNK-3430-,SNK-3430- - Trix Instant Oatmeal,pcs,0,10,0,2023-11-01,Uncategorized,[],{}
+OBJ1819,SNK-3431-,SNK-3431- - Assorted Sweet And Salty,pcs,0,5,0,2023-07-01,Uncategorized,[],{}
+OBJ1820,SNK-3440-,SNK-3440- - Strawberry Nutrigrain Bars,pcs,0,10,0,2023-09-01,Uncategorized,[],{}
+OBJ1821,SNK-3443-,SNK-3443- - Soylent Complete Energy,pcs,0,4,0,2023-09-01,Uncategorized,[],{}
+OBJ1822,SNK-3445-,SNK-3445- - Soylent Sampler Variety Pack,pcs,0,3,0,2023-08-01,Uncategorized,[],{}
+OBJ1823,SNK-3451-,SNK-3451- - Pecans - Chopped,pcs,0,5,0,2023-09-01,Uncategorized,[],{}
+OBJ1824,SNK-3459-,SNK-3459- - Taki's Intense Nacho (Non-Spicy),pcs,0,6,0,2023-10-01,Uncategorized,[],{}
+OBJ1825,SNK-3469-,SNK-3469- - Mott's Fruit Snacks - Assorted,pcs,0,3,0,2024-02-01,Uncategorized,[],{}
+OBJ1826,SNK-3472-,SNK-3472- - Tostadas,pcs,0,5,0,2024-11-01,Uncategorized,[],{}
+OBJ1827,SNK-3474-,SNK-3474- - Mushroom Jerky - Sea Salt &,pcs,0,5,0,2024-01-01,Uncategorized,[],{}
+OBJ1828,SNK-3485-,SNK-3485- - Stroopwafel Mini-Caramel,pcs,0,4,0,2024-05-01,Uncategorized,[],{}
+OBJ1829,SNK-3487-,SNK-3487- - Takis Hero Variety Pack Tortilla,pcs,0,6,0,2024-02-01,Uncategorized,[],{}
+OBJ1830,SNK-3491-,SNK-3491- - Almond Nut Thins - Hint Of Sea,pcs,0,10,0,2024-02-01,Uncategorized,[],{}
+OBJ1831,SNK-3492-,SNK-3492- - Almond Nut Thins - Pecan (Blue,pcs,0,10,0,2024-03-01,Uncategorized,[],{}
+OBJ1832,SNK-3494-,SNK-3494- - Puffies Corn Puffs,pcs,0,10,0,2024-02-01,Uncategorized,[],{}
+OBJ1833,SNK-3498-,SNK-3498- - Maple Bacon Popcorn,pcs,0,20,0,2024-03-01,Uncategorized,[],{}
+OBJ1834,SNK-3501-,SNK-3501- - Nice Spice Popcorn,pcs,0,10,0,2024-05-01,Uncategorized,[],{}
+OBJ1835,SNK-3508-,SNK-3508- - Almond Flour Crackers With Sea,pcs,0,20,0,2024-05-01,Uncategorized,[],{}
+OBJ1836,SNK-3519-,SNK-3519- - Chex Mix Cheddar,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1837,SNK-3521-,SNK-3521- - Hummus With Breadsticks Go,pcs,0,45,0,2024-11-01,Uncategorized,[],{}
+OBJ1838,SNK-3522-,SNK-3522- - Classic Hummus,pcs,0,10,0,2024-12-01,Uncategorized,[],{}
+OBJ1839,SNK-3523-,SNK-3523- - Summer Variety Pack Popcorn,pcs,0,10,0,2024-09-01,Uncategorized,[],{}
+OBJ1840,SNK-3525-,SNK-3525- - Breadsticks - Sesame Flavor,pcs,0,5,0,2024-10-01,Uncategorized,[],{}
+OBJ1841,SNK-3526-,SNK-3526- - Soft Baked Oatmeal Squares -,pcs,0,3,0,2024-09-01,Uncategorized,[],{}
+OBJ1842,SNK-3542-,SNK-3542- - PB & J Oat Bars - Strawberry &,pcs,0,20,0,2024-11-01,Uncategorized,[],{}
+OBJ1843,SNK-3543-,SNK-3543- - Bobo's Oat Bites - Strawberry &,pcs,0,10,0,2024-10-01,Uncategorized,[],{}
+OBJ1844,SNK-3547-,SNK-3547- - Rice Krispies Marshmallow,pcs,0,5,0,2024-10-01,Uncategorized,[],{}
+OBJ1845,SNK-3549-,SNK-3549- - Puffcorn - Pancake Flavored,pcs,0,5,0,2025-02-01,Uncategorized,[],{}
+OBJ1846,SNK-3550-,SNK-3550- - Dill Pickle Sunflower Seeds,pcs,0,5,0,2024-12-01,Uncategorized,[],{}
+OBJ1847,SNK-3551-,SNK-3551- - Original Cheez-Its Crackers,pcs,0,10,0,2024-12-01,Uncategorized,[],{}
+OBJ1848,SNK-3558-,"SNK-3558- - Protein Bars, Assorted Flavors,",pcs,0,7,0,2025-02-01,Uncategorized,[],{}
+OBJ1849,SNK-3562-,SNK-3562- - Cinnamon Bun Flavor Puffcorn,pcs,0,5,0,2025-02-01,Uncategorized,[],{}
+OBJ1850,SNK-3566-,"SNK-3566- - Sunflower Seeds, Flaming Hot",pcs,0,5,0,2025-02-01,Uncategorized,[],{}
+OBJ1851,SOU-1013-,SOU-1013- - Organic Lentil Soup,pcs,0,4,0,2018-01-01,Uncategorized,[],{}
+OBJ1852,SOU-1017-,SOU-1017- - Broccoli Cheddar Soup w/,pcs,0,5,0,2019-06-01,Uncategorized,[],{}
+OBJ1853,SOU-1063-,SOU-1063- - Minestrone Soup,pcs,0,6,0,2020-11-01,Uncategorized,[],{}
+OBJ1854,SOU-1072-,SOU-1072- - Tomato Zucchini Minestrone,pcs,0,1,0,2023-01-01,Uncategorized,[],{}
+OBJ1855,SOU-1089-,"SOU-1089- - Assorted Soups, Stews, Entrees",pcs,0,3,0,2018-12-01,Uncategorized,[],{}
+OBJ1856,SOU-1089-C,"SOU-1089-C - Assorted Soups, Stews, Entrees",pcs,0,5,0,2015-12-01,Uncategorized,[],{}
+OBJ1857,SOU-1098-C,SOU-1098-C - Chicken & Rice Soup (PUR),pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ1858,SOU-1099-X,SOU-1099-X - Tomato Soup (SUB),pcs,0,2,0,2016-01-01,Uncategorized,[],{}
+OBJ1859,SOU-1118-C,SOU-1118-C - Cream of Mushroom Soup (PUR),pcs,0,2,0,2015-12-01,Uncategorized,[],{}
+OBJ1860,SOU-1119-,"SOU-1119- - Soup, Chicken Noodle, Canned,",pcs,0,5,0,2022-07-01,Uncategorized,[],{}
+OBJ1861,SOU-1120-,SOU-1120- - Tomato Soup (PUR),pcs,0,2,0,2018-02-01,Uncategorized,[],{}
+OBJ1862,SOU-1163-,"SOU-1163- - Soup, Tomato, Canned, Low",pcs,0,9,0,2023-09-01,Uncategorized,[],{}
+OBJ1863,SOU-1174-,SOU-1174- - Cream of Chicken Soup (FEMA),pcs,0,2,0,2020-12-01,Uncategorized,[],{}
+OBJ1864,SOU-1208-,SOU-1208- - Tomato Soup (SUB),pcs,0,8,0,2019-11-01,Uncategorized,[],{}
+OBJ1865,SOU-1215-,SOU-1215- - Beef & Barley Soup (FEMA),pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1866,SOU-1216-,SOU-1216- - Sirloin Burger Soup (SUB),pcs,0,6,0,2018-02-01,Uncategorized,[],{}
+OBJ1867,SOU-1219-,SOU-1219- - Chicken and Rice Soup (PUR),pcs,0,3,0,2018-11-01,Uncategorized,[],{}
+OBJ1868,SOU-1221-,"SOU-1221- - Soup, Vegetable, (USDA)",pcs,0,5,0,2024-03-01,Uncategorized,[],{}
+OBJ1869,SOU-1222-,SOU-1222- - Tomato Soup (USDA),pcs,0,6,0,2023-04-01,Uncategorized,[],{}
+OBJ1870,SOU-1223-,SOU-1223- - Cream of Chicken Soup (USDA),pcs,0,5,0,2022-05-01,Uncategorized,[],{}
+OBJ1871,SOU-1224-,SOU-1224- - Cream of Mushroom Soup,pcs,0,1,0,2018-01-01,Uncategorized,[],{}
+OBJ1872,SOU-1226-,SOU-1226- - Vegetable Soup (PUR),pcs,0,1,0,2019-11-01,Uncategorized,[],{}
+OBJ1873,SOU-1227-,SOU-1227- - Cream of Mushroom Soup (PUR),pcs,0,2,0,2019-04-01,Uncategorized,[],{}
+OBJ1874,SOU-1229-,SOU-1229- - Chicken & Rice Soup (FEMA),pcs,0,1,0,2018-06-01,Uncategorized,[],{}
+OBJ1875,SOU-1230-,SOU-1230- - Cream of Mushroom Soup,pcs,0,2,0,2018-03-01,Uncategorized,[],{}
+OBJ1876,SOU-1231-,SOU-1231- - Chicken Broth (FEMA),pcs,0,2,0,2018-09-01,Uncategorized,[],{}
+OBJ1877,SOU-1232-,SOU-1232- - Beef Flavored Ramen Noodles,pcs,0,10,0,2017-12-01,Uncategorized,[],{}
+OBJ1878,SOU-1235-,SOU-1235- - Soy Sauce Flavored Ramen,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1879,SOU-1236-,SOU-1236- - Beef Flavored Ramen Noodles,pcs,0,10,0,2017-11-01,Uncategorized,[],{}
+OBJ1880,SOU-1239-,SOU-1239- - Chicken Broth,pcs,0,4,0,2018-04-01,Uncategorized,[],{}
+OBJ1881,SOU-1241-,SOU-1241- - Ramen Noodle Soup w/Shrimp,pcs,0,8,0,2018-04-01,Uncategorized,[],{}
+OBJ1882,SOU-1243-,SOU-1243- - Chicken Noodle Soup,pcs,0,3,0,2018-06-01,Uncategorized,[],{}
+OBJ1883,SOU-1245-,SOU-1245- - Vegetable Broth,pcs,0,2,0,2018-06-01,Uncategorized,[],{}
+OBJ1884,SOU-1246-,SOU-1246- - Vegetable Broth (FEMA),pcs,0,2,0,2019-04-01,Uncategorized,[],{}
+OBJ1885,SOU-1247-,SOU-1247- - Chicken Noodle Soup (PUR),pcs,0,2,0,2020-01-01,Uncategorized,[],{}
+OBJ1886,SOU-1252-,SOU-1252- - Vegetable Beef Soup (PUR),pcs,0,3,0,2020-01-01,Uncategorized,[],{}
+OBJ1887,SOU-1258-,SOU-1258- - Chicken Flavor Bouillon,pcs,0,5,0,2019-10-01,Uncategorized,[],{}
+OBJ1888,SOU-1259-,SOU-1259- - Tomato Soup (PUR),pcs,0,9,0,2021-11-01,Uncategorized,[],{}
+OBJ1889,SOU-1261-,SOU-1261- - Cream of Mushroom Soup,pcs,0,9,0,2022-03-01,Uncategorized,[],{}
+OBJ1890,SOU-1262-,SOU-1262- - Cream of Chicken Soup (PUR),pcs,0,2,0,2020-07-01,Uncategorized,[],{}
+OBJ1891,SOU-1263-,SOU-1263- - Cream of Celery Soup (PUR),pcs,0,2,0,2020-06-01,Uncategorized,[],{}
+OBJ1892,SOU-1264-,SOU-1264- - Chicken Noodle Soup (PUR),pcs,0,3,0,2021-07-01,Uncategorized,[],{}
+OBJ1893,SOU-1265-,SOU-1265- - Tomato Soup (PUR),pcs,0,6,0,2020-09-01,Uncategorized,[],{}
+OBJ1894,SOU-1266-,SOU-1266- - Vegetarian Vegetable Soup,pcs,0,6,0,2021-11-01,Uncategorized,[],{}
+OBJ1895,SOU-1267-,SOU-1267- - Chicken & Rice Soup (PUR),pcs,0,3,0,2020-09-01,Uncategorized,[],{}
+OBJ1896,SOU-1275-,SOU-1275- - Chicken & Noodles Soup,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1897,SOU-1278-,"SOU-1278- - Soup, Cream of Mushroom,",pcs,0,8,0,2025-02-01,Uncategorized,[],{}
+OBJ1898,SOU-1279-,SOU-1279- - Condensed Tomato Soup (PUR),pcs,0,5,0,2021-06-01,Uncategorized,[],{}
+OBJ1899,SOU-1280-,SOU-1280- - Minestrone Soup (FEMA),pcs,0,6,0,2021-04-01,Uncategorized,[],{}
+OBJ1900,SOU-1281-,SOU-1281- - Vegetable Broth (FEMA),pcs,0,3,0,2021-05-01,Uncategorized,[],{}
+OBJ1901,SOU-1282-,SOU-1282- - Vegetable Beef Soup (FEMA),pcs,0,4,0,2021-12-01,Uncategorized,[],{}
+OBJ1902,SOU-1283-,"SOU-1283- - Soup, Tomato, Low Sodium,",pcs,0,20,0,2024-12-01,Uncategorized,[],{}
+OBJ1903,SOU-1291-,SOU-1291- - Cream of Chicken Soup (PUR),pcs,0,2,0,2022-03-01,Uncategorized,[],{}
+OBJ1904,SOU-1296-,"SOU-1296- - Soup, Chicken Noodle, Low",pcs,0,11,0,2024-11-01,Uncategorized,[],{}
+OBJ1905,SOU-1297-,"SOU-1297- - Soup, Cream of Chicken, (USDA)",pcs,0,8,0,2025-02-01,Uncategorized,[],{}
+OBJ1906,SOU-1299-,SOU-1299- - Spiced Chickpea w/ Spinach &,pcs,0,5,0,2022-10-01,Uncategorized,[],{}
+OBJ1907,SOU-1305-,SOU-1305- - Sweet And Sour Sauce With,pcs,0,5,0,2023-04-01,Uncategorized,[],{}
+OBJ1908,SOU-1309-,SOU-1309- - Campbells Tomato Soup -,pcs,0,6,0,2024-01-01,Uncategorized,[],{}
+OBJ1909,SOU-1310-,"SOU-1310- - Soup, Tomato, Canned, Low",pcs,0,10,0,2024-05-01,Uncategorized,[],{}
+OBJ1910,SOU-1313-,SOU-1313- - Tomato Bouillon - Chicken Flavor,pcs,0,10,0,2024-04-01,Uncategorized,[],{}
+OBJ1911,SPI-1002-R,SPI-1002-R - Dry Basil,pcs,0,7,0,2025-02-01,Uncategorized,[],{}
+OBJ1912,SPI-1187-,SPI-1187- - Heinz Picnic Pack Condiments,pcs,0,3,0,2019-07-01,Uncategorized,[],{}
+OBJ1913,SPI-1190-,SPI-1190- - Meatloaf Seasoning Mix,pcs,0,5,0,2017-10-01,Uncategorized,[],{}
+OBJ1914,SPI-1194-,SPI-1194- - Yellow Mustard (RP),pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ1915,SPI-1203-,SPI-1203- - Kick'n Chicken Seasoning,pcs,0,1,0,2018-11-01,Uncategorized,[],{}
+OBJ1916,SPI-1206-,SPI-1206- - Seasoning Pepper,pcs,0,4,0,2019-01-01,Uncategorized,[],{}
+OBJ1917,SPI-1208-,SPI-1208- - Asian Garlic Seasoning Wrap,pcs,0,4,0,2019-01-01,Uncategorized,[],{}
+OBJ1918,SPI-1209-,SPI-1209- - Roasted Tomato Herb Seasoning,pcs,0,4,0,2019-02-01,Uncategorized,[],{}
+OBJ1919,SPI-1213-,SPI-1213- - Distilled White Vinegar,pcs,0,5,0,2019-09-01,Uncategorized,[],{}
+OBJ1920,SPI-1222-,SPI-1222- - Plain Salt,pcs,0,2,0,2020-06-01,Uncategorized,[],{}
+OBJ1921,SPI-1227-,SPI-1227- - Salt & Pepper (PUR),pcs,0,5,0,2021-05-01,Uncategorized,[],{}
+OBJ1922,SPI-1228-,SPI-1228- - Cane Sugar (PUR),pcs,0,10,0,2021-04-01,Uncategorized,[],{}
+OBJ1923,SPI-1230-,"SPI-1230- - Salt & Pepper, (PUR)",pcs,0,2,0,2022-09-01,Uncategorized,[],{}
+OBJ1924,SPI-1231-,"SPI-1231- - Sugar, Granulated, (PUR)",pcs,0,10,0,2022-08-01,Uncategorized,[],{}
+OBJ1925,SPI-1232-,"SPI-1232- - Tomato Ketchup, (PUR)",pcs,0,6,0,2023-09-01,Uncategorized,[],{}
+OBJ1926,SPI-1241-,SPI-1241- - Classic Yellow Mustard,pcs,0,10,0,2022-05-01,Uncategorized,[],{}
+OBJ1927,SPI-1248-,SPI-1248- - Kabul Piquant Chicken Spice,pcs,0,2,0,2022-08-01,Uncategorized,[],{}
+OBJ1928,SPI-1250-,SPI-1250- - Ketchup Packets,pcs,0,10,0,2025-02-01,Uncategorized,[],{}
+OBJ1929,SPI-1251-,SPI-1251- - Tomato Ketchup,pcs,0,5,0,2022-09-01,Uncategorized,[],{}
+OBJ1930,SPI-1255-,SPI-1255- - Plant Based Chili Pouch,pcs,0,2,0,2023-04-01,Uncategorized,[],{}
+OBJ1931,SPI-1256-,SPI-1256- - Hearty Chili Ground Veggie,pcs,0,6,0,2023-05-01,Uncategorized,[],{}
+OBJ1932,SPI-1264-,SPI-1264- - Dry Basil,pcs,0,10,0,2024-11-01,Uncategorized,[],{}
+OBJ1933,SPI-1268-,SPI-1268- - Neon Food Colors & Egg Dye,pcs,0,6,0,2023-10-01,Uncategorized,[],{}
+OBJ1934,SPI-1274-,SPI-1274- - Kickin' Chili-Style Mustard,pcs,0,5,0,2023-10-01,Uncategorized,[],{}
+OBJ1935,SPI-1280-,SPI-1280- - Santa Fe Scorpion Blend,pcs,0,3,0,2024-02-01,Uncategorized,[],{}
+OBJ1936,SPI-1282-,SPI-1282- - Everything Butt Pork Carnitas,pcs,0,10,0,2024-03-01,Uncategorized,[],{}
+OBJ1937,SPI-1285-,SPI-1285- - Nashville Hot Chicken,pcs,0,5,0,2024-04-01,Uncategorized,[],{}
+OBJ1938,SPI-1295-,SPI-1295- - Chili Lime Seasoning,pcs,0,10,0,2024-04-01,Uncategorized,[],{}
+OBJ1939,SPI-1302-,SPI-1302- - Sazon Seasoning With Tenderizer,pcs,0,20,0,2024-04-01,Uncategorized,[],{}
+OBJ1940,SPI-1305-,SPI-1305- - Pumpkin Spice Extract,pcs,0,5,0,2024-08-01,Uncategorized,[],{}
+OBJ1941,SPR-1000-,SPR-1000- - Almond Butter,pcs,0,2,0,2018-11-01,Uncategorized,[],{}
+OBJ1942,SPR-1001-,SPR-1001- - Almond Butter,pcs,0,6,0,2019-07-01,Uncategorized,[],{}
+OBJ1943,SPR-1020-,"SPR-1020- - Jelly, Grape, (PUR) (Squeeze",pcs,0,7,0,2023-12-01,Uncategorized,[],{}
+OBJ1944,SPR-1020-D,SPR-1020-D - Grape Jelly (PUR) 12/19OZ,pcs,0,5,0,2017-05-01,Uncategorized,[],{}
+OBJ1945,SPR-1055-,SPR-1055- - Grape Jelly (PUR),pcs,0,14,0,2021-02-01,Uncategorized,[],{}
+OBJ1946,SPR-1055-C,SPR-1055-C - Grape Jelly (PUR),pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ1947,SPR-1100-,SPR-1100- - Red Plum Jelly (PUR),pcs,0,5,0,2017-07-01,Uncategorized,[],{}
+OBJ1948,SPR-1100-C,SPR-1100-C - Red Plum Jelly (PUR),pcs,0,1,0,2016-01-01,Uncategorized,[],{}
+OBJ1949,SPR-1101-,"SPR-1101- - Jelly, Strawberry, (PUR)",pcs,0,4,0,2025-02-01,Uncategorized,[],{}
+OBJ1950,SPR-1104-,SPR-1104- - Grape Jelly (FEMA),pcs,0,4,0,2019-08-01,Uncategorized,[],{}
+OBJ1951,SPR-1105-,"SPR-1105- - Jelly, Grape, (PUR)",pcs,0,5,0,2024-08-01,Uncategorized,[],{}
+OBJ1952,SPR-1109-,"SPR-1109- - Jelly, Strawberry, (PUR)",pcs,0,4,0,2025-02-01,Uncategorized,[],{}
+OBJ1953,SPR-1112-,SPR-1112- - Strawberry Preserves (PUR),pcs,0,20,0,2020-09-01,Uncategorized,[],{}
+OBJ1954,SPR-1114-,SPR-1114- - Grape Jelly (PUR),pcs,0,8,0,2019-12-01,Uncategorized,[],{}
+OBJ1955,SPR-1115-,SPR-1115- - Strawberry Jelly (PUR),pcs,0,10,0,2020-07-01,Uncategorized,[],{}
+OBJ1956,SPR-1120-,SPR-1120- - Strawberry Preserves (PUR),pcs,0,14,0,2020-12-01,Uncategorized,[],{}
+OBJ1957,SPR-1121-,SPR-1121- - Grape Jelly (PUR),pcs,0,6,0,2022-04-01,Uncategorized,[],{}
+OBJ1958,SPR-1122-,SPR-1122- - Raspberry Preserves (FEMA),pcs,0,13,0,2022-01-01,Uncategorized,[],{}
+OBJ1959,SPR-1123-,"SPR-1123- - Jelly, Strawberry, Reduced Sugar,",pcs,0,5,0,2022-12-01,Uncategorized,[],{}
+OBJ1960,SPR-1129-,SPR-1129- - Macadamia And Honey Nut,pcs,0,5,0,2024-03-01,Uncategorized,[],{}
+OBJ1961,VEG-0130-,"VEG-0130- - Potatoes, Instant, (USDA)",pcs,0,9,0,2025-02-01,Uncategorized,[],{}
+OBJ1962,VEG-0447-,VEG-0447- - Green Beans (USDA),pcs,0,18,0,2024-10-01,Uncategorized,[],{}
+OBJ1963,VEG-1019-,VEG-1019- - Asst. Vegetables Canned and,pcs,0,3,0,2019-01-01,Uncategorized,[],{}
+OBJ1964,VEG-1234-,VEG-1234- - Green Beans (PUR),pcs,0,5,0,2020-09-01,Uncategorized,[],{}
+OBJ1965,VEG-1243-,VEG-1243- - Short Cut Green Beans (PUR),pcs,0,3,0,2020-09-01,Uncategorized,[],{}
+OBJ1966,VEG-1243-C,VEG-1243-C - Short Cut Green Beans (PUR),pcs,0,2,0,2015-12-01,Uncategorized,[],{}
+OBJ1967,VEG-1247-,VEG-1247- - Cream Style Corn (PUR),pcs,0,3,0,2020-09-01,Uncategorized,[],{}
+OBJ1968,VEG-1272-,VEG-1272- - Mixed Vegetables (FEMA),pcs,0,4,0,2019-10-01,Uncategorized,[],{}
+OBJ1969,VEG-1328-,VEG-1328- - Low Sodium Mixed Vegetables,pcs,0,2,0,2018-03-01,Uncategorized,[],{}
+OBJ1970,VEG-1328-C,VEG-1328-C - Low Sodium Mixed Vegetables,pcs,0,2,0,2015-12-01,Uncategorized,[],{}
+OBJ1971,VEG-1346-,"VEG-1346- - Sweet Peas, No Salt Added,",pcs,0,7,0,2024-08-01,Uncategorized,[],{}
+OBJ1972,VEG-1346-D,VEG-1346-D - Sweet Peas - No Salt Added (PUR),pcs,0,4,0,2017-05-01,Uncategorized,[],{}
+OBJ1973,VEG-1364-,VEG-1364- - Frozen Corn (USDA),pcs,0,5,0,2023-11-01,Uncategorized,[],{}
+OBJ1974,VEG-1366-,VEG-1366- - Fat Free Potato Wedges (USDA),pcs,0,6,0,2021-01-01,Uncategorized,[],{}
+OBJ1975,VEG-1367-,VEG-1367- - Oven Fried Potatoes (USDA),pcs,0,5,0,2021-02-01,Uncategorized,[],{}
+OBJ1976,VEG-1369-,"VEG-1369- - Asparagus, Frozen, (USDA)",pcs,0,4,0,2024-11-01,Uncategorized,[],{}
+OBJ1977,VEG-1374-,VEG-1374- - Diced Frozen Carrots (USDA),pcs,0,5,0,2022-11-01,Uncategorized,[],{}
+OBJ1978,VEG-1377-,VEG-1377- - Frozen Green Peas (USDA),pcs,0,3,0,2022-09-01,Uncategorized,[],{}
+OBJ1979,VEG-1384-,VEG-1384- - Sweet Peas (SUB)(RP),pcs,0,1,0,2019-10-01,Uncategorized,[],{}
+OBJ1980,VEG-1392-,"VEG-1392- - Corn, Whole Kernel, Canned,",pcs,0,2,0,2022-07-01,Uncategorized,[],{}
+OBJ1981,VEG-1393-,VEG-1393- - Low Sodium Peas (FEMA),pcs,0,1,0,2019-09-01,Uncategorized,[],{}
+OBJ1982,VEG-1423-,VEG-1423- - Cream Style Corn (PUR),pcs,0,1,0,2018-11-01,Uncategorized,[],{}
+OBJ1983,VEG-1423-C,VEG-1423-C - Cream Style Corn (PUR),pcs,0,2,0,2015-12-01,Uncategorized,[],{}
+OBJ1984,VEG-1424-,VEG-1424- - Mixed Vegetables (PUR),pcs,0,5,0,2020-08-01,Uncategorized,[],{}
+OBJ1985,VEG-1424-D,VEG-1424-D - Mixed Vegetables (PUR) (K),pcs,0,4,0,2017-05-01,Uncategorized,[],{}
+OBJ1986,VEG-1465-,VEG-1465- - Sweet Peas (PUR),pcs,0,2,0,2019-08-01,Uncategorized,[],{}
+OBJ1987,VEG-1492-,"VEG-1492- - Corn, Whole Kernel, Canned, No",pcs,0,9,0,2024-05-01,Uncategorized,[],{}
+OBJ1988,VEG-1520-,VEG-1520- - Sweet Potatoes (HOLIDAY),pcs,0,42,0,2020-12-01,Uncategorized,[],{}
+OBJ1989,VEG-1535-,VEG-1535- - Whole Kernel Corn (SUB),pcs,0,1,0,2019-08-01,Uncategorized,[],{}
+OBJ1990,VEG-1541-,"VEG-1541- - Corn, Whole Kernel, Canned,",pcs,0,14,0,2025-02-01,Uncategorized,[],{}
+OBJ1991,VEG-1555-,VEG-1555- - Cream Style Corn (FEMA),pcs,0,2,0,2019-04-01,Uncategorized,[],{}
+OBJ1992,VEG-1559-,VEG-1559- - Cut Green Beans (SUB),pcs,0,4,0,2019-08-01,Uncategorized,[],{}
+OBJ1993,VEG-1574-,"VEG-1574- - Mixed Green Beans, No Salt",pcs,0,10,0,2023-02-01,Uncategorized,[],{}
+OBJ1994,VEG-1574-D,VEG-1574-D - Mixed Green Beans (PUR) No Salt,pcs,0,6,0,2017-05-01,Uncategorized,[],{}
+OBJ1995,VEG-1579-,VEG-1579- - Yams (SUB),pcs,0,1,0,2019-04-01,Uncategorized,[],{}
+OBJ1996,VEG-1582-,VEG-1582- - Whole Kernel Corn (SUB),pcs,0,4,0,2018-07-01,Uncategorized,[],{}
+OBJ1997,VEG-1585-,VEG-1585- - Whole Kernel Corn (FEMA),pcs,0,2,0,2019-02-01,Uncategorized,[],{}
+OBJ1998,VEG-1596-,"VEG-1596- - Corn, Whole Kernel, Canned,",pcs,0,9,0,2022-09-01,Uncategorized,[],{}
+OBJ1999,VEG-1596-D,VEG-1596-D - Whole Kernel Corn (PUR),pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ2000,VEG-1600-,"VEG-1600- - Green Beans, Mixed, Cut,",pcs,0,9,0,2024-04-01,Uncategorized,[],{}
+OBJ2001,VEG-1602-,VEG-1602- - Whole Kernel Corn (SUB)(RP),pcs,0,4,0,2017-09-01,Uncategorized,[],{}
+OBJ2002,VEG-1603-,VEG-1603- - Canned Spinach (USDA),pcs,0,5,0,2023-03-01,Uncategorized,[],{}
+OBJ2003,VEG-1606-,VEG-1606- - Cut Italian Green Beans (SUB)(RP),pcs,0,5,0,2017-07-01,Uncategorized,[],{}
+OBJ2004,VEG-1607-,VEG-1607- - Creamed Corn (PUR),pcs,0,2,0,2018-02-01,Uncategorized,[],{}
+OBJ2005,VEG-1609-,"VEG-1609- - Pumpkin, Canned, (USDA)",pcs,0,6,0,2024-12-01,Uncategorized,[],{}
+OBJ2006,VEG-1611-,VEG-1611- - Mixed Green Beans (PUR),pcs,0,1,0,2019-11-01,Uncategorized,[],{}
+OBJ2007,VEG-1612-,VEG-1612- - Sweet Peas & Carrots (FEMA),pcs,0,2,0,2018-01-01,Uncategorized,[],{}
+OBJ2008,VEG-1615-,VEG-1615- - Canned Carrots (USDA),pcs,0,3,0,2024-02-01,Uncategorized,[],{}
+OBJ2009,VEG-1616-,VEG-1616- - Cut Green Beans,pcs,0,5,0,2018-04-01,Uncategorized,[],{}
+OBJ2010,VEG-1617-,VEG-1617- - French Style Green Beans (PUR),pcs,0,2,0,2018-02-01,Uncategorized,[],{}
+OBJ2011,VEG-1618-,VEG-1618- - Italian Cut Green Beans (PUR),pcs,0,2,0,2018-06-01,Uncategorized,[],{}
+OBJ2012,VEG-1619-,VEG-1619- - Sweet Peas (PUR),pcs,0,2,0,2018-04-01,Uncategorized,[],{}
+OBJ2013,VEG-1621-,VEG-1621- - Whole Kernel Corn (PUR),pcs,0,7,0,2020-08-01,Uncategorized,[],{}
+OBJ2014,VEG-1628-,VEG-1628- - Whole Kernel Sweet Corn,pcs,0,4,0,2018-04-01,Uncategorized,[],{}
+OBJ2015,VEG-1629-,"VEG-1629- - Sweet Peas, Low Sodium,",pcs,0,2,0,2022-07-01,Uncategorized,[],{}
+OBJ2016,VEG-1631-,VEG-1631- - Whole Kernel Sweet Corn,pcs,0,2,0,2018-05-01,Uncategorized,[],{}
+OBJ2017,VEG-1632-,VEG-1632- - French Style Green Beans (PUR),pcs,0,4,0,2018-07-01,Uncategorized,[],{}
+OBJ2018,VEG-1635-,VEG-1635- - Spicy Garlic Pickles,pcs,0,3,0,2018-06-01,Uncategorized,[],{}
+OBJ2019,VEG-1636-,VEG-1636- - Whole Kernel Corn (PUR),pcs,0,4,0,2018-08-01,Uncategorized,[],{}
+OBJ2020,VEG-1637-,VEG-1637- - Whole Kernel Corn (USDA),pcs,0,6,0,2025-02-01,Uncategorized,[],{}
+OBJ2021,VEG-1640-,"VEG-1640- - Peas, Canned, (USDA)",pcs,0,6,0,2024-10-01,Uncategorized,[],{}
+OBJ2022,VEG-1641-,VEG-1641- - Mixed Vegetables (USDA),pcs,0,6,0,2024-12-01,Uncategorized,[],{}
+OBJ2023,VEG-1643-,VEG-1643- - Mixed Greens (PUR),pcs,0,1,0,2018-10-01,Uncategorized,[],{}
+OBJ2024,VEG-1645-,VEG-1645- - Canned White Sliced Potatoes,pcs,0,3,0,2020-09-01,Uncategorized,[],{}
+OBJ2025,VEG-1646-,VEG-1646- - Canned Spinach (PUR),pcs,0,2,0,2021-10-01,Uncategorized,[],{}
+OBJ2026,VEG-1656-,"VEG-1656- - Sliced Carrots, Low Sodium",pcs,0,2,0,2019-09-01,Uncategorized,[],{}
+OBJ2027,VEG-1658-,VEG-1658- - Low Sodium Spinach (PUR),pcs,0,1,0,2020-01-01,Uncategorized,[],{}
+OBJ2028,VEG-1660-,VEG-1660- - Mixed Vegetables (PUR),pcs,0,4,0,2019-12-01,Uncategorized,[],{}
+OBJ2029,VEG-1661-,VEG-1661- - Whole Kernel Corn (PUR),pcs,0,2,0,2019-12-01,Uncategorized,[],{}
+OBJ2030,VEG-1671-,VEG-1671- - Pickle Spears,pcs,0,10,0,2020-06-01,Uncategorized,[],{}
+OBJ2031,VEG-1676-,"VEG-1676- - Asparagus, Canned, (USDA)",pcs,0,5,0,2024-12-01,Uncategorized,[],{}
+OBJ2032,VEG-1677-,VEG-1677- - Mixed Vegetables,pcs,0,5,0,2020-09-01,Uncategorized,[],{}
+OBJ2033,VEG-1678-,VEG-1678- - Sweet Peas,pcs,0,4,0,2020-10-01,Uncategorized,[],{}
+OBJ2034,VEG-1679-,"VEG-1679- - Corn, Cream Style, Canned,",pcs,0,6,0,2024-11-01,Uncategorized,[],{}
+OBJ2035,VEG-1680-,VEG-1680- - Mixed Vegetables (PUR) - No Salt,pcs,0,2,0,2022-04-01,Uncategorized,[],{}
+OBJ2036,VEG-1681-,VEG-1681- - Riced Broccoli w/ Cauliflower,pcs,0,5,0,2020-10-01,Uncategorized,[],{}
+OBJ2037,VEG-1683-,VEG-1683- - Cut Wax Beans (FEMA),pcs,0,3,0,2021-07-01,Uncategorized,[],{}
+OBJ2038,VEG-1684-,VEG-1684- - Sweet Peas (PUR),pcs,0,6,0,2023-08-01,Uncategorized,[],{}
+OBJ2039,VEG-1685-,VEG-1685- - Mixed Vegetables (FEMA),pcs,0,5,0,2021-12-01,Uncategorized,[],{}
+OBJ2040,VEG-1686-,VEG-1686- - Sliced Carrots (FEMA),pcs,0,2,0,2022-03-01,Uncategorized,[],{}
+OBJ2041,VEG-1687-,VEG-1687- - Whole Kernel Corn (FEMA),pcs,0,6,0,2022-04-01,Uncategorized,[],{}
+OBJ2042,VEG-1688-,"VEG-1688- - Mixed Greens, Canned, (PUR)",pcs,0,10,0,2022-10-01,Uncategorized,[],{}
+OBJ2043,VEG-1689-,VEG-1689- - Cut Green Beans (HOLIDAY),pcs,0,26,0,2021-11-01,Uncategorized,[],{}
+OBJ2044,VEG-1690-,VEG-1690- - Chopped Spinach (PUR),pcs,0,2,0,2021-12-01,Uncategorized,[],{}
+OBJ2045,VEG-1696-,VEG-1696- - Cut Green Beans (PUR),pcs,0,2,0,2022-03-01,Uncategorized,[],{}
+OBJ2046,VEG-1700-,"VEG-1700- - Green Beans, Cut, No Salt Added,",pcs,0,14,0,2024-12-01,Uncategorized,[],{}
+OBJ2047,VEG-1712-,VEG-1712- - Sweet Potatoes in Syrup (USDA),pcs,0,4,0,2023-05-01,Uncategorized,[],{}
+OBJ2048,VEG-1718-,"VEG-1718- - Green Beans, Cut, (USDA)",pcs,0,12,0,2025-02-01,Uncategorized,[],{}
+OBJ2049,VEG-1719-,"VEG-1719- - Mixed Vegetables, Canned,",pcs,0,7,0,2025-02-01,Uncategorized,[],{}
+OBJ2050,VEG-1720-,"VEG-1720- - Collard Greens, Low Sodium,",pcs,0,5,0,2024-12-01,Uncategorized,[],{}
+OBJ2051,VEG-1721-,"VEG-1721- - Mixed Vegetables, Canned,",pcs,0,13,0,2024-05-01,Uncategorized,[],{}
+OBJ2052,VEG-1730-,"VEG-1730- - Potatoes, Diced, Canned, (USDA)",pcs,0,3,0,2024-07-01,Uncategorized,[],{}
+OBJ2053,VEG-1747-,VEG-1747- - Cream Style Sweet Corn,pcs,0,11,0,2024-11-01,Uncategorized,[],{}
+OBJ2054,VEG-1748-,VEG-1748- - Whole Kernel Corn,pcs,0,7,0,2024-11-01,Uncategorized,[],{}
+OBJ2055,WTR-1017,WTR-1017 - Bottled Water,pcs,0,20,0,2024-12-01,Uncategorized,[],{}
+OBJ2056,WTR-1074,WTR-1074 - Water (SAL),pcs,0,2,0,2018-01-01,Uncategorized,[],{}
+OBJ2057,WTR-1131,WTR-1131 - Bottled Water,pcs,0,5,0,2018-10-01,Uncategorized,[],{}
+OBJ2058,WTR-1209,WTR-1209 - Spring Water,pcs,0,5,0,2022-07-01,Uncategorized,[],{}
+OBJ2059,WTR-1228,WTR-1228 - Purified Water,pcs,0,10,0,2017-04-01,Uncategorized,[],{}
+OBJ2060,WTR-1228-D,WTR-1228-D - Purified,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ2061,WTR-1239,WTR-1239 - Purified Water,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ2062,WTR-1278,WTR-1278 - Spring Water,pcs,0,5,0,2017-12-01,Uncategorized,[],{}
+OBJ2063,WTR-1281,WTR-1281 - Pink Grapefruit Sparkling Water,pcs,0,3,0,2017-10-01,Uncategorized,[],{}
+OBJ2064,WTR-1289,WTR-1289 - Sparkling Artesian Water,pcs,0,4,0,2018-07-01,Uncategorized,[],{}
+OBJ2065,WTR-1290,WTR-1290 - Vapor Distilled Water,pcs,0,5,0,2018-11-01,Uncategorized,[],{}
+OBJ2066,WTR-1291,WTR-1291 - Coconut Water,pcs,0,0,0,N/A,Uncategorized,[],{}
+OBJ2067,WTR-1293,WTR-1293 - Natural Sparkling Mineral Water,pcs,0,4,0,2019-04-01,Uncategorized,[],{}
+OBJ2068,WTR-1294,WTR-1294 - Birch Water,pcs,0,6,0,2019-07-01,Uncategorized,[],{}
+OBJ2069,WTR-1300,WTR-1300 - Canned Water,pcs,0,17,0,2020-11-01,Uncategorized,[],{}
+OBJ2070,WTR-1306,WTR-1306 - Tonic Water,pcs,0,2,0,2020-11-01,Uncategorized,[],{}
+OBJ2071,WTR-1308,WTR-1308 - Bottled Water,pcs,0,6,0,2022-08-01,Uncategorized,[],{}
+OBJ2072,WTR-1315,WTR-1315 - Alkaline Water Purified,pcs,0,5,0,2023-11-01,Uncategorized,[],{}
+OBJ2073,WTR-1317,WTR-1317 - Purified Water,pcs,0,5,0,2024-05-01,Uncategorized,[],{}
+OBJ2074,WTR-1330,WTR-1330 - Spring Water - Gallons,pcs,0,5,0,2024-01-01,Uncategorized,[],{}
+OBJ2075,WTR-1331,WTR-1331 - Bottled Water,pcs,0,25,0,2024-03-01,Uncategorized,[],{}
+OBJ2076,WTR-1332,WTR-1332 - Black Cherry Sparkling Water,pcs,0,3,0,2024-01-01,Uncategorized,[],{}
+OBJ2077,WTR-1336,WTR-1336 - Acai Grape Flavored Water,pcs,0,20,0,2024-11-01,Uncategorized,[],{}
