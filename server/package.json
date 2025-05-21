@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon --exec ./node_modules/.bin/babel-node ./src/server.js",
-    "build": "babel -d ./build ./src -s",
+    "build": "npx babel -d ./build ./src -s",
     "lint": "eslint ."
   },
   "author": "",
