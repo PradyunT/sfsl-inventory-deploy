@@ -1,6 +1,5 @@
 import { useRef, useState, useEffect } from "react";
 import { updateQuantity, getItem } from "../api/item";
-import "../styles/Inventory.css";
 import { toast } from "react-hot-toast";
 import axios from "axios";
 
