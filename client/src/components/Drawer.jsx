@@ -5,11 +5,7 @@ import { Box, Drawer, IconButton, List, ListItem, ListItemButton, ListItemIcon, 
 import HomeIcon from "@mui/icons-material/Home";
 import SummarizeIcon from "@mui/icons-material/Summarize";
 import StorefrontIcon from "@mui/icons-material/Storefront";
-import SettingsIcon from "@mui/icons-material/Settings";
-import LogoutIcon from "@mui/icons-material/Logout";
 import MenuIcon from "@mui/icons-material/Menu";
-
-import "../../styles/Drawer.css";
 import sfsllogo from "../assets/sfsl_logo.png";
 
 const drawerWidth = 240;
