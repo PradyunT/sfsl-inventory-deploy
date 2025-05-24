@@ -14,18 +14,8 @@
     [
       "babel-plugin-module-resolver",
       {
-        "root": ["./src"], // Sets the root for these aliases to the 'src' directory
-        "alias": {
-          // When you write "import ... from 'config/..."
-          // Babel will look for it in "./src/config/..."
-          // And, importantly, it will rewrite the path in the compiled output
-          // to be relative, e.g., "./config/..." from within the build folder.
-          "config": "./config",
-          "models": "./models",
-          "routes": "./routes",
-          "controllers": "./controllers",
-          "utils": "./utils"
-        }
+        "root": ["./src"] // All 'absolute-like' imports will be relative to the 'src' directory
+        // Explicit aliases for "config", "models", "routes", "controllers", "utils" are removed.
       }
     ]
   ]
