@@ -1,16 +1,18 @@
+// server/.babelrc
 {
   "presets": [
     [
-      "env",
+      "@babel/preset-env",
       {
         "targets": {
-          "node": "current" // This tells babel-preset-env to target the current Node.js version
+          "node": "current"
         }
       }
     ]
   ],
   "plugins": [
-    "transform-optional-chaining"
-    // Add any other Babel 6 plugins you use here
+    "@babel/plugin-proposal-optional-chaining",
+    // Your other plugins like "babel-plugin-module-resolver" should be fine
+    "babel-plugin-module-resolver"
   ]
 }
