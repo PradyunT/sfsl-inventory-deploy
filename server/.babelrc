@@ -1,0 +1,16 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          "node": "current" // Or your specific target Node.js version
+        }
+      }
+    ]
+  ],
+  "plugins": [
+    "@babel/plugin-proposal-optional-chaining"
+    // other plugins...
+  ]
+}
