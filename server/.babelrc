@@ -1,16 +1,16 @@
 {
   "presets": [
     [
-      "@babel/preset-env",
+      "env",
       {
         "targets": {
-          "node": "current" // Or your specific target Node.js version
+          "node": "current" // This tells babel-preset-env to target the current Node.js version
         }
       }
     ]
   ],
   "plugins": [
-    "@babel/plugin-proposal-optional-chaining"
-    // other plugins...
+    "transform-optional-chaining"
+    // Add any other Babel 6 plugins you use here
   ]
 }
