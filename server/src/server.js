@@ -14,18 +14,30 @@ import purchaseRouter from "./routes/purchase.route.js";
 const app = express();
 const port = process.env.PORT || 8080;
 
-// Middlewares
-app.use(
-  cors({
-    origin: [process.env.CLIENT_URL],
-    optionsSuccessStatus: 200,
-    credentials: true,
-  })
-);
+// --- START: CORS Configuration ---
+const allowedOrigins = [process.env.CLIENT_URL];
 
 if (process.env.NODE_ENV === "development") {
   allowedOrigins.push("http://localhost:8080");
 }
+// --- END: CORS Configuration ---
+
+// Middlewares
+app.use(
+  cors({
+    origin: function (origin, callback) {
+      // allow requests with no origin (like mobile apps or curl requests)
+      if (!origin) return callback(null, true);
+      if (allowedOrigins.indexOf(origin) === -1) {
+        const msg = "The CORS policy for this site does not allow access from the specified Origin.";
+        return callback(new Error(msg), false);
+      }
+      return callback(null, true);
+    },
+    optionsSuccessStatus: 200,
+    credentials: true,
+  })
+);
 
 app.use(express.json());
 app.use(bodyParser.json());
