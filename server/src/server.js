@@ -23,6 +23,10 @@ app.use(
   })
 );
 
+if (process.env.NODE_ENV === "development") {
+  allowedOrigins.push("http://localhost:8080");
+}
+
 app.use(express.json());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
