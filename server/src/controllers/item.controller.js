@@ -124,6 +124,173 @@ export const reduceQuantities = async (req, res) => {
   res.status(200).json({ updatedItems });
 };
 
+// PUT /item/order-alt - Reduce all items in input by the quantity of that item ordered and allow partial updating
+export const reduceQuantitiesPartial = async (req, res) => {
+  const { orderList } = req.body;
+
+  // Validate input: orderList must be an array
+  if (!Array.isArray(orderList)) {
+    return res.status(400).json({ error: "Invalid input: orderList must be an array." });
+  }
+
+  // Validate input: orderList should not be empty (optional, but good practice)
+  if (orderList.length === 0) {
+    return res.status(400).json({ error: "Invalid input: orderList cannot be empty." });
+  }
+
+  const processedItems = []; // To store results of successfully processed items (full or partial)
+  const itemErrors = []; // To store errors for specific items
+
+  // Process each item in the orderList sequentially
+  for (const orderItem of orderList) {
+    const { id, orderQuantity } = orderItem;
+
+    // Validate individual order item structure
+    if (!id || typeof orderQuantity !== "number") {
+      itemErrors.push({
+        id: id || "unknown_id",
+        requestedQuantity: orderQuantity,
+        error: "Invalid order item format. Each item must have an 'id' and a numeric 'orderQuantity'.",
+      });
+      continue; // Skip to the next item
+    }
+
+    // Validate orderQuantity: must be positive
+    if (orderQuantity <= 0) {
+      itemErrors.push({
+        id,
+        requestedQuantity: orderQuantity,
+        error: "Order quantity must be greater than 0.",
+      });
+      continue; // Skip to the next item
+    }
+
+    // Fetch the item from the database
+    const [fetchError, item] = await to(Item.findById(id).lean());
+
+    if (fetchError) {
+      console.error(`Database error fetching item ${id}:`, fetchError);
+      itemErrors.push({
+        id,
+        requestedQuantity: orderQuantity,
+        error: "Failed to retrieve item due to a server error.",
+      });
+      continue; // Skip to the next item
+    }
+
+    if (!item) {
+      itemErrors.push({
+        id,
+        requestedQuantity: orderQuantity,
+        error: "Item not found.",
+      });
+      continue; // Skip to the next item
+    }
+
+    const currentDBQuantity = item.currentQuantity;
+    let actualReducedQuantity = 0;
+    let statusMessage = "";
+    let operationStatus = "";
+
+    if (currentDBQuantity <= 0) {
+      // Item is already out of stock (or has non-positive quantity)
+      actualReducedQuantity = 0;
+      operationStatus = "out_of_stock";
+      statusMessage = "Item is out of stock. No quantity reduced.";
+      processedItems.push({
+        id,
+        requestedQuantity: orderQuantity,
+        reducedBy: actualReducedQuantity,
+        newQuantity: currentDBQuantity, // current quantity (0 or less)
+        status: operationStatus,
+        message: statusMessage,
+      });
+      continue; // Skip to the next item
+    }
+
+    // Determine the actual quantity to reduce
+    actualReducedQuantity = Math.min(currentDBQuantity, orderQuantity);
+
+    // Perform the database update
+    const [updateError, updatedItem] = await to(
+      Item.findByIdAndUpdate(
+        id,
+        { $inc: { currentQuantity: -1 * actualReducedQuantity } },
+        { new: true } // Return the modified document
+      ).lean()
+    );
+
+    if (updateError) {
+      console.error(`Database error updating item ${id}:`, updateError);
+      itemErrors.push({
+        id,
+        requestedQuantity: orderQuantity,
+        reducedByAttempt: actualReducedQuantity,
+        error: "Failed to update item quantity due to a server error.",
+        // detail: updateError.message
+      });
+      continue; // Skip to the next item
+    }
+
+    if (!updatedItem) {
+      // This case might occur if the item was deleted between fetch and update
+      console.error(`Failed to update item ${id}: item might have been deleted concurrently.`);
+      itemErrors.push({
+        id,
+        requestedQuantity: orderQuantity,
+        reducedByAttempt: actualReducedQuantity,
+        error: "Item found but failed to update (it may have been deleted concurrently).",
+      });
+      continue;
+    }
+
+    // Determine status and message based on whether reduction was partial or full
+    if (orderQuantity > currentDBQuantity) {
+      operationStatus = "partially_reduced_due_to_stock";
+      statusMessage = `Requested ${orderQuantity}, but only ${actualReducedQuantity} could be reduced due to insufficient stock. New quantity: ${updatedItem.currentQuantity}.`;
+    } else {
+      operationStatus = "fully_reduced";
+      statusMessage = `Successfully reduced quantity by ${actualReducedQuantity}. New quantity: ${updatedItem.currentQuantity}.`;
+    }
+
+    processedItems.push({
+      id,
+      requestedQuantity: orderQuantity,
+      reducedBy: actualReducedQuantity,
+      newQuantity: updatedItem.currentQuantity,
+      status: operationStatus,
+      message: statusMessage,
+    });
+  }
+
+  // Determine overall HTTP status code for the response
+  if (processedItems.length === 0 && itemErrors.length > 0 && itemErrors.length === orderList.length) {
+    // All items resulted in errors, no successful operations
+    const hasServerError = itemErrors.some((err) => err.error.includes("server error"));
+    if (hasServerError) {
+      return res.status(500).json({
+        message: "Server errors occurred while processing the order. No items were updated.",
+        itemErrors,
+      });
+    } else {
+      // If no server errors, assume client-side issues (not found, bad input)
+      return res.status(400).json({
+        message: "Could not process any items in the order due to client-side errors or items not found.",
+        itemErrors,
+      });
+    }
+  }
+
+  // If we reach here, some items might have been processed, or a mix of success/failure.
+  // A 200 OK with a detailed body is generally good.
+  // A 207 (Multi-Status) could also be used if there's a mix, but 200 is common.
+  return res.status(200).json({
+    message: "Order processing attempt complete. Review details for each item.",
+    processedItems,
+    itemErrors,
+  });
+};
+
 export const deleteAll = async (req, res) => {
   try {
     await Item.deleteMany({});

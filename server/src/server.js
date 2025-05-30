@@ -14,13 +14,8 @@ import purchaseRouter from "./routes/purchase.route.js";
 const app = express();
 const port = process.env.PORT || 8080;
 
-// --- START: CORS Configuration ---
+// CORS configuration
 const allowedOrigins = [process.env.CLIENT_URL];
-
-if (process.env.NODE_ENV === "development") {
-  allowedOrigins.push("http://localhost:8080");
-}
-// --- END: CORS Configuration ---
 
 // Middlewares
 app.use(

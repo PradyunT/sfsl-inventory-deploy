@@ -1,4 +1,4 @@
-import { Router } from 'express'
+import { Router } from "express";
 import {
   createItem,
   deleteItem,
@@ -8,19 +8,21 @@ import {
   reduceQuantities,
   updateItem,
   updateCategory,
-  deleteAll
-} from 'controllers/item.controller'
+  deleteAll,
+  reduceQuantitiesPartial,
+} from "controllers/item.controller";
 
-const itemRouter = Router()
+const itemRouter = Router();
 
-itemRouter.get('/', getItems)
-itemRouter.get('/available', getAvailableItems)
-itemRouter.get('/:id', getItem)
-itemRouter.post('/', createItem)
-itemRouter.delete('/deleteall', deleteAll)
-itemRouter.delete('/:id', deleteItem)
-itemRouter.put('/category/:id', updateCategory)
-itemRouter.put('/order', reduceQuantities)
-itemRouter.patch('/:id', updateItem)
+itemRouter.get("/", getItems);
+itemRouter.get("/available", getAvailableItems);
+itemRouter.get("/:id", getItem);
+itemRouter.post("/", createItem);
+itemRouter.delete("/deleteall", deleteAll);
+itemRouter.delete("/:id", deleteItem);
+itemRouter.put("/category/:id", updateCategory);
+itemRouter.put("/order", reduceQuantities);
+itemRouter.put("/order-alt", reduceQuantitiesPartial);
+itemRouter.patch("/:id", updateItem);
 
-export default itemRouter
+export default itemRouter;
