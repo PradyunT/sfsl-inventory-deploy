@@ -15,7 +15,7 @@ const app = express();
 const port = process.env.PORT || 8080;
 
 // CORS configuration
-const allowedOrigins = [process.env.CLIENT_URL];
+const allowedOrigins = [process.env.CLIENT_URL, process.env.DELIVERY_URL];
 
 // Middlewares
 app.use(
