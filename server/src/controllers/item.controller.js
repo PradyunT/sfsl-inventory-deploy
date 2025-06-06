@@ -291,6 +291,72 @@ export const reduceQuantitiesPartial = async (req, res) => {
   });
 };
 
+// PUT /item/restock - Restock items by the given quantity
+export const restockItems = async (req, res) => {
+  const { restockList } = req.body;
+
+  // Validate that restockList is a non-empty array
+  if (!Array.isArray(restockList) || restockList.length === 0) {
+    return res.status(400).json({ error: "Invalid input: restockList must be a non-empty array." });
+  }
+
+  const validatedItems = [];
+
+  // First loop: Validate all inputs before making any database changes
+  for (const item of restockList) {
+    const { id, restockQuantity } = item;
+
+    // Ensure item has an id and a numeric, positive restockQuantity
+    if (!id || typeof restockQuantity !== "number" || restockQuantity <= 0) {
+      return res.status(400).json({
+        error: "Invalid item format. Each item must have an 'id' and a positive 'restockQuantity'.",
+      });
+    }
+
+    // Check if the item exists in the database
+    const [error, foundItem] = await to(Item.findById(id).lean());
+    if (error) {
+      return res.status(500).send({ error: "A server error occurred while validating items." });
+    }
+    if (!foundItem) {
+      return res.status(404).send({ error: `Item with ID ${id} not found.` });
+    }
+
+    validatedItems.push({ id, restockQuantity });
+  }
+
+  const updatedItems = [];
+  const restockTime = new Date();
+
+  // Second loop: Perform the database updates
+  for (const item of validatedItems) {
+    const { id, restockQuantity } = item;
+
+    const [error, updatedItem] = await to(
+      Item.findByIdAndUpdate(
+        id,
+        {
+          $inc: { currentQuantity: restockQuantity },
+          lastRestockQuantity: restockQuantity,
+          lastRestockDate: restockTime,
+        },
+        { new: true } // Return the updated document
+      ).lean()
+    );
+
+    // This error is unlikely if validation passed, but is included for safety
+    if (error) {
+      return res
+        .status(500)
+        .send({ error: "An error occurred during the update process. Some items may not have been updated." });
+    }
+    updatedItems.push(updatedItem);
+  }
+
+  // Send successful response with the list of updated items
+  res.status(200).json({ updatedItems });
+};
+
 export const deleteAll = async (req, res) => {
   try {
     await Item.deleteMany({});

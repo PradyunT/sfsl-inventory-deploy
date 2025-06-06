@@ -10,6 +10,7 @@ import {
   updateCategory,
   deleteAll,
   reduceQuantitiesPartial,
+  restockItems,
 } from "controllers/item.controller";
 
 const itemRouter = Router();
@@ -23,6 +24,7 @@ itemRouter.delete("/:id", deleteItem);
 itemRouter.put("/category/:id", updateCategory);
 itemRouter.put("/order", reduceQuantities);
 itemRouter.put("/order-alt", reduceQuantitiesPartial);
+itemRouter.put("/restock", restockItems);
 itemRouter.patch("/:id", updateItem);
 
 export default itemRouter;
